@@ -186,7 +186,7 @@ A DAOP compartilha fatores com a aterosclerose em geral:
 3. **[[Doppler|USG com Doppler]] arterial** — primeira imagem; localiza e quantifica estenoses
 4. **Imagem angiográfica** (reservada para casos cirúrgicos):
 	- **[[Angiotomografia Computadorizada]]** (Angio-TC) — mais usada
-	- **[[Angiorressonância]]** (Angio-RM) — alternativa em pacientes com IRC
+	- **Angiorressonância** (Angio-RM) — alternativa em pacientes com IRC
 	- **[[Arteriografia]]** — **padrão-ouro**, geralmente combinada com tratamento endovascular
 
 ### **Quando Investigar Imagem Angiográfica?**

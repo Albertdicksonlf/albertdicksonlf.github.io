@@ -184,3 +184,22 @@ tipo de exame: Procedimento
 - A **incorporação à prática brasileira** ainda é incipiente — pode ser oportunidade de implementação institucional via protocolos de UTI.
 - **AKIKI vs ELAIN**: trials sobre timing de TSR com resultados conflitantes — FST + biomarcadores podem ajudar a **individualizar** essa decisão (em vez de "todos esperam" ou "todos iniciam cedo").
 -
+
+---
+
+### 🔗 O que a KDIGO 2026 diz do FST (e o que corrige nesta nota)
+**Data:** 2026-10-13
+**Contexto:** [[Insuficiência Renal Aguda]] · [[Abordagem da IRA]] · [[Urgências Dialíticas]]
+
+**Características específicas:**
+- **Rec. 2.3.1 (rascunho):** **sugere** o FST para estimar risco de progressão para **estágio 3, incluindo TRS**, em adultos (**2C**) e crianças (2B) com IRA **estágio 1 ou 2** que estejam **euvolêmicos ou hipervolêmicos**.
+- **Protocolo:** furosemida **1 mg/kg IV** (1,5 mg/kg se já usava diurético de alça); **< 200 mL nas 2 h seguintes** = maior chance de estágio 3/TRS **nos 14 dias seguintes**. Em criança: < 2 mL/kg/h em 2 h.
+- **Acurácia na revisão da KDIGO (12 estudos):** **sensibilidade baixa e especificidade moderada** para estágio 3; **sensibilidade moderada e especificidade baixa** para TRS — mais modesto que a metanálise de 2020 citada acima.
+- **Papel:** **prognóstico adjuvante, não decide diálise sozinho.** Não-resposta deve disparar um pacote: monitorar creatinina e diurese de perto, revisar nefrotóxicos, reavaliar hemodinâmica e **preparar** a TRS — que segue a estratégia diferida.
+- **Hipovolemia:** além de dar falso não-responsivo, o teste pode **causar dano** (piora a hipoperfusão).
+- **Em uso de diurético em dose alta**, a não-resposta perde valor.
+
+**Relevância clínica:** a seção de indicações desta nota ("decisão sobre timing de início de TSR") precisa ser lida assim: o FST ajuda a **planejar** a TRS, não a **iniciá-la**.
+**Fonte:** KDIGO 2026 AKI/AKD — Public Review Draft (mar/2026), Rec. 2.3.1 e Figura 7 — https://kdigo.org/wp-content/uploads/2026/03/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026.pdf · Chawla LS et al. Crit Care. 2013;17(5):R207. PMID 24053972
+
+---

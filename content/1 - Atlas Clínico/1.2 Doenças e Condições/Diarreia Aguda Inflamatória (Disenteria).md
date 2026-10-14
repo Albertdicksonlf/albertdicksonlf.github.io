@@ -20,12 +20,12 @@ aliases:
 - Como o processo afeta predominantemente o cólon (intestino grosso), o volume das fezes costuma ser pequeno, mas a frequência é alta.
 
 ## Apresentação Clínica Geral
-- **Fezes:** **[[Pequeno volume, alta frequência]]**, com presença visível de **[[Sangue]]**, **[[Muco]]** e/ou **[[Pus]]**. - [[Diarreia sanguinolenta]]
+- **Fezes:** **Pequeno volume, alta frequência**, com presença visível de **Sangue**, **Muco** e/ou **Pus**. - [[Diarreia sanguinolenta]]
 - **Sintomas Associados:**
-  - **[[Febre Alta]]
-  - **[[Dor abdominal intensa]]**: Frequentemente em cólica, localizada em quadrantes inferiores.
-  - **[[Tenesmo]]**: Sensação dolorosa de evacuação incompleta ou urgência retal.
-- [[Náuseas e vômitos]] são menos proeminentes do que na diarreia aquosa.
+  - **Febre Alta
+  - **Dor abdominal intensa**: Frequentemente em cólica, localizada em quadrantes inferiores.
+  - **Tenesmo**: Sensação dolorosa de evacuação incompleta ou urgência retal.
+- Náuseas e vômitos são menos proeminentes do que na diarreia aquosa.
 - [[Desidratação]] pode ocorrer, mas geralmente é menos grave que na diarreia aquosa volumosa.
 
 ---

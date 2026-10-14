@@ -67,6 +67,31 @@ O medo dos efeitos colaterais (efeito nocebo) é maior que o risco real.
 
 ---
 ## 🎯 PIVÔ DE PRESCRIÇÃO
-- **Pós-Infarto:** [[Atorvastatina 80mg ou Rosuvastatina 40mg]].
-- **Dor Muscular:** [[Checar CPK. Tentar trocar Sinvastatina por Rosuvastatina (mais hidrofílica, entra menos no músculo)]].
-- **Meta não atingida:** [[Não aumentar dose ao infinito -> Associar Ezetimiba]].
+- **Pós-Infarto:** Atorvastatina 80mg ou Rosuvastatina 40mg.
+- **Dor Muscular:** Checar CPK. Tentar trocar Sinvastatina por Rosuvastatina (mais hidrofílica, entra menos no músculo).
+- **Meta não atingida:** Não aumentar dose ao infinito -> Associar Ezetimiba.
+
+---
+
+### ➕ Novas Anotações / Insights
+
+### 🔗 Estatinas na SBC 2025 — o que mudou e o que corrigir
+**Data:** 2026-10-13
+**Contexto:** [[Dislipidemia]] · [[Manejo LDL]]
+
+**Características específicas:**
+- **Evidência:** cada 39 mg/dL a menos de LDL-c → mortalidade total −10% e eventos CV maiores −22%; estatinas mais potentes dão ~15% a mais de redução de eventos que regimes menos potentes.
+- **Combinação desde o início:** do **alto risco** para cima (e na HF/LDL ≥ 190), estatina alta **+ [[Ezetimiba]]** como terapia inicial; estatina + ezetimiba é **alternativa** à estatina de alta intensidade isolada quando se precisa de ≥ 50% (FORTE/ALTA).
+- **Monitorização:** perfil lipídico ~4 semanas após iniciar/ajustar, depois anual. **CK e TGP basais** antes de iniciar (condicional); **não** dosar de rotina depois — só com sintoma muscular importante ou sinal de hepatotoxicidade.
+- **Fígado:** TGP até 3× → **manter** e repetir em 4–6 semanas; **> 3× em duas ocasiões consecutivas** → suspender ou reduzir. Esteatose com enzimas até 3× **não** contraindica; hepatopatia compensada (Child A/B) não é contraindicação absoluta.
+- **Músculo:** miopatia ~9% nas metanálises; lesão grave < 0,1%. Estratégias: reduzir frequência, trocar de estatina, combinar em dose menor. **Se suspender, iniciar não-estatínico imediatamente** ([[Ácido Bempedoico]], ezetimiba ou [[Inibidores da PCSK9|anti-PCSK9]]). **Contra** vitamina D e coenzima Q10 para os sintomas musculares (FORTE).
+- **Diabetes novo:** NNH de **255** pacientes tratados por 4 anos para 1 caso — o benefício CV supera.
+- **Quando não iniciar / suspender:** diálise sem DCV estabelecida (não iniciar); gestação (suspender; parar 60 dias antes da concepção planejada). Transplantados: **evitar sinvastatina/lovastatina** com ciclosporina, tacrolimo, sirolimo ou everolimo; com ciclosporina, no máximo rosuvastatina 5 mg ou atorvastatina 10 mg.
+- **SCA:** estatina potente nas primeiras 24 h, já com ezetimiba.
+- **Correção a esta nota:** o corte "CK > 5× → suspender" não aparece no texto lido da SBC 2025; a diretriz orienta dosar CK **na presença de sintomas musculares graves** e decidir pela clínica.
+- **No SUS:** em geral só sinvastatina; atorvastatina no componente especializado — barreira real para a alta intensidade (SBC 2025).
+
+**Relevância clínica:** a pergunta deixou de ser "que dose de estatina" e passou a ser "qual combinação para atingir valor **e** % de redução".
+**Fonte:** Rached FH et al. Diretriz Brasileira de Dislipidemias e Prevenção da Aterosclerose – 2025. Arq Bras Cardiol. 2025;122(9):e20250640. PMID 41379178 — https://doi.org/10.36660/abc.20250640
+
+---

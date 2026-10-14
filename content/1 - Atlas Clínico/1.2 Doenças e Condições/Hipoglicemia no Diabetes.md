@@ -81,3 +81,28 @@ Se **Inconsciente (Nível 3):**
 - **Risco Iatrogênico:** [[Sulfoniureias (Glibenclamida) e Insulina]].
 - **Sintoma Colinérgico:** [[Sudorese e Fome]].
 - **Alerta:** [[Paciente que apaga sem tremer antes (Unawareness)]].
+
+
+---
+
+### ➕ Novas Anotações / Insights
+
+### 🔗 Hipoglicemia durante o tratamento da CAD/EHH e prevenção com tecnologia
+**Data:** 2026-10-13
+**Contexto:** [[Cetoacidose Diabética]] · [[Manejo de Hiperglicemia Aguda]] · [[Insulinoterapia]] · [[Monitorização Contínua de Glicose (CGM)]]
+
+**Características específicas:**
+- **Na CAD:** a hipoglicemia (< 70 mg/dL) ocorre em **16–28%** dos tratamentos. Glicemia < 40 mg/dL (2% dos casos) associou-se a ~4× mais mortalidade.
+	- **Prevenção:** glicemia capilar a cada 1–2 h. Abaixo de 250 mg/dL, reduzir a insulina para 0,05 U/kg/h e acrescentar dextrose a 5–10%, **sem desligar a bomba**.
+- **No ambulatório:**
+	- **Análogos basais em vez de NPH:** menos hipoglicemia noturna (SBD, IIa-B).
+	- **Análogos rápidos em vez de regular:** hipoglicemia grave com RR 0,68 e noturna com RR 0,55 (metanálise da SBD).
+	- **Degludeca:** reduz hipoglicemia grave no DM1 de alto risco (SWITCH 1: 10,3% vs 17,1%).
+- **Hipoglicemia grave, noturna recorrente ou assintomática após 3 meses de CGM:** indicação de **sistema automatizado de insulina** (SBD 2026, I-A) → [[Sistema de Infusão Contínua de Insulina (SICI)]].
+- **Meta de CGM:** tempo abaixo do alvo **< 4%**.
+- **Hipoglicemia grave fora do hospital:** [[Glucagon]].
+
+**Relevância clínica:** hipoglicemia é o efeito adverso que limita a intensificação. Hoje, a resposta é tecnologia (análogos, CGM, alça fechada), e não "afrouxar" a meta para todos.
+**Fonte:** Umpierrez GE et al. Diabetes Care. 2024;47(8):1257-1275. PMID 39052901 · SBD 2022/2023, Insulinoterapia no DM1 — https://diretriz.diabetes.org.br/insulinoterapia-no-diabetes-mellitus-tipo-1-dm1/ · SBD 2026, Sistemas de infusão contínua de insulina — https://diretriz.diabetes.org.br/sistemas-de-infusao-continua-de-insulina/ · Lane W et al. JAMA. 2017;318(1):33-44. PMID 28672316
+
+---

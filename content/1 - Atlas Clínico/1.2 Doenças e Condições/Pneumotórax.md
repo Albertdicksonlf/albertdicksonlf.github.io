@@ -33,8 +33,9 @@ tipo de exame: null
   - **Contuso:** fratura de costela perfurando o parênquima, [[Barotrauma|barotrauma]] por compressão torácica com glote fechada, desaceleração
   - **Penetrante:** arma branca, projétil, empalamento
   - **Iatrogênico:** punção de veia subclávia ou jugular, biópsia transtorácica, [[Toracocentese|toracocentese]], ventilação com pressão positiva, [[Pericardiocentese|pericardiocentese]], marca-passo
-- **Espontâneo primário:** homem jovem, alto, magro, tabagista — ruptura de blebs apicais
-- **Espontâneo secundário:** [[Enfisema Pulmonar|enfisema]], DPOC, fibrose cística, pneumonia necrosante, tuberculose, pneumocistose
+- **Espontâneo** — tem nota própria: [[Pneumotórax Espontâneo]]
+  - **Primário:** homem jovem, alto, magro, tabagista — ruptura de blebs apicais
+  - **Secundário:** [[Enfisema Pulmonar|enfisema]], DPOC, fibrose cística, pneumonia necrosante, tuberculose, pneumocistose
 
 > [!warning] ⚠️ Correção da fonte — de onde vem o ar
 > A aula lista como origem *"parênquima pulmonar, vias aéreas menores, **vias aerodigestivas altas**, parede torácica aberta"*. A formulação está imprecisa. As quatro portas reais de entrada de ar no espaço pleural são: **parênquima pulmonar**, **árvore traqueobrônquica**, **esôfago** e **parede torácica**. "Vias aerodigestivas altas" não comunica com a pleura — o que comunica é o **esôfago intratorácico**, e essa é justamente a razão pela qual pneumotórax refratário obriga a pensar em [[Lesão Traqueobrônquica|lesão traqueobrônquica]] ou [[Lesão Esofágica Traumática|esofágica]].
@@ -231,3 +232,21 @@ tipo de exame: null
 - Alrajhi K, Woo MY, Vaillancourt C. Chest. 2012;141(3):703-708. PMID 21868468
 - Lichtenstein D et al. Intensive Care Med. 2000;26(10):1434-1440. PMID 11126253
 - Lichtenstein DA, Mezière GA. Chest. 2008;134(1):117-125. PMID 18403664
+
+---
+
+### 🔗 O espontâneo ganhou nota própria — e o que ele ensina ao trauma
+**Data:** 2026-10-13
+**Contexto:** [[Pneumotórax Espontâneo]]
+
+**Características específicas:**
+- O pneumotórax espontâneo (primário e secundário) foi para nota dedicada; esta nota segue como a referência de **trauma, iatrogenia e das quatro formas**.
+- **A BTS 2023 tirou o tamanho como critério de intervenção** no espontâneo — o tamanho só diz se é **seguro** puncionar; quem indica intervir é o sintoma e a reserva. A própria diretriz deixa o trauma de fora (exige pressão positiva com frequência e tem ensaios de conduta conservadora em andamento), então a regra de drenar no trauma, descrita acima, não muda.
+- **Reabsorção:** 1,25–2,2% do volume do hemitórax por dia; o O₂ em alto fluxo **quadruplica** essa velocidade — dá número ao "várias vezes" da seção de Fisiopatologia.
+- **Iatrogênico:** em grandes séries é **mais comum que o espontâneo** — punção transtorácica (24%), punção de subclávia (22%) e toracocentese (22%) lideram; fora da UTI, a maioria resolve só com observação e a aspiração funciona em ~89% dos que precisam de intervenção. Em ventilação com pressão positiva, drenar.
+- **Hipertensivo também na VNI:** a BTS 2010 lista a ventilação não invasiva entre as situações típicas de pneumotórax hipertensivo, ao lado de UTI, trauma, RCP e dreno obstruído ou clampeado.
+
+**Relevância clínica:** a mesma doença (ar na pleura) tem lógicas de conduta diferentes conforme a origem — no trauma se drena por padrão; no espontâneo primário, o padrão passou a ser fazer o mínimo que resolva.
+**Fonte:** Roberts ME et al. BTS Guideline for pleural disease. Thorax. 2023;78(Suppl 3):s1-s42. PMID 37433578 — https://doi.org/10.1136/thorax-2022-219784 · MacDuff A et al. BTS Pleural Disease Guideline 2010. Thorax. 2010;65(Suppl 2):ii18-31. PMID 20696690 — https://doi.org/10.1136/thx.2010.136986
+
+---

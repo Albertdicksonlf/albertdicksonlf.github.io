@@ -3,23 +3,23 @@ date: 2026-04-19T16:00:00
 área:
   - Nefrologia
 tipo: Procedimento Cirúrgico
-tipo de exame: 
-tipo de doença: 
+tipo de exame:
+tipo de doença:
 classe de medicamentos:
-prevalência: 
+prevalência:
 aliases:
   - TRS
   - Terapia de Substituição Renal
   - Diálise
   - Renal Replacement Therapy
   - RRT
-card: 
+card:
 ---
 
 # Terapia Renal Substitutiva
 
 > [!abstract] Resumo de Uma Linha
-> Conjunto de modalidades que substituem parcial ou totalmente a função renal em pacientes com [[Doença Renal Crônica]] G5 (falência renal) ou [[Injúria Renal Aguda]] grave. Inclui hemodiálise, diálise peritoneal e transplante renal — este último com a melhor sobrevida e qualidade de vida.
+> Conjunto de modalidades que substituem parcial ou totalmente a função renal em pacientes com [[Doença Renal Crônica]] G5 (falência renal) ou [[Insuficiência Renal Aguda|Injúria Renal Aguda]] grave. Inclui hemodiálise, diálise peritoneal e transplante renal — este último com a melhor sobrevida e qualidade de vida.
 
 ## 📋 Indicações e Seleção de Paciente
 
@@ -107,3 +107,23 @@ KDIGO 2024 valoriza o CKM como alternativa legítima, especialmente em:
 *- Nota criada em modo esqueleto - completar depois*
 - KDIGO 2024 enfatizou o Conservative Kidney Management (CKM) como alternativa legítima à TRS em pacientes com alto burden de comorbidades.
 -
+
+---
+
+### 🔗 TRS na injúria renal aguda — o que esta nota (centrada na DRC) não cobria
+**Data:** 2026-10-13
+**Contexto:** [[Insuficiência Renal Aguda]] · [[Urgências Dialíticas]]
+
+**Características específicas (KDIGO 2026, rascunho, Cap. 5):**
+- **Quando:** **estratégia diferida** (Rec. 5.1.1, 1C) — iniciar por complicação **refratária** (K⁺ ≥ 6,0, pH ≤ 7,2 ou HCO₃⁻ ≤ 12, EAP resistente a diurético, uremia, intoxicação dialisável, hiperamonemia), não pelo estágio isolado. AKIKI, IDEAL-ICU e STARRT-AKI sem benefício do início precoce; AKIKI-2 mostrou dano ao adiar demais.
+- **Qual:** paciente instável → **CRRT ou diálise peritoneal aguda** (Rec. 5.2.1, 2C); PIRRT/SLED aceitável; lesão cerebral ou HIC → CRRT; intoxicação e lise tumoral → hemodiálise intermitente (clearance mais rápido).
+- **Quanto:** CRRT **20–25 mL/kg/h** de efluente; HDI ou PIRRT **Kt/V 3,9/semana** (Rec. 5.3.1, 1B); **sem hemofiltração de alto volume na sepse** (1B).
+- **Anticoagulação:** **citrato regional** na CRRT (Rec. 5.5.1, 1B).
+- **Acesso:** cateter ≥ 12 Fr guiado por ultrassom; **jugular interna direita** → femoral; **evitar subclávia** (estenose prejudica futura fístula — a mesma lógica da seção de acessos desta nota).
+- **Desmame:** diurese > 450 mL/24 h sem diurético ou > 2300 mL/24 h com diurético.
+- **Depois da alta em diálise:** nefrologista em até 7 dias após suspender a diálise ambulatorial e nova função renal em 90 dias.
+
+**Relevância clínica:** as "indicações de início" desta nota são as da DRC; na IRA, o raciocínio é refratariedade + estratégia diferida.
+**Fonte:** KDIGO 2026 AKI/AKD — Public Review Draft (mar/2026), Cap. 5 e Tabelas 41–43 — https://kdigo.org/wp-content/uploads/2026/03/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026.pdf · STARRT-AKI Investigators. N Engl J Med. 2020;383(3):240-251. PMID 32668114 · Gaudry S et al. Lancet. 2021;397(10281):1293-1300. PMID 33812488
+
+---

@@ -1,106 +1,95 @@
 ---
-data: 2026-01-20 11:24
+date: 2026-10-13T09:00:00
 área:
-  - Emergência
   - Gastroenterologia
-tipo:
-  - Sindrome
-classe medicamentosa:
+  - Emergência
+tipo: Sinal/Sintoma
+tipo de exame:
 tipo de doença:
-prevalência:
-  - Comum
+classe de medicamentos:
+prevalência: Comum
 aliases:
   - HDA
-card: https://s2.glbimg.com/JuofvffkNASRK2Zy9-81DExv188=/e.glbimg.com/og/ed/f/original/2018/02/28/evie2.jpg
+  - Hemorragia Digestiva Alta (HDA)
+  - Sangramento Digestivo Alto
+  - Upper Gastrointestinal Bleeding
+card:
 ---
 
----
+# Hemorragia Digestiva Alta (HDA)
 
-# Abordagem da HDA Não Varicosa (MOC)
+> [!abstract] Definição
+> Sangramento originado **proximal ao ligamento de Treitz** (flexura duodenojejunal): esôfago, estômago e duodeno — e, por extensão, vias biliares e ducto pancreático, que drenam no duodeno. Exterioriza-se como hematêmese, melena ou, quando maciço, hematoquezia; ou fica **oculto**, como anemia ferropriva. É um sintoma-guia: a etiologia quem dá é a endoscopia.
 
-> [!abstract] Resumo de Uma Linha
-> Sangramento originado no TGI acima do **Ângulo de Treitz** (Esôfago, Estômago, Duodeno). A prioridade inicial não é o diagnóstico etiológico, mas a **Estabilização Hemodinâmica** seguida de Endoscopia (EDA) nas primeiras 24h.
+## 🌪️ Fisiopatologia Básica
+- **Mecanismo:** ruptura de um vaso por erosão ácido-péptica (úlcera), laceração mecânica (Mallory-Weiss), hipertensão venosa (varizes), malformação vascular (Dieulafoy, GAVE) ou comunicação anômala (hemobilia, hemosuccus, fístula aortoentérica).
+- **Como o sangue aparece:**
+	- Volta pela boca → [[Hematêmese]]: **vermelho vivo** = sangramento recente e volumoso; **borra de café** = sangue que ficou tempo suficiente no estômago para o ácido escurecê-lo.
+	- Desce pelo intestino e é digerido → [[Melena]] (fezes em alcatrão).
+	- Desce rápido demais para ser digerido → [[Hematoquezia]] — sinal de HDA **maciça**.
+- **Por que a ureia sobe:** o sangue digerido é absorvido como proteína, e a hipovolemia soma um componente pré-renal → razão BUN/creatinina > 30.
+- **Tipos/Classificação:**
+	- **Varicosa × não varicosa** — a divisão que muda o manejo já na porta ([[Hemorragia Digestiva Alta Varicosa]] · [[Hemorragia Digestiva Alta Não Varicosa]]).
+	- **Manifesta × oculta** — a oculta aparece como [[Anemia Ferropriva]] ou sangue oculto nas fezes.
+	- **Agudo sobre crônico** — episódio evidente em quem já tinha anemia ferropriva: lesão de base que sangrava em silêncio (úlcera, hipertensão portal).
 
-## 1. Identificação Clínica
-- **[[Hematêmese]]**: Vômito com sangue vivo ou "borra de café" (sangue digerido).
-- **[[Melena]]**: Fezes pretas, pastosas e fétidas (como piche). Indica sangue digerido (HDA).
-- **[[Hematoquezia]]**: Sangue vivo nas fezes. Geralmente é HDB, mas pode ocorrer em **HDA maciça** (trânsito acelerado).
-- **Instabilidade:** Taquicardia, Hipotensão, Palidez, TEC lentificado.
+## 🕵️ Roteiro de Anamnese (O Script)
+1. **Cronologia:** quando começou, quantos episódios, volume estimado, última evacuação. Já sangrou antes? A recidiva costuma vir da mesma lesão.
+2. **Qualidade/Caráter:**
+	- Vivo ou borra de café? Fezes pretas, pegajosas e fétidas — ou só escuras (ferro, bismuto, alimentos)?
+	- **É sangue e vem do tubo digestivo?** Excluir [[Epistaxe]] deglutida, sangramento oral e [[Hemoptise]].
+	- Vômitos **sem** sangue antes da hematêmese → Mallory-Weiss.
+3. **Medicamentos (o fator de piora mais importante):** [[AINEs]], [[Aspirina|AAS]], [[Clopidogrel]] e dupla antiagregação, anticoagulantes, corticoide associado a AINE.
+4. **Sintomas Associados:**
+	- [[Síncope]] ou tontura ao levantar → perda volumosa
+	- [[Dor Epigástrica]] → úlcera
+	- Disfagia, saciedade precoce, perda de peso → neoplasia
+	- [[Vômitos]] repetidos → Mallory-Weiss
+	- [[Icterícia]], aumento do abdome, confusão → cirrose
+	- Cólica biliar + icterícia → hemobilia
+5. **Contexto:**
+	- Etilismo, hepatite, esquistossomose → hipertensão portal
+	- Correção de aneurisma de aorta (aberta ou endovascular) → fístula aortoentérica
+	- Biópsia hepática, CPRE, colecistectomia, trauma hepático recente → hemobilia
+	- Pancreatite crônica ou pseudocisto → hemosuccus pancreaticus
+	- Cardiopatia, DRC, idade → mudam o limiar de transfusão e o escore de risco
 
-## 2. Manejo Inicial (Sala de Emergência)
-*Antes de qualquer exame.*
-
-1.  **Acesso Venoso:**
-    - **TODOS:** Pelo menos 1 acesso periférico.
-    - **Instáveis:** 2 acessos calibrosos (14G ou 16G).
-2.  **Ressuscitação Volêmica:**
-    - Cristaloides (Ringer Lactato ou SF 0,9%).
-    - **Hemotransfusão:** Se Hb < 7,0 g/dL (ou < 8-9 em cardiopatas isquêmicos) ou choque hemorrágico franco.
-3.  **Medidas Farmacológicas Pré-EDA:**
-    - **[[Inibidores de Bomba de Prótons (IBP)]] Venoso:** (Ex: Omeprazol 80mg bolus + 8mg/h). Estabiliza o coágulo ao reduzir a acidez.
-    - **Pró-cinéticos (Eritromicina/Metoclopramida):** Ajudam a esvaziar o estômago (limpar o sangue) para o endoscopista enxergar melhor.
-    - **Antieméticos:** Ondansetrona.
-    - *Dieta Zero Absoluta.*
-
-## 3. Investigação Etiológica (EDA)
-- **Quando fazer:** Idealmente nas primeiras **24 horas** após estabilização.
-- **Objetivo:** Diagnóstico e **Hemostasia Terapêutica**.
-
-### **Classificação de Forrest (Para Úlceras)**
-*Define o risco de ressangramento e a necessidade de tratamento endoscópico.*
-
-| Classificação | Achado Endoscópico | Risco de Ressangramento | Conduta |
-| :--- | :--- | :--- | :--- |
-| **Ia** | Sangramento Arterial Pulsátil ("Esguicho") | Altíssimo (90%) | **Terapia Dupla** (Adrenalina + Clipe/Térmica) |
-| **Ib** | Sangramento em Babação (Venoso/Lento) | Alto (50%) | **Terapia Dupla** |
-| **IIa** | Vaso Visível Não Sangrante (Protuberância) | Alto (50%) | **Terapia Dupla** |
-| **IIb** | Coágulo Aderido | Intermediário (30%) | *Depende:* Remover coágulo. Se sangrar ou tiver vaso embaixo $\to$ Tratar. |
-| **IIc** | Hematina (Mancha plana pigmentada) | Baixo (10%) | Tratamento Clínico (IBP) |
-| **III** | Base Limpa (Fibrina) | Muito Baixo (< 5%) | Tratamento Clínico (IBP). Alta precoce. |
-
-
-## 4. Diagnóstico Diferencial (Etiologias)
-1.  **[[Úlcera Péptica|Doença Ulcerosa Péptica]]**: 50% dos casos.
-2.  **[[Síndrome de Mallory-Weiss]]**: Laceração da JEG após vômitos.
-3.  **[[Causas Vasculares de HDA]]:** Lesão de Dieulafoy (vaso anômalo), Ectasia Vascular Antral Gástrica (GAVE), Hemobilia.
-4.  **[[Câncer Gástrico]]**.
-5.  **Varizes:** (Excluídas neste guia, mas sempre pensar em hepatopatas).
-
-## 5. Tratamento Endoscópico
-
-### Métodos de Hemostasia
-*Dispomos de três armas principais. O sucesso depende de saber combiná-las.*
-
-#### **1. Injetoterapia (Química)**
-- **Agente:** Solução de **Adrenalina** (Epinefrina) diluída (1:10.000 ou 1:20.000).
-- **Mecanismo:** Vasoconstrição local + Tamponamento pelo volume injetado (edema).
-- **Regra de Ouro:** **NUNCA usar isoladamente.** A adrenalina para o sangramento na hora, mas o efeito passa rápido e ressangra. Deve ser sempre combinada com outro método (Terapia Dupla).
-
-#### **2. Térmica (Coagulação)**
-- **Agentes:** Probe Bipolar (Gold Probe), Heater Probe ou Plasma de Argônio.
-- **Mecanismo:** "Queima" o vaso e o tecido ao redor, causando edema e coagulação das proteínas (selagem).
-- **Uso:** Ideal para vasos visíveis não sangrantes ou sangramento em babação. Aplica-se pressão direta ("coaptação") para fechar o vaso.
-
-#### **3. Mecânica (A Mais Eficaz)**
-- **Agentes:** **Hemoclipes** (Clipes metálicos).
-- **Mecanismo:** Pinçamento físico do vaso sangrante (como um grampo).
-- **Vantagem:** Não causa necrose extensa (diferente da térmica). É o melhor método para **[[Lesão de Dieulafoy]]** ou vasos calibrosos (> 2mm).
-
-#### **4. Agentes Tópicos (Pós Hemostáticos)**
-- **Agente:** Hemospray.
-- **Uso:** Sangramentos difusos (ex: Câncer Gástrico sangrante) onde não há um vaso único para clipar.
-
-
-
+## 🩺 Semiologia no Exame Físico
+- **Inspeção:**
+	- Sinais vitais primeiro: [[Taquicardia]], [[Hipotensão]], hipotensão postural; taquicardia aumenta a chance de HDA grave (LR 4,9)
+	- [[Palidez]], perfusão periférica, nível de consciência
+	- [[Estigmas de hepatopatia crônica]] — aranhas vasculares, eritema palmar, ginecomastia, circulação colateral
+- **Palpação/Percussão:** dor epigástrica; ascite (macicez móvel); hepatoesplenomegalia; massa pulsátil (aneurisma).
+- **[[Toque Retal]]:** indispensável — **melena vista pelo examinador tem LR 25** para fonte alta; ausência de melena sugere sangramento menor ou ainda não exteriorizado (Srygley 2012).
+- **SNG:** não é rotina. Aspirado com sangue ou borra de café aumenta a chance de fonte alta (LR 9,6), mas o procedimento não melhora o desfecho.
 
 ---
 
-## 6. Falha da Endoscopia
-- Se não parar de sangrar ou ressangrar após 2 tentativas endoscópicas:
-- **Radiologia Intervencionista:** Embolização da artéria.
-- **Cirurgia:** Sutura do vaso (Ulcerorrafia). 
+## 🔗 Conexões com Guias de Raciocínio
+- [[Abordagem da Hemorragia Digestiva]] — porta de entrada: triagem, buckets, algoritmo
+- [[Abordagem do Cirrótico Descompensado]] — quando há estigmas de hepatopatia
+- [[Abordagem do Choque]] — quando há instabilidade
+- Estratificação: [[Escore de Glasgow-Blatchford]]
 
 ---
+
+## 📚 Referências
+*Consultado em 2026-10-13*
+
+1. **[Srygley FD et al.]** Does this patient have a severe upper gastrointestinal bleed? JAMA. 2012;307(10):1072-9. PMID 22416103 — https://doi.org/10.1001/jama.2012.253
+2. **[Laine L et al. — ACG 2021]** ACG Clinical Guideline: Upper Gastrointestinal and Ulcer Bleeding. Am J Gastroenterol. 2021;116(5):899-917. PMID 33929377 — https://doi.org/10.14309/ajg.0000000000001245
+3. **[Gralnek IM et al. — ESGE 2021]** Endoscopy. 2021;53(3):300-332. PMID 33567467 — https://doi.org/10.1055/a-1369-5274
+
+---
+
+### ➕ Novas Anotações / Insights
+
+> [!warning] Reescrita em 2026-10-13 — o que mudou em relação à versão de jan/2026
+> Esta nota era um MOC de **manejo** da HDA não varicosa sentado na pasta de sintomas. Foi reorganizada pela arquitetura de sintoma-guia:
+> - **Manejo** (ressuscitação, IBP, eritromicina, timing da EDA, terapia endoscópica, falha da EDA) → [[Hemorragia Digestiva Alta Não Varicosa]]
+> - **Tabela de Forrest** e métodos de hemostasia → [[Classificação de Forrest]]
+> - **Roteamento sintoma → doenças** → [[Abordagem da Hemorragia Digestiva]]
+> - **Correções ao conteúdo legado:** "úlcera péptica = 50% das HDA" → hoje cerca de 1/4; "pró-cinéticos (eritromicina/metoclopramida)" → só a **eritromicina** tem recomendação (ACG 2021); "transfusão < 8–9 em cardiopatas" → limiar de 8 g/dL na doença cardiovascular (ESGE 2021).
 
 ### 🔗 HDA no paciente cirrótico — a ponte que faltava
 **Data:** 2026-09-24

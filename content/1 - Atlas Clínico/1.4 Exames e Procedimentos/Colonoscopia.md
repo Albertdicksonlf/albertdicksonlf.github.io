@@ -41,3 +41,23 @@ aliases:
   - **Perfuração do Cólon:** Complicação mais grave.
   - **Sangramento Pós-polipectomia.**
   - Complicações da sedação.
+
+---
+
+### ➕ Novas Anotações / Insights
+
+### 🔗 Colonoscopia na hemorragia digestiva baixa
+**Data:** 2026-10-13
+**Contexto:** [[Hemorragias Digestivas Baixa|Hemorragia Digestiva Baixa]] · [[Abordagem da Hemorragia Digestiva]]
+
+**Características específicas:**
+- **Não urgente:** após estabilização e preparo completo; a colonoscopia em < 24 h não reduziu ressangramento nem outros desfechos importantes (ACG 2023).
+- **Sangramento ativo não contraindica** o exame — instabilidade hemodinâmica sim. No instável com hematoquezia volumosa contínua, a **angiotomografia vem primeiro**.
+- **Terapêutica:** clipe, ligadura elástica e térmica no divertículo com estigma; plasma de argônio na [[Angiodisplasias|angiodisplasia]] (cuidado no ceco: parede fina).
+- **Nem todo paciente precisa:** colonoscopia recente e adequada + sangramento pequeno e autolimitado permite individualizar.
+- Melena com EDA normal também pede colonoscopia — cólon direito pode dar melena.
+
+**Relevância clínica:** a colonoscopia é o exame-tratamento da HDB, mas o relógio dela é o preparo, não a urgência.
+**Fonte:** Sengupta N et al. (ACG 2023). Am J Gastroenterol. 2023;118(2):208-231. PMID 36735555 — https://doi.org/10.14309/ajg.0000000000002130
+
+---

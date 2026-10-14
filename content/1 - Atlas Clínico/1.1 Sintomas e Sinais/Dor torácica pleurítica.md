@@ -35,7 +35,7 @@ tipo de exame: null
 2. **Reprodutível à palpação?** → favorece musculoesquelético.
 3. **Dispneia / hipoxemia / fatores de risco para trombose?** → [[Tromboembolismo Pulmonar (TEP)|TEP]].
 4. **Febre + tosse produtiva?** → [[Pneumonia]].
-5. **Início súbito + dispneia intensa?** → [[Pneumotórax]].
+5. **Início súbito + dispneia intensa?** → [[Pneumotórax]]. Sem trauma: [[Pneumotórax Espontâneo]] — homem jovem, alto, magro e fumante (primário) ou DPOC com dispneia desproporcional ao tamanho (secundário); o esforço físico **não** é gatilho.
 6. **Melhora inclinando para frente?** → [[Pericardite]].
 
 > [!danger] 🚨 Red Flags

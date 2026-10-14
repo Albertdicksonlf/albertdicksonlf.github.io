@@ -37,3 +37,24 @@ card: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAQEhUPEBAVDxA
 ## Efeitos Adversos (Uso Crônico)
 - Geralmente seguros.
 - Uso prolongado (> anos) pode associar-se a: má absorção de B12, ferro e magnésio; aumento do risco de *C. difficile*; osteoporose (controverso).
+
+---
+
+### ➕ Novas Anotações / Insights
+
+### 🔗 IBP na hemorragia digestiva alta
+**Data:** 2026-10-13
+**Contexto:** [[Hemorragia Digestiva Alta Não Varicosa]] · [[Classificação de Forrest]]
+
+**Características específicas:**
+- **Por quê:** em pH ácido a agregação plaquetária falha e a pepsina dissolve o coágulo; elevar o pH estabiliza o tampão sobre a úlcera *(conhecimento consolidado)*.
+- **Antes da EDA:** omeprazol 80 mg EV em bolus na suspeita de HDA — reduz estigmas de alto risco; no cirrótico, suspender quando a EDA confirma origem varicosa (Baveno VII).
+- **Depois da hemostasia endoscópica (ou Forrest IIb não tratado):** dose alta por **72 h** — 80 mg EV + **8 mg/h**, ou bolus EV 2×/dia, ou dose alta oral 2×/dia (ESGE 2021; ACG 2021).
+- **Depois das 72 h:** oral **2×/dia até completar 2 semanas**, depois 1×/dia pelo tempo que a lesão exigir (ACG 2021).
+- **Antagonista H2 não substitui** o IBP no sangramento.
+- **Prevenção secundária:** paciente com úlcera sangrante prévia que precisa de antiagregante ou anticoagulante → manter IBP (Consenso Internacional 2019).
+
+**Relevância clínica:** a dose e o tempo do IBP dependem do estigma visto na EDA.
+**Fonte:** Laine L et al. (ACG 2021). PMID 33929377 · Gralnek IM et al. (ESGE 2021). PMID 33567467 · Barkun AN et al. Ann Intern Med. 2019;171(11):805-822. PMID 31634917
+
+---

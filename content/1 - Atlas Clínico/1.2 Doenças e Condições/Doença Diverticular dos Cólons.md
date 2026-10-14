@@ -48,3 +48,25 @@ aliases:
 ### **Diferença Crucial: Diverticulose vs. Diverticulite**
 - **Diverticulose:** Tem os "furos". Não dói (ou dói pouco), não tem febre, não tem leucocitose. **Pode fazer Colonoscopia.**
 - **Diverticulite:** O "furo" inflamou/perfurou. Tem dor forte, febre, PCR alta. **PROIBIDO fazer Colonoscopia na fase aguda.**
+
+---
+
+### ➕ Novas Anotações / Insights
+
+### 🔗 Sangramento diverticular — a principal causa de HDB
+**Data:** 2026-10-13
+**Contexto:** [[Hemorragias Digestivas Baixa|Hemorragia Digestiva Baixa]] · [[Abordagem da Hemorragia Digestiva]] · [[Hematoquezia]]
+
+**Características específicas:**
+- **Sangra a diverticulose, não a diverticulite** — o sangramento ocorre tipicamente sem inflamação; a diverticulite quase nunca sangra.
+- **Arterial e volumoso, mas indolor** — o *vasa recta* fica coberto só por mucosa no colo do divertículo e rompe; cólica leve, quando há, é pelo sangue no lúmen.
+- **Para sozinho na maioria**, mas recorre em uma parcela importante ao longo dos anos.
+- **Lado:** os divertículos predominam à **esquerda** (sigmoide) nos ocidentais, mas o sangramento diverticular vem proporcionalmente mais do **direito** — divertículos de colo mais largo expõem mais o vaso *(conhecimento consolidado)*.
+- **Tratamento:** colonoscopia não urgente; com estigma de sangramento recente → clipe, ligadura elástica ou térmica; sangramento contínuo com instabilidade → angiotomografia → embolização (ACG 2023).
+- **Depois da alta (ACG 2023):** suspender AINE não-AAS e **AAS de prevenção primária**; manter AAS de prevenção secundária.
+- **Correção da anotação do Albert (Osler, 2026-10-13):** "o mais comum é o cólon direito, mas o que mais sangra é o esquerdo" — é o **inverso**.
+
+**Relevância clínica:** idoso com hematoquezia volumosa e sem dor = divertículo até prova em contrário.
+**Fonte:** Sengupta N et al. (ACG 2023). Am J Gastroenterol. 2023;118(2):208-231. PMID 36735555 — https://doi.org/10.14309/ajg.0000000000002130
+
+---

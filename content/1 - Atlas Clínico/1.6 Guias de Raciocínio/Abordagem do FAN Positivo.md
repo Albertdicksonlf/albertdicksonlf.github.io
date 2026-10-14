@@ -5,16 +5,16 @@ date: 2026-09-27T10:20:00
   - Imunologia
   - Clínica Médica
 tipo: Guia de Raciocínio
-tipo de exame: 
-tipo de doença: 
+tipo de exame:
+tipo de doença:
 classe de medicamentos:
-prevalência: 
+prevalência:
 aliases:
   - FAN positivo
   - ANA positivo
   - Abordagem do ANA positivo
   - Investigação de FAN reagente
-card: 
+card:
 ---
 
 # Guia de Raciocínio: Abordagem do FAN Positivo
@@ -57,7 +57,11 @@ Antes de interpretar o resultado, responda: **por que esse exame foi pedido?**
 - [[Lúpus Induzido por Drogas]] — investigue a lista de medicamentos **antes** de qualquer outra coisa
 - [[Síndrome AntiFosfolípides]]
 - [[Artrite Reumatoide]] — FAN positivo em cerca de 30%, sem significado diagnóstico próprio
-- *Sem nota no vault (texto puro):* síndrome de Sjögren, esclerose sistêmica, doença mista do tecido conjuntivo, dermatomiosite e polimiosite, doença indiferenciada do tecido conjuntivo
+- [[Doença de Sjögren]] — anti-Ro é o anticorpo central; FAN pontilhado fino
+- [[Esclerodermia|Esclerose sistêmica]] — FAN em ~95%; padrões centromérico (limitada) e nucleolar
+- [[Doença Mista do Tecido Conjuntivo (DMTC)|Doença mista do tecido conjuntivo]] — FAN pontilhado grosso em título alto + anti-U1-RNP
+- [[Dermatomiosite]] e demais [[Miopatias Inflamatórias|miopatias inflamatórias]] — FAN ajuda pouco; o que decide é o painel de miosite
+- [[Doença Indiferenciada do Tecido Conjuntivo (DITC)|Doença indiferenciada do tecido conjuntivo]] — traços de colagenose sem critério de doença definida
 
 ### Grupo C: Autoimunidade de órgão específico
 
@@ -73,14 +77,14 @@ Antes de interpretar o resultado, responda: **por que esse exame foi pedido?**
 
 ## 🔎 3. Algoritmo de Investigação
 
-1. **Passo 0 — reancorar:** anamnese e exame físico dirigidos. Procure ativamente fotossensibilidade, úlceras orais indolores, alopecia, artrite objetiva, serosite, fenômeno de Raynaud, xerostomia e xeroftalmia, esclerodactilia. **Pergunte a lista de medicamentos.**
+1. **Passo 0 — reancorar:** anamnese e exame físico dirigidos. Procure ativamente fotossensibilidade, úlceras orais indolores, alopecia, artrite objetiva, serosite, [[Fenômeno de Raynaud]], boca e olhos secos (no Sjögren, *ceratoconjuntivite seca* — "xeroftalmia" é o termo da deficiência de vitamina A), [[Esclerodactilia]], fraqueza proximal e [[Sinais Cutâneos da Dermatomiosite|lesões de dermatomiosite]]. **Pergunte a lista de medicamentos.**
 2. **Passo 1 — ler direito o resultado que já se tem:** [[FAN (Fator Antinuclear)]] → registre **título** e **padrão**. Os dois juntos, nunca só o título.
 3. **Passo 2 — triagem de órgão-alvo** (barata e obrigatória se houver qualquer suspeita): [[Hemograma]], creatinina, urina rotina com sedimento, relação proteína/creatinina urinária, [[Velocidade de Hemossedimentação (VHS)]] e PCR, transaminases.
 4. **Passo 3 — autoanticorpos específicos, guiados pelo padrão e pela clínica:**
 	- [[Anti-DNA de Dupla Hélice (anti-dsDNA)]] e [[Anti-Sm (anti-Smith)]] → LES
 	- [[Complemento (C3 e C4)]] → consumo indica atividade
 	- Anticorpos antifosfolípides → ver [[Síndrome AntiFosfolípides]]
-	- *Texto puro, sem nota no vault:* anti-Ro/SSA e anti-La/SSB (Sjögren, lúpus cutâneo subagudo, lúpus neonatal), anti-RNP (doença mista), anti-Scl-70 e anticentrômero (esclerose sistêmica), anti-histona (lúpus por fármaco)
+	- [[Anti-Ro (SSA) e Anti-La (SSB)]] (Sjögren, lúpus cutâneo subagudo, lúpus neonatal); anti-U1-RNP ([[Doença Mista do Tecido Conjuntivo (DMTC)|doença mista]]); anti-Scl-70, anticentrômero e anti-RNA polimerase III ([[Esclerodermia|esclerose sistêmica]]); painel de miosite ([[Miopatias Inflamatórias]]); anti-histona (lúpus por fármaco)
 5. **Passo 4 — padrão-ouro por órgão:** [[Biópsia Renal]] quando há proteinúria ou sedimento ativo; biópsia de pele nas formas cutâneas.
 
 > [!tip] Sequência barata que resolve a maioria dos casos
@@ -96,7 +100,10 @@ Antes de interpretar o resultado, responda: **por que esse exame foi pedido?**
 | [[Anti-DNA de Dupla Hélice (anti-dsDNA)]] positivo | LES, e serve para **seguir atividade** |
 | [[Complemento (C3 e C4)\|C3 e C4 consumidos]] | Doença **ativa** por imunocomplexos |
 | Padrão **pontilhado fino denso** isolado | Pessoa provavelmente **saudável** |
-| Padrão **centromérico** | Esclerose sistêmica cutânea limitada |
+| Padrão **centromérico** | [[Esclerodermia\|Esclerose sistêmica]] cutânea limitada |
+| Padrão **pontilhado grosso** em título alto + anti-U1-RNP | [[Doença Mista do Tecido Conjuntivo (DMTC)\|DMTC]] |
+| [[Anti-Ro (SSA) e Anti-La (SSB)\|Anti-Ro]] + secura objetiva | [[Doença de Sjögren]] |
+| FAN + [[Fenômeno de Raynaud\|Raynaud]] + capilaroscopia em padrão SD | Colagenose (ES, DMTC, DM) — ver [[Abordagem do Fenômeno de Raynaud]] |
 | **Anti-histona** com anti-dsDNA negativo | [[Lúpus Induzido por Drogas]] |
 | Proteinúria > 0,5 g/24 h | [[Nefrite Lúpica]] — muda o prognóstico e a terapia |
 | [[Rash Malar]] poupando sulco nasolabial | [[Lúpus Cutâneo]] agudo |
@@ -127,3 +134,4 @@ Antes de interpretar o resultado, responda: **por que esse exame foi pedido?**
 ### ➕ Updates de Casos Reais
 *- Guia criado em 2026-09-27, na rodada de LES, a pedido do Albert. Não existia guia de raciocínio para o achado laboratorial que mais gera encaminhamento reumatológico.*
 -
+- **2026-10-12 (rodada de Colagenoses):** o Grupo B, o Passo 3 e a tabela de pivôs deixaram de ter colagenoses em texto puro — links subidos para as notas novas de Sjögren, esclerose sistêmica (`Esclerodermia`), DMTC, dermatomiosite, miopatias inflamatórias, DITC, anti-Ro/La e Raynaud. No Passo 0, "xeroftalmia" foi trocado por ceratoconjuntivite seca (o termo é reservado à deficiência de vitamina A).

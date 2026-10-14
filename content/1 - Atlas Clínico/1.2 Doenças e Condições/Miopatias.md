@@ -33,7 +33,7 @@ tipo de exame: null
 ## 🧭 Classificação (orientação)
 - **Hereditárias:** distrofias musculares, miopatias congênitas, metabólicas, canalopatias.
 - **Adquiridas:**
-	- **Inflamatórias:** dermatomiosite, polimiosite, miopatia necrosante imunomediada, [[Miopatia por Corpúsculos de Inclusão]].
+	- **Inflamatórias:** ver [[Miopatias Inflamatórias]] — [[Dermatomiosite]], polimiosite, síndrome antissintetase, miopatia necrosante imunomediada, [[Miopatia por Corpúsculos de Inclusão]].
 	- **Endócrinas/metabólicas:** tireoidopatias, Cushing, distúrbios do potássio.
 	- **Tóxicas/medicamentosas:** estatinas, corticoide, álcool.
 

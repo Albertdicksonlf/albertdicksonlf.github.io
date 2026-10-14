@@ -30,7 +30,7 @@ tipo de exame: ''
 - **Quadro típico:** assintomático — achado incidental ou de rastreio.
 - **Sintomas Principais (quando presentes):**
 	- [[Dor abdominal]] inespecífica
-	- [[Dor lombar]] (compressão de estruturas adjacentes, p. ex. ureter)
+	- Dor lombar (compressão de estruturas adjacentes, p. ex. ureter)
 	- [[Edema de membros inferiores]] (compressão da veia cava)
 - **Apresentação dramática:** como ruptura → ver [[Ruptura de Aneurisma de Aorta Abdominal]].
 

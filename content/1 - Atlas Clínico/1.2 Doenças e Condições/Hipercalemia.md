@@ -196,6 +196,11 @@ Podem ocorrer ainda bloqueios ([[BAV de 1º Grau]], [[BAV de 3º Grau]]) e bradi
 - Corrigir acidose, tratar a rabdomiólise ou a lise tumoral, repor corticoide na insuficiência adrenal
 - **Orientação dietética** e ajuste de prescrição no seguimento ambulatorial
 
+
+
+![[Pasted image 20261008183944.png]]
+
+
 ---
 
 ## 💡 Pontos de Aprendizado e Heurísticas
@@ -215,3 +220,42 @@ Podem ocorrer ainda bloqueios ([[BAV de 1º Grau]], [[BAV de 3º Grau]]) e bradi
 ### ➕ Novas Anotações / Insights
 *- Nota criada em 2026-08-23 a partir de `Distúrbios do Potássio - Anotações` (Osler) + fragmento `Hipercalemia - Aula LACLIM`.*
 -
+
+---
+
+### 🔗 Hipercalemia que a TFG não explica: ATR tipo 4
+**Data:** 2026-10-13
+**Contexto:** [[Acidose Tubular Renal do tipo IV]] · [[Acidose Tubular Renal (ATR)]]
+
+**Características específicas:**
+- **Perfil típico:** diabético com TFG só leve ou moderadamente reduzida, **K⁺ 5,5–6,5 mEq/L** e **HCO₃⁻ 18–22 mEq/L**, com ânion gap normal — geralmente assintomático (Palmer 2021).
+- **Prova de que o rim não está secretando K⁺:** durante a hipercalemia, **K⁺ urinário < 40 mmol/L** ou **excreção fracionada de K⁺ < 20%**.
+- **Renina e aldosterona** (depois de corrigir o K⁺): ambas baixas = **hipoaldosteronismo hiporreninêmico** (o do diabético); renina alta e aldosterona baixa = adrenal, IECA/BRA ou heparina.
+- **Trimetoprima** e **pentamidina** bloqueiam o ENaC como a amilorida; **tacrolimo e ciclosporina** causam resistência à aldosterona — entram na revisão de fármacos.
+- **Na ATR tipo 4, baixar o potássio corrige a acidose:** a hipercalemia freia a produção de amônia; normalizá-la devolve o tampão urinário.
+- **Manter IECA/BRA quando houver indicação forte** (nefropatia diabética proteinúrica): diurético de alça, bicarbonato de sódio e quelantes modernos permitem isso. O **ciclossilicato de zircônio sódico** ainda eleva o HCO₃⁻ em cerca de 2–3 mEq/L.
+
+**Relevância clínica:** a linha "acidose tubular renal tipo 4" desta nota agora tem destino — e o caso [[F.G.O - 45 anos - A tempestade Perfeita - Diarreia + IRA + ATR4]] mostra o raciocínio na prática.
+**Fonte:** Palmer BF, Kelepouris E, Clegg DJ. Adv Ther. 2021;38(2):949-968. PMID 33367987 — https://doi.org/10.1007/s12325-020-01587-5
+
+---
+
+### 🔗 Hipercalemia na urgência nefrológica: UKKA 2023 e o novo limiar de diálise
+**Data:** 2026-10-13
+**Contexto:** [[Urgências Dialíticas]] · [[Insuficiência Renal Aguda]]
+
+**Características específicas — onde a diretriz britânica de 2023 difere desta nota:**
+- **Graus:** leve **5,5–5,9** · moderada **6,0–6,4** · grave **≥ 6,5** mEq/L (esta nota usa 5,0–6,0 / 6,1–6,5 / > 6,5).
+- **ECG** de 12 derivações se K⁺ ≥ 6,0; **monitor contínuo** se ≥ 6,5, ECG alterado ou paciente instável com 6,0–6,4.
+- **Cálcio:** **gluconato de cálcio 10% — 30 mL em 10 min**, ou **cloreto de cálcio 10% — 10 mL em 5 min** (preferido na parada ou peri-parada). A dose de 10 mL de gluconato desta nota é a usual no Brasil, mas é **um terço** da dose britânica.
+- **Insulina 10 U + glicose 25 g**; se a glicemia antes do tratamento for **< 126 mg/dL (7 mmol/L)**, manter **glicose 10% a 50 mL/h por 5 h**. Glicemia em 0, 30, 60, 90, 120, 180, 240, 300 e 360 min.
+- **Salbutamol 10–20 mg** só como adjuvante.
+- **Bicarbonato:** não de rotina (2C) — reservado à acidose metabólica associada e à parada com hipercalemia suspeita.
+- **Ciclossilicato de zircônio sódico 10 g 3×/dia por até 72 h** na grave (e considerar na moderada); patiromer 8,4 g é alternativa.
+- **Poliestirenossulfonato de cálcio (Sorcal): sem papel no tratamento agudo.**
+- **Quando dialisar (KDIGO 2026, rascunho, Tabela 41):** **K⁺ ≥ 6,0** subindo rápido ou com cardiotoxicidade, **refratário** ao tratamento clínico — a "hipercalemia > 6,5" deixou de ser o gatilho; o gatilho é a refratariedade.
+
+**Relevância clínica:** a sequência proteger → deslocar → remover desta nota segue certa; mudaram a dose do cálcio, o papel da resina e o limiar de diálise.
+**Fonte:** UK Kidney Association. Clinical Practice Guideline — Management of Hyperkalaemia in Adults, out/2023 — https://www.ukkidney.org/sites/renal.org/files/FINAL%20VERSION%20-%20UKKA%20CLINICAL%20PRACTICE%20GUIDELINE%20-%20MANAGEMENT%20OF%20HYPERKALAEMIA%20IN%20ADULTS%20-%20191223_0.pdf · KDIGO 2026 AKI/AKD — Public Review Draft (mar/2026), Tabela 41 — https://kdigo.org/wp-content/uploads/2026/03/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026.pdf
+
+---

@@ -213,3 +213,23 @@ O [[Diabetes Mellitus Tipo 2]] tem estratificação própria:
 *- Diretriz Brasileira de Hipertensão Arterial – SBC 2025 (Brandão AA et al. Arq Bras Cardiol. 2025;122(9):e20250624)*
 *- Escore PREVENT adotado oficialmente pelas SBC, SBEM, ABESO e SBH em 2025*
 -
+
+### 🔗 Conferência contra o texto da SBC 2025 — correções a esta nota
+**Data:** 2026-10-13
+**Contexto:** reescrita das notas de dislipidemia — [[Dislipidemia]] · [[Manejo LDL]] · [[Escore de Cálcio Coronariano]] · [[Lipoproteína(a)]]
+
+**O que está diferente do texto da diretriz (Tabelas 4.1–4.3 e recomendações):**
+- **Risco extremo (Tabela 4.2):** é **múltiplos** eventos ateroscleróticos maiores **ou** 1 evento maior **+ ≥ 2 condições de alto risco**.
+	- *Eventos maiores:* SCA nos últimos 12 meses, IAM prévio, AVC isquêmico prévio, doença arterial periférica sintomática (claudicação com ITB < 0,85, revascularização ou amputação).
+	- *Condições de alto risco:* idade ≥ 65 · hipercolesterolemia familiar · revascularização prévia fora do evento · diabetes · hipertensão · DRC com TFGe **15–59** · tabagismo atual · LDL-c ≥ 100 apesar de estatina máxima + ezetimiba · evento há < 2 anos.
+	- ⚠️ "IRC dialítica" e "HF com doença aterosclerótica" **não** são critérios isolados. Na diálise sem DCV estabelecida, a SBC 2025 recomenda **não iniciar** estatina.
+- **Alto risco (Tabela 4.1):** faltavam **Lp(a) > 180 mg/dL (> 390 nmol/L)**, **aneurisma de aorta abdominal** e **placas < 50% na angio-TC de coronárias**. "HAS tratada + alto risco pelo PREVENT" e "idade ≥ 65 com fatores de risco" **não constam** da tabela (idade ≥ 65 é condição para o risco extremo).
+- **Aterosclerose subclínica não é agravante — é critério direto de alto risco** (CAC > 100 ou percentil > 75, placa carotídea < 50%). Agravantes (Tabela 4.3) são: história familiar de DCV prematura · adiposidade, esteatose e síndrome metabólica · doenças inflamatórias crônicas (AR, psoríase, LES, DII) **e HIV** · **transplante** · fatores específicos da mulher (menarca ≤ 12 ou ≥ 17, distúrbios gestacionais, parto prematuro, restrição de crescimento, ≥ 3 abortos, menopausa < 40) · **Lp(a) ≥ 50 mg/dL** · **PCR-us ≥ 2 mg/L**. ITB < 0,9 não consta da tabela.
+- **Terapia combinada inicial começa no ALTO risco** (estatina alta + ezetimiba, FORTE/ALTA), não só no muito alto e extremo; no **extremo** é estatina + ezetimiba **+ anti-PCSK9** (não "±").
+- **NT-proBNP:** a SBC 2025 **não recomenda** BNP/NT-proBNP para estratificar risco aterosclerótico no assintomático.
+- **Diabetes — estratificadores de muito alto risco (Tabela 4.8):** ≥ 3 EAR · DM1 > 20 anos de duração diagnosticado após 18 anos · estenose > 50% em qualquer território · EMAR renal · CT > 310 ou LDL-c > 190 · neuropatia autonômica instalada · retinopatia não proliferativa moderada-grave, grave, proliferativa ou em progressão. Idade-limiar do DM2 para alto risco: homem ≥ 50, mulher ≥ 56 anos.
+
+**Relevância clínica:** a categoria define meta e terapia inicial; errar o critério de risco extremo muda a meta de < 50 para < 40 mg/dL e o início da terapia tripla.
+**Fonte:** Rached FH et al. Diretriz Brasileira de Dislipidemias e Prevenção da Aterosclerose – 2025. Arq Bras Cardiol. 2025;122(9):e20250640. PMID 41379178 — https://doi.org/10.36660/abc.20250640 (PMC12674852)
+
+---

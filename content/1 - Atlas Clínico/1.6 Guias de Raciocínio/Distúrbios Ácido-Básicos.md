@@ -59,6 +59,7 @@ card:
         - **Cálculo do Ânion Gap (AG):** AG = Na⁺ - (Cl⁻ + HCO₃⁻). Normal: 8-12 mEq/L.
         - Um **AG aumentado** indica ganho de ácidos (ex: cetoacidose, acidose lática).
         - Um **AG normal** indica perda de bicarbonato (ex: diarreia, acidose tubular renal).
+            - **Próximo passo:** [[Ânion Gap Urinário]] — negativo = perda intestinal; positivo = defeito renal → potássio baixo: [[Acidose Tubular Renal do tipo I|tipo 1]] ou [[Acidose Tubular Renal do tipo II|tipo 2]]; potássio alto: [[Acidose Tubular Renal do tipo IV|tipo 4]]. Ver [[Acidose Tubular Renal (ATR)]].
         - **Cálculo do Delta-Delta (somente se AG aumentado):** ΔAG / ΔHCO₃⁻ = (AG - 12) / (24 - HCO₃⁻). Ajuda a detectar um terceiro distúrbio metabólico oculto.
 
 ## 🔗 3. Os Quatro Distúrbios Primários

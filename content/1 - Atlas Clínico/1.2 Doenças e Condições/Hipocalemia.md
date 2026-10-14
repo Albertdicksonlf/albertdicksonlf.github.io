@@ -16,7 +16,7 @@ tipo de exame: null
   - Nefrologia
   - Clínica Médica
 ---
-
+	
 # Hipocalemia
 
 > [!abstract] Resumo de Uma Linha
@@ -211,3 +211,40 @@ tipo de exame: null
 ### ➕ Novas Anotações / Insights
 *- Nota preenchida em 2026-08-23 a partir de `Distúrbios do Potássio - Anotações` (Osler). O arquivo existia vazio (143 bytes, apenas frontmatter em formato antigo) desde jan/2026.*
 -
+
+---
+
+### 🔗 Hipocalemia + acidose de ânion gap normal: diarreia ou ATR?
+**Data:** 2026-10-13
+**Contexto:** [[Acidose Tubular Renal (ATR)]] · [[Acidose Tubular Renal do tipo I]] · [[Acidose Tubular Renal do tipo II]]
+
+**Características específicas:**
+- Quando a hipocalemia vem com **acidose de ânion gap normal**, as candidatas são três: **diarreia**, **ATR distal (tipo 1)** e **ATR proximal (tipo 2)**. O potássio urinário alto já aponta o rim; o [[Ânion Gap Urinário]] confirma — **negativo** na diarreia, **positivo** na ATR distal.
+- **Armadilha:** na diarreia com hipocalemia, a produção renal de amônia dispara e a urina pode ficar **acima de 5,5**, imitando ATR distal. O ânion gap urinário negativo desfaz a confusão.
+- **ATR distal:** hipocalemia muitas vezes **< 3,0 mEq/L**; a **paralisia hipocalêmica** pode ser a primeira manifestação, sobretudo na [[Doença de Sjögren]].
+- **Ordem de correção:** na paralisia hipocalêmica com acidose, repor **potássio primeiro** — o álcali sozinho desloca K⁺ para dentro das células e pode piorar a fraqueza *(conhecimento consolidado)*. Depois, [[Citrato de Potássio]] trata as duas coisas.
+- **ATR proximal:** o álcali **aumenta a perda de potássio** (mais bicarbonato chega ao néfron distal) — por isso se usa sal de potássio.
+
+**Relevância clínica:** completa a linha "Acidose tubular renal tipos 1 e 2" da Etiologia, que não tinha para onde levar.
+**Fonte:** Trepiccione F et al. (ERKNet/ESPN). Nephrol Dial Transplant. 2021;36(9):1585-1596. PMID 33914889 — https://doi.org/10.1093/ndt/gfab171 · Palmer BF et al. Adv Ther. 2021;38(2):949-968. PMID 33367987 — https://doi.org/10.1007/s12325-020-01587-5 · Batlle DC et al. N Engl J Med. 1988;318(10):594-9. PMID 3344005
+
+---
+
+
+### 🔗 Hipocalemia no tratamento das crises hiperglicêmicas
+**Data:** 2026-10-13
+**Contexto:** [[Cetoacidose Diabética]] · [[Estado Hiperosmolar]] · [[Manejo de Hiperglicemia Aguda]]
+
+**Características específicas:**
+- **Déficit mascarado:** o déficit corporal de K⁺ na CAD é de 3–6 mmol/kg, mas o K⁺ sérico chega **normal ou alto**. A acidose e a falta de insulina deslocam o potássio para fora da célula.
+- **Queda com o tratamento:** insulina, correção da acidose e volume derrubam o K⁺ em 1–2 mmol/L nas primeiras 48 h.
+- **Frequência:** hipocalemia em ~55% das CADs e 51% dos EHHs; K⁺ ≤ 2,5 em 16% e 9%, respectivamente.
+- **Regra de segurança:**
+	- **K⁺ < 3,3 (SBD) ou < 3,5 (ADA) → não iniciar insulina** até repor;
+	- K⁺ entre esse limite e 5,0–5,2 → 20–30 mmol de KCl por litro de soro, com alvo de 4–5;
+	- dosar o K⁺ **2 h após** iniciar a insulina e depois a cada 4 h.
+
+**Relevância clínica:** K⁺ ≤ 2,5 durante o tratamento associou-se a **OR 4,9 para óbito hospitalar**. É a complicação evitável que mais mata na crise hiperglicêmica.
+**Fonte:** Umpierrez GE et al. Hyperglycemic Crises in Adults With Diabetes: A Consensus Report (ADA/EASD/JBDS/AACE/DTS). Diabetes Care. 2024;47(8):1257-1275. PMID 39052901 — https://doi.org/10.2337/dci24-0032 · SBD 2023, Cetoacidose Diabética (R9–R10) — https://diretriz.diabetes.org.br/diagnostico-e-tratamento-da-cetoacidose-diabetica/
+
+---

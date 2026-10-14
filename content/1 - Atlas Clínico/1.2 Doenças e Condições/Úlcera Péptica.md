@@ -90,3 +90,25 @@ Redução do ácido
 - **Úlcera Duodenal:** Não precisa repetir EDA se os sintomas sumiram. Apenas confirmar erradicação do H. pylori (Teste respiratório).
 - **Úlcera Gástrica:** **EDA de Controle OBRIGATÓRIA** após o tratamento (com novas biópsias) para documentar a cicatrização.
   - *Por que?* Uma úlcera que não cicatriza pode ser um Câncer oculto que a primeira biópsia não pegou.
+
+---
+
+### ➕ Novas Anotações / Insights
+
+### 🔗 Úlcera péptica sangrante — o que a EDA decide
+**Data:** 2026-10-13
+**Contexto:** [[Hemorragia Digestiva Alta Não Varicosa]] · [[Classificação de Forrest]] · [[Abordagem da Hemorragia Digestiva]]
+
+**Características específicas:**
+- **Terapia endoscópica pelo estigma:** Forrest **Ia/Ib** → adrenalina **+** térmica de contato ou clipe (adrenalina isolada não basta); **IIa** → térmica, clipe ou esclerosante; **IIb** → considerar remover o coágulo e tratar o que houver embaixo; **IIc/III** → só IBP (ESGE 2021).
+- **Depois da hemostasia:** IBP em dose alta por **72 h** (80 mg EV + 8 mg/h, ou bolus 2×/dia) → oral **2×/dia até 2 semanas** → 1×/dia (ACG 2021; ESGE 2021).
+- **Ressangramento:** nova EDA (clipe sobre o endoscópio — OTSC) → embolização transarterial → cirurgia (ACG 2021; ESGE 2021).
+- **Anatomia que prevê gravidade:** parede posterior do bulbo → **artéria gastroduodenal**; pequena curvatura → **artéria gástrica esquerda**.
+- **AAS de prevenção secundária não se suspende** de rotina; se suspenso, volta em 3–5 dias (ESGE 2021).
+- **H. pylori:** testar sempre; no episódio agudo o teste pode dar falso-negativo → repetir depois se negativo *(conhecimento consolidado)*.
+- A úlcera ainda é a 1ª causa de HDA, mas caiu de ~1/2 para ~1/4 dos casos nas séries recentes.
+
+**Relevância clínica:** quem decide a terapia endoscópica é o estigma, não o tamanho da úlcera.
+**Fonte:** Laine L et al. (ACG 2021). Am J Gastroenterol. 2021;116(5):899-917. PMID 33929377 · Gralnek IM et al. (ESGE 2021). Endoscopy. 2021;53(3):300-332. PMID 33567467
+
+---

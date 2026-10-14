@@ -150,3 +150,21 @@ tipo de exame: null
 *- Acrescentado às fontes: triângulo de segurança, feixe VAN e o racional da borda superior, leitura das três câmaras do selo d'água (oscilação × borbulhamento), edema pulmonar de reexpansão, sangue que coagula = sangramento ativo.*
 *- Texto puro proposital: cefazolina, empiema, videotoracoscopia, fibrotórax, pigtail.*
 -
+
+---
+
+### 🔗 O dreno no pneumotórax espontâneo — fino, sem sucção e nem sempre necessário
+**Data:** 2026-10-13
+**Contexto:** [[Pneumotórax Espontâneo]]
+
+**Características específicas:**
+- **Nem sempre drenar:** no espontâneo primário, a BTS 2023 aceita conduta **conservadora** no paciente minimamente sintomático, de qualquer tamanho, e prefere **aspiração por agulha** ou **manejo ambulatorial** (válvula de Heimlich) antes do dreno. O dreno fica para quem falhou ou não serve para as outras opções — e para a maioria dos **secundários**.
+- **Calibre:** no espontâneo, **pequeno calibre (< 14 Fr)**, em geral por técnica de Seldinger; drenos grossos **não são necessários** (BTS 2010). O "≥ 14 Fr" desta nota vale para o pneumotórax **traumático**, onde pode haver sangue.
+- **Sucção:** **não** de rotina — sem benefício no escape aéreo persistente e com risco de **edema pulmonar de reexpansão** (até 14%, mais em jovens com pneumotórax primário grande e de vários dias). Se for usar, sistema de **alto volume e baixa pressão** (−10 a −20 cmH₂O) (BTS 2010).
+- **Escape aéreo persistente:** borbulhamento por **mais de 48 h**. Opinião cirúrgica em 3–5 dias; cirurgia se persistir após 5–7 dias. Sem condição cirúrgica: pleurodese com sangue autólogo ou válvulas endobrônquicas (BTS 2010 e 2023).
+- **Pleurodese química pelo dreno** (talco estéril) é alternativa para quem não pode operar — com analgesia generosa antes e depois. Ver [[Pleurodese]].
+
+**Relevância clínica:** o dreno que salva no trauma é, no pneumotórax espontâneo primário, muitas vezes um excesso — e a sucção que parece "ajudar o pulmão a subir" pode causar edema de reexpansão.
+**Fonte:** Roberts ME et al. BTS Guideline for pleural disease. Thorax. 2023;78(Suppl 3):s1-s42. PMID 37433578 — https://doi.org/10.1136/thorax-2022-219784 · MacDuff A et al. BTS Pleural Disease Guideline 2010. Thorax. 2010;65(Suppl 2):ii18-31. PMID 20696690 — https://doi.org/10.1136/thx.2010.136986
+
+---

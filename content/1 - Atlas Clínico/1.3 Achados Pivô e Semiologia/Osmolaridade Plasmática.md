@@ -99,3 +99,28 @@ A osmolaridade plasmática é o **primeiro passo** na investigação de qualquer
 *- Nota criada na sessão de processamento de Distúrbios da Água (mai/2026).*
 *- A osmolaridade é o "termostato" da homeostase hídrica — ler o sódio sem ler a osmolaridade frequentemente leva a interpretação errada.*
 -
+
+
+### 🔗 Osmolaridade no Estado Hiperosmolar Hiperglicêmico
+**Data:** 2026-10-13
+**Contexto:** [[Estado Hiperosmolar]] · [[Manejo de Hiperglicemia Aguda]]
+
+**Características específicas:**
+- **Critério diagnóstico do EHH:**
+	- ADA 2024: osmolaridade **efetiva** (2 × Na⁺ + glicemia/18) **> 300 mOsm/kg** **ou** total > 320;
+	- SBD 2025: efetiva > 320.
+- **Clínica:** a deterioração neurológica acompanha osmolaridade efetiva > 320. **Coma com osmolaridade efetiva < 320 → procurar outra causa** (SBD 2025).
+- **Velocidade de correção:**
+	- osmolaridade caindo **3–8 mOsm/kg/h**;
+	- Na⁺ caindo ≤ 10 mmol/L em 24 h;
+	- glicemia caindo ≤ 90–120 mg/dL/h.
+	- O objetivo é evitar [[Edema Cerebral]] e [[Síndrome de Desmielinização Osmótica]].
+- **Resolução:**
+	- ADA: osmolaridade < 300;
+	- SBD: < 315.
+- **Fórmulas:** a SBD escreve "ureia/2,8", mas esse divisor é para o **BUN**. Com ureia, use **/6**, como nesta nota.
+
+**Relevância clínica:** no EHH, o número que precisa **cair** é a osmolaridade efetiva. O Na⁺ sobe no início do tratamento (a água volta para as células conforme a glicose cai), e isso é esperado.
+**Fonte:** Umpierrez GE et al. Diabetes Care. 2024;47(8):1257-1275. PMID 39052901 · SBD 2025, Manejo da SHHNC — https://diretriz.diabetes.org.br/manejo-da-sindrome-hiperglicemica-hiperosmolar-nao-cetotica-shhnc/
+
+---

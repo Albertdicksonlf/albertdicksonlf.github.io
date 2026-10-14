@@ -83,3 +83,21 @@ tipo de exame: ""
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
 -
+
+
+---
+
+### 🔗 HAP das colagenoses — esclerose sistêmica e DMTC
+**Data:** 2026-10-12
+**Contexto:** [[Esclerodermia|Esclerose sistêmica]] e [[Doença Mista do Tecido Conjuntivo (DMTC)|DMTC]] (rodada de Colagenoses)
+
+**Características específicas:**
+- **Quem:** ES, sobretudo a **cutânea limitada** e tardia (anticentrômero, anti-Th/To); na **DMTC**, é a **principal causa de morte**. No EUSTAR, a HAP respondeu por 26% das mortes atribuídas à ES.
+- **Rastrear:** ecocardiograma anual na ES (com algoritmo DETECT); DLCO isoladamente baixa ou desproporcional à CVF é sinal de alerta. **Só o cateterismo direito confirma** (ESC/ERS 2022: mPAP **> 20 mmHg** e resistência vascular pulmonar > 2 unidades Wood para HAP pré-capilar).
+- **Tratar (EULAR 2023):** **combinação inicial** de [[Inibidores da PDE-5|inibidor de PDE-5]] + antagonista do receptor de endotelina; epoprostenol IV na classe funcional III–IV; selexipag e riociguate como opções. ⛔ **Anticoagulação não recomendada** na HAP da ES (metanálise com mais mortalidade).
+- ⚠️ **BCC não é tratamento da HAP da ES.** Bloqueador de canal de cálcio na HAP é só para quem tem teste de vasorreatividade positivo — teste indicado nas formas idiopática, hereditária e por fármacos, não nas colagenoses. Na ES, o BCC é droga do **Raynaud**. (Correção a um card da Osler que listava BCC entre as opções da HAP.)
+
+**Relevância clínica:** paciente com ES e dispneia progressiva com espirometria pouco alterada = pensar em HAP e pedir eco + DLCO, não só TC.
+**Fonte:** Del Galdo F, et al. EULAR 2023 (Ann Rheum Dis. 2025;84(1):29-40, PMID 39874231); Humbert M, et al. ESC/ERS 2022 (Eur Heart J. 2022;43(38):3618-3731, PMID 36017548); Tyndall AJ, et al. EUSTAR (Ann Rheum Dis. 2010;69(10):1809-15, PMID 20551155).
+
+---

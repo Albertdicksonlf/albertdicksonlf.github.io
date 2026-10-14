@@ -41,7 +41,7 @@ tipo de exame: null
 - [[Asma]]
 - [[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]] / [[Exacerbação de DPOC|exacerbação de DPOC]]
 - [[Pneumonia]]
-- [[Pneumotórax]]
+- [[Pneumotórax]] — sem trauma: [[Pneumotórax Espontâneo]] (dispneia súbita + dor pleurítica; no DPOC, desproporcional ao tamanho)
 - [[Derrame pleural]]
 - [[Bronquiolite]]
 - *Pista:* [[Sibilância]], [[Tosse]], alteração no [[Raio-X de Tórax]], expansibilidade e frêmito assimétricos.

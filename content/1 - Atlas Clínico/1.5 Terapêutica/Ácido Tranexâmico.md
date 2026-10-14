@@ -114,3 +114,19 @@ A aula de urgência indicou TXA *"no TCE moderado a grave"*. **O CRASH-3 mostra 
 - Elegibilidade do ensaio: Glasgow ≤ 12 **ou** qualquer sangramento intracraniano na TC, sem hemorragia extracraniana maior
 
 **Fonte:** CRASH-3 trial collaborators. Lancet. 2019;394(10210):1713-1723. PMID 31623894
+
+---
+
+### 🔗 Hemorragia digestiva — onde o TXA **não** funciona
+**Data:** 2026-10-13
+**Contexto:** [[Abordagem da Hemorragia Digestiva]] · [[Hemorragia Digestiva Alta Não Varicosa]] · [[Hemorragias Digestivas Baixa|Hemorragia Digestiva Baixa]]
+
+**Características específicas:**
+- **HALT-IT** (12.009 pacientes, HDA e HDB significativas; 1 g + 3 g em 24 h): morte por sangramento em 5 dias **4% × 4% (RR 0,99; IC 0,82–1,18)**; eventos tromboembólicos **venosos** aumentaram (**RR 1,85; IC 1,15–2,98**).
+- Conclusão dos autores: não usar TXA no sangramento digestivo fora de ensaio clínico. A ACG 2023 (HDB) recomenda **contra** antifibrinolíticos.
+- O raciocínio "funciona no trauma, então funciona aqui" é exatamente o erro que o card da Osler aponta — o contexto fisiopatológico é outro.
+
+**Relevância clínica:** na hemorragia digestiva, TXA só acrescenta risco trombótico.
+**Fonte:** HALT-IT Trial Collaborators. Lancet. 2020;395(10241):1927-1936. PMID 32563378 — https://doi.org/10.1016/S0140-6736(20)30848-5 · Sengupta N et al. (ACG 2023). PMID 36735555
+
+---

@@ -6,9 +6,9 @@ date: 2026-09-27T10:10:00
   - Patologia Clínica
 tipo: Exame
 tipo de exame: Laboratorial
-tipo de doença: 
+tipo de doença:
 classe de medicamentos:
-prevalência: 
+prevalência:
 aliases:
   - FAN
   - Fator Antinuclear
@@ -16,7 +16,7 @@ aliases:
   - Antinuclear Antibody
   - Pesquisa de Anticorpos Antinucleares
   - FAN HEp-2
-card: 
+card:
 ---
 
 # FAN (Fator Antinuclear)
@@ -66,11 +66,12 @@ Os padrões dividem-se em três grupos — **nuclear**, **citoplasmático** e **
 | Padrão | Anticorpo associado | Pivô |
 |---|---|---|
 | **Nuclear homogêneo** | [[Anti-DNA de Dupla Hélice (anti-dsDNA)\|anti-dsDNA]], anti-histona | LES e [[Lúpus Induzido por Drogas]] |
-| **Nuclear pontilhado grosso** | [[Anti-Sm (anti-Smith)\|anti-Sm]], anti-RNP | LES, doença mista do tecido conjuntivo |
-| **Nuclear pontilhado fino** | anti-Ro/SSA, anti-La/SSB | Sjögren, lúpus cutâneo subagudo, lúpus neonatal |
+| **Nuclear pontilhado grosso** | [[Anti-Sm (anti-Smith)\|anti-Sm]], anti-U1-RNP | LES, [[Doença Mista do Tecido Conjuntivo (DMTC)\|doença mista do tecido conjuntivo]] |
+| **Nuclear pontilhado fino** | [[Anti-Ro (SSA) e Anti-La (SSB)\|anti-Ro/SSA, anti-La/SSB]] | [[Doença de Sjögren\|Sjögren]], lúpus cutâneo subagudo, lúpus neonatal |
 | **Nuclear pontilhado fino denso (DFS70)** | anti-DFS70 | ⚠️ **Frequente em pessoas saudáveis.** Na ausência de clínica, **não valorizar** — é um dos poucos padrões que ajudam a *afastar* doença autoimune sistêmica |
-| **Centromérico** | anticentrômero | Esclerose sistêmica cutânea limitada |
-| **Nucleolar** | anti-Scl-70, anti-fibrilarina | Esclerose sistêmica |
+| **Centromérico** | anticentrômero | [[Esclerodermia\|Esclerose sistêmica]] cutânea limitada |
+| **Nucleolar** | anti-fibrilarina (U3-RNP), anti-Th/To, anti-PM/Scl | [[Esclerodermia\|Esclerose sistêmica]]; anti-PM/Scl na escleromiosite |
+| **"Topo I-like" (pontilhado fino com nucléolos corados)** | anti-Scl-70 (anti-topoisomerase I) | ES cutânea difusa com DPI — o anti-Scl-70 tem padrão próprio no ICAP, não o nucleolar puro |
 
 ### Pivôs diagnósticos
 
@@ -123,3 +124,15 @@ Os padrões dividem-se em três grupos — **nuclear**, **citoplasmático** e **
 *- Nota criada em 2026-09-27, na rodada de LES. O arquivo existia com **0 byte** desde antes; foi escrito do zero.*
 *- Insight do deck da Osler que vale reter: **FAN é exame, não anticorpo.** O nome induz ao erro. Ele é o método de detecção; os anticorpos são o achado.*
 -
+
+### 🔗 Tabela de padrões revista na rodada de Colagenoses
+**Data:** 2026-10-12
+**Contexto:** [[Esclerodermia|Esclerose sistêmica]], [[Doença de Sjögren]], [[Doença Mista do Tecido Conjuntivo (DMTC)|DMTC]]
+
+- Links subidos para as notas novas (Sjögren, DMTC, anti-Ro/La, ES).
+- **Correção:** a linha "nucleolar = anti-Scl-70" foi desdobrada. O padrão **nucleolar** é o de anti-fibrilarina (U3-RNP), anti-Th/To e anti-PM/Scl; o **anti-Scl-70** dá um padrão composto próprio ("topo I-like", pontilhado fino com nucléolos corados).
+- ⚠️ Anti-Ro pode vir com **FAN negativo** (o Ro60 é pouco representado nas células HEp-2) — se a suspeita de Sjögren ou lúpus cutâneo subagudo for alta, pedir o anti-Ro mesmo assim.
+
+**Fonte:** International Consensus on ANA Patterns (ICAP) — https://anapatterns.org; padrão do anti-Ro com FAN negativo: conhecimento consolidado.
+
+---

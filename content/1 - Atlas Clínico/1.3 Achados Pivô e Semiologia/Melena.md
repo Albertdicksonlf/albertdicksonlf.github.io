@@ -2,7 +2,7 @@
 área: Gastroenterologia / Emergência
 tipo: Sinal
 aliases:
-  - Fezes em borra de café
+  - Fezes em alcatrão
 ---
 
 # Melena
@@ -41,3 +41,21 @@ aliases:
   - Açaí, espinafre, feijão preto, beterraba.
 
 - **Como diferenciar:** A pseudo-melena geralmente resulta em fezes formadas e sem o odor fétido característico. Na dúvida, uma [[Pesquisa de sangue oculto nas fezes]] pode confirmar a ausência de sangue.
+
+---
+
+### ➕ Novas Anotações / Insights
+
+### 🔗 Melena vista pelo médico — o achado mais forte para HDA
+**Data:** 2026-10-13
+**Contexto:** [[Abordagem da Hemorragia Digestiva]] · [[Hemorragia Digestiva Alta]]
+
+**Características específicas:**
+- **Melena vista no [[Toque Retal]] pelo examinador: LR 25** para fonte alta — mais forte que a melena relatada pelo paciente (LR 5,1–5,9).
+- Melena também pode vir do **cólon direito ou do delgado** (trânsito lento): EDA normal + melena → [[Colonoscopia]] e depois delgado.
+- **Correção:** o alias antigo "fezes em borra de café" estava errado e foi trocado por "fezes em alcatrão". **Borra de café descreve o vômito** (ou aspirado) — ver [[Hematêmese]]; melena são fezes negras, pegajosas e fétidas.
+
+**Relevância clínica:** o toque retal na suspeita de HDA não é opcional — é o pivô de maior LR da beira do leito.
+**Fonte:** Srygley FD et al. JAMA. 2012;307(10):1072-9. PMID 22416103 — https://doi.org/10.1001/jama.2012.253
+
+---

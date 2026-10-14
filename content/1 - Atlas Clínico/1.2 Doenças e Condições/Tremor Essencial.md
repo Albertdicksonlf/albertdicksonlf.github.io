@@ -70,7 +70,7 @@ tipo de exame: null
 
 - **Achado-Pivô Diagnóstico:**
 	- Tremor de ação **bilateral simétrico** em MMSS, ≥3 anos de evolução, sem outros sinais = ET clássico.
-	- Melhora com [[Etanol|álcool]] = pista forte.
+	- Melhora com álcool = pista forte.
 
 - **Critérios MDS 2018:**
 	- Tremor de ação bilateral em MMSS isolado.

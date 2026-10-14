@@ -5,12 +5,12 @@ date: 2026-03-08T01:40:46
   - Bioquímica
 tipo: Exame
 tipo de exame: Laboratorial
-tipo de doença: 
+tipo de doença:
 classe de medicamentos:
-prevalência: 
+prevalência:
 aliases:
   - Cys C
-card: 
+card:
 ---
 
 # Cistatina C
@@ -73,3 +73,21 @@ card:
 ### ➕ Novas Anotações / Insights
 *- Nota criada em modo completo com base no UpToDate 2024 e KDIGO 2024.*
 -
+
+---
+
+### 🔗 Cistatina C entra na definição de IRA (KDIGO 2026)
+**Data:** 2026-10-13
+**Contexto:** [[Insuficiência Renal Aguda]]
+
+**Características específicas:**
+- **Novo critério funcional de IRA:** cistatina C **≥ 1,5× o basal** em até 7 dias (rascunho KDIGO 2026, Tabela 1).
+- **Rec. 1.1.1 (2B):** usar cistatina C para identificar IRA **quando a creatinina é imprecisa** — perda de massa muscular (doença prolongada, doença neuromuscular, lesão medular, amputação acima do joelho), dieta hipoproteica ou vegetariana, suplemento de creatina, fármacos que bloqueiam a secreção de creatinina (trimetoprima, cimetidina).
+- **Mais rápida:** detecta IRA em **12–24 h** após o insulto (creatinina: 12–72 h); AUC ~0,82 para IRA após cirurgia de grande porte.
+- **Também serve para medir resolução** (completa: < 1,2× o basal) e para avaliar DRC 3 meses depois, quando a creatinina não é confiável.
+- **Limite prático:** custo e tempo de resultado. A creatinina continua sendo o exame principal para a maioria.
+
+**Relevância clínica:** a heurística desta nota (idoso sarcopênico com creatinina "normal demais") agora vale também para a IRA, e não só para a DRC.
+**Fonte:** KDIGO 2026 AKI/AKD — Public Review Draft (mar/2026), Rec. 1.1.1 e Tabela 5 — https://kdigo.org/wp-content/uploads/2026/03/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026.pdf
+
+---

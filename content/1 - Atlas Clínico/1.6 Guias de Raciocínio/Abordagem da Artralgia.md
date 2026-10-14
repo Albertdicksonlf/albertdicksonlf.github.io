@@ -82,7 +82,8 @@ tipo de exame: null
 - *Pista:* podagra, [[Sausage Toe (Dedo em Salsicha)]], dor lombar inflamatória em jovem, psoríase, [[Sacroileíte]]
 
 ### **Grupo D: ("Must not miss")**
-- [[Artrite Séptica]] — a emergência
+- [[Artrite Séptica]] — a emergência; *pista:* monoartrite aguda de grande articulação (joelho em mais da metade), **com ou sem febre** (febre em só 57%)
+- [[Infecção Gonocócica Disseminada]] — *pista:* jovem sexualmente ativo com **poliartralgia migratória + tenossinovite + pústulas indolores**; ou mono/oligoartrite purulenta de joelho, punho ou tornozelo, muitas vezes **afebril**
 - Neoplasia óssea primária ou metastática
 - Osteonecrose avascular
 - Hemartrose (trauma, anticoagulação, coagulopatia)
@@ -119,7 +120,8 @@ tipo de exame: null
 - [[Nódulos de Heberden]] + [[Nódulos de Bouchard]] + [[Rizartrose]] = [[Osteoartrite]] de mãos
 - **IFD poupada + MCF acometida** = [[Artrite Reumatoide]]
 - [[Crepitação Articular]] grosseira = degenerativo
-- Líquido sinovial **< 2.000 leucócitos/mm³** = não inflamatório · **> 50.000** = séptica até prova em contrário
+- Líquido sinovial **< 2.000 leucócitos/mm³** = não inflamatório · **> 50.000** = séptica até prova em contrário (LR 7,7; > 100.000 → LR 28; < 25.000 → LR 0,32 — reduz, mas não exclui)
+- Poliartralgia **migratória** + tenossinovite + pústulas = [[Infecção Gonocócica Disseminada]]
 - Cristais birrefringentes negativos = urato monossódico = [[Gota]]
 - [[Sausage Toe (Dedo em Salsicha)]] = dactilite = espondiloartrite
 

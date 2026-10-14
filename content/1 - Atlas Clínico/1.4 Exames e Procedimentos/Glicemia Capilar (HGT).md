@@ -44,3 +44,19 @@ tipo de exame: Bedside
 ### ➕ Novas Anotações / Insights
 *- Nota criada em modo esqueleto - completar depois.*
 -
+
+
+### 🔗 HGT nas crises hiperglicêmicas
+**Data:** 2026-10-13
+**Contexto:** [[Cetoacidose Diabética]] · [[Estado Hiperosmolar]] · [[Manejo de Hiperglicemia Aguda]]
+
+**Características específicas:**
+- **Frequência:** a cada **1–2 h** durante a infusão de insulina, com glicosímetro calibrado do hospital (ADA 2024).
+- **Glicemias muito altas:** a maioria dos glicosímetros não lê acima de **500–600 mg/dL**. No EHH, usar glicemia **sérica** de hora em hora até estabilizar (SBD 2025).
+- **Má perfusão periférica:** preferir sangue venoso ou arterial ao capilar (SBD 2023).
+- **HGT "normal" não afasta CAD** em usuário de iSGLT2 ou em gestante → [[Cetoacidose Diabética Euglicêmica]]. Dosar a [[Beta-Hidroxibutirato (BHB)|cetonemia]].
+
+**Relevância clínica:** a glicemia guia a titulação da insulina e da dextrose, mas **não** define a resolução da CAD. Quem define é a cetonemia.
+**Fonte:** Umpierrez GE et al. Diabetes Care. 2024;47(8):1257-1275. PMID 39052901 · SBD 2025, Manejo da SHHNC — https://diretriz.diabetes.org.br/manejo-da-sindrome-hiperglicemica-hiperosmolar-nao-cetotica-shhnc/
+
+---

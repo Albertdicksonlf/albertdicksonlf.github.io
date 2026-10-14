@@ -10,7 +10,7 @@ prevalência:
 aliases:
 card:
 ---
-Status: #processado-1 
+xStatus: #processado-1 
 
 # Túnel do Carpo 
 
@@ -48,8 +48,6 @@ Indicar correção do hábito
 
 Outras
 	Injeção de corticoide (começo é bom no fim é ruim)
-
-
 
 **Cirúrgico**
 Falha no tratamento conservador (6 semanas)

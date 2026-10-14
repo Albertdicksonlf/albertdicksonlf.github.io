@@ -35,6 +35,7 @@ tipo de exame: ''
 - [[Tromboembolismo Pulmonar (TEP)|TEP]] — dor pleurítica + dispneia + taquicardia; *pivô:* fatores de risco para TVP, D-dímero/AngioTC.
 - [[Tamponamento Cardíaco]] — tríade de Beck, turgência jugular, pulso paradoxal; *pivô:* ecocardiograma à beira-leito.
 - [[Pneumotórax]] (hipertensivo) — dor súbita + dispneia + MV abolido + desvio de traqueia.
+	- Fora do trauma: [[Pneumotórax Espontâneo]] — *pista:* homem jovem, alto, magro e fumante com dor pleurítica súbita, muitas vezes em repouso; ou paciente com DPOC com dispneia desproporcional. Hipertensivo se define por **choque**, não pelo desvio de traqueia (sinal tardio e pouco frequente).
 - [[Ruptura Esofágica (Boerhaave)|Ruptura esofágica (Boerhaave)]] — dor após vômitos vigorosos + enfisema subcutâneo.
 
 ### **Grupo B: Cardiovascular não isquêmico**

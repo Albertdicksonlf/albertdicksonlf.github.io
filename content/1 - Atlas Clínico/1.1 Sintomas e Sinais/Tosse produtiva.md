@@ -15,7 +15,6 @@ tipo de exame: null
   - Infectologia
   - Clínica Médica
 ---
-
 # Tosse produtiva
 
 > [!abstract] Definição

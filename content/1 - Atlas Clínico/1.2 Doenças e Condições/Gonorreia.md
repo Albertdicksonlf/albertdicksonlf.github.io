@@ -39,7 +39,7 @@ card:
   - Corrimento vaginal purulento, dispareunia, sangramento pós-coito.
   - Risco alto de **[[Doença Inflamatória Pélvica (DIP)]]**.
 - **Extragenital:** Faringite (sexo oral), Proctite (sexo anal), Conjuntivitis (neonatal).
-- **Infecção Gonocócica Disseminada:** Tríade de Artrite + Tenossinovite + Dermatite (pústulas).
+- **[[Infecção Gonocócica Disseminada]]:** Tríade de Artrite + Tenossinovite + Dermatite (pústulas).
 
 ---
 ## 🎯 ACHADOS-CHAVE (PIVÔS)

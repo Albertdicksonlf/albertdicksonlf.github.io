@@ -82,14 +82,14 @@ Paciente pode estar previamente bem e em **dias-semanas** já requerer diálise.
 
 ### **Laboratorial (PAINEL SOROLÓGICO URGENTE):**
 
-| Marcador | Sugere |
-|---|---|
-| **Anti-MBG positivo** | Tipo I — [[Doença de Goodpasture]] |
-| **ANCA positivo (c-ANCA/PR3 ou p-ANCA/MPO)** | Tipo III — Vasculites ANCA |
-| **FAN, Anti-DNA positivos, C3/C4 baixos** | Tipo II — Lúpus |
-| **C3 baixo + C4 normal** | Tipo II — pós-infecciosa, MPGN |
-| **IgA elevada, C3 normal** | Tipo II — Nefropatia por IgA forma grave |
-| **HBV, HCV, HIV positivos** | Tipo II — viral / crioglobulinemia |
+| Marcador                                     | Sugere                                   |
+| -------------------------------------------- | ---------------------------------------- |
+| **Anti-MBG positivo**                        | Tipo I — [[Doença de Goodpasture]]       |
+| **ANCA positivo (c-ANCA/PR3 ou p-ANCA/MPO)** | Tipo III — Vasculites ANCA               |
+| **FAN, Anti-DNA positivos, C3/C4 baixos**    | Tipo II — Lúpus                          |
+| **C3 baixo + C4 normal**                     | Tipo II — pós-infecciosa, MPGN           |
+| **IgA elevada, C3 normal**                   | Tipo II — Nefropatia por IgA forma grave |
+| **HBV, HCV, HIV positivos**                  | Tipo II — viral / crioglobulinemia       |
 
 ---
 

@@ -49,3 +49,22 @@ Se a EDA não mostrou obstrução (estenose/tumor), olhamos para a história cl�
 # Principais Causas
 
 ![[Pasted image 20260113104548.png]]
+
+---
+
+### ➕ Novas Anotações / Insights
+
+### 🔗 Disfagia nas colagenoses — transferência × condução
+**Data:** 2026-10-12
+**Contexto:** [[Esclerodermia|Esclerose sistêmica]] e [[Miopatias Inflamatórias]] (rodada de Colagenoses)
+
+**Características específicas:**
+- **Miopatias inflamatórias ([[Dermatomiosite]], polimiosite, antissintetase):** fraqueza do **músculo estriado** da faringe e do terço superior do esôfago → disfagia **orofaríngea, de transferência** — engasgo, regurgitação nasal, aspiração. Fraqueza proximal e CK alta completam o quadro.
+- **Esclerose sistêmica:** atrofia e fibrose do **músculo liso** dos dois terços distais → disfagia **esofágica, de condução**, com sólidos e líquidos, e refluxo grave. Na manometria: [[Aperistalse do corpo esofágico|aperistalse]] com esfíncter inferior **hipotônico** (o oposto da [[Acalásia|acalasia]], em que o esfíncter não relaxa).
+- [[Doença Mista do Tecido Conjuntivo (DMTC)|DMTC]]: dismotilidade como a da ES em 60–80%.
+- [[Doença de Sjögren]]: a falta de saliva dificulta engolir alimentos **secos** — não é distúrbio motor.
+
+**Relevância clínica:** disfagia + [[Fenômeno de Raynaud]] = pensar em ES; disfagia + fraqueza proximal = pensar em miosite e avaliar risco de aspiração. A anotação do card que chamava a disfagia da dermatomiosite de "de condução" estava imprecisa.
+**Fonte:** Del Galdo F, et al. EULAR 2023 (Ann Rheum Dis. 2025;84(1):29-40, PMID 39874231); Yadlapati R, et al. Chicago 4.0 (Neurogastroenterol Motil. 2021;33(1):e14058, PMID 33373111); fisiologia muscular: conhecimento consolidado.
+
+---

@@ -81,3 +81,25 @@ card: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHYUCYnlkZmNcNzkM79w
 ### **Para Sangramento Obscuro - Algo de Delgado (EDA e Colono negativas):**
 - [[Enteroscopia]]
 - [[Cápsula Endoscópica]]
+
+---
+
+### ➕ Novas Anotações / Insights
+
+### 🔗 Este MOC foi substituído como porta de entrada
+**Data:** 2026-10-13
+**Contexto:** processamento dos flashcards da Osler (Hemorragias Digestivas)
+
+**Onde está cada coisa agora:**
+- Raciocínio a partir do sintoma (triagem, buckets, algoritmo, pivôs): [[Abordagem da Hemorragia Digestiva]]
+- Sintoma-guia: [[Hemorragia Digestiva Alta]] · achados: [[Hematêmese]], [[Melena]], [[Hematoquezia]]
+- Manejo: [[Hemorragia Digestiva Alta Não Varicosa]] · [[Hemorragia Digestiva Alta Varicosa]] · [[Hemorragias Digestivas Baixa|Hemorragia Digestiva Baixa]]
+- Estratificação e estigmas: [[Escore de Glasgow-Blatchford]] · [[Classificação de Forrest]]
+
+**Correções a este MOC (versão de jan/2026):**
+- Alvo de transfusão "Hb entre 7 e 9" → **limiar de 7 g/dL**, 8 g/dL na doença cardiovascular (ACG 2021; ESGE 2021; ACG 2023).
+- Na HDB grave e contínua, o primeiro exame é a **angiotomografia**; a colonoscopia é **não urgente** (ACG 2023).
+
+**Fonte:** Laine L et al. (ACG 2021). PMID 33929377 · Gralnek IM et al. (ESGE 2021). PMID 33567467 · Sengupta N et al. (ACG 2023). PMID 36735555
+
+---

@@ -100,3 +100,20 @@ card: null
 *- **Doenças em texto puro por ausência no vault:** artrite reumatoide, gota, pseudogota, artrite séptica, artrose/osteoartrite, artrite psoriásica, artrite reativa. Não linkadas para não gerar ghost links. → cluster reumatológico de 1.2, prioridade alta.*
 *- **Débito aberto:** `Análise do Líquido Sinovial` (1.4) é o exame decisivo citado três vezes nesta nota e ainda não existe.*
 -
+
+---
+
+### 🔗 Monoartrite aguda — as duas portas infecciosas
+**Data:** 2026-10-13
+**Contexto:** [[Artrite Séptica]] · [[Infecção Gonocócica Disseminada]] · [[Análise do Líquido Sinovial]]
+
+**Características específicas:**
+- O débito acima foi pago: [[Análise do Líquido Sinovial]] e [[Artrite Séptica]] agora têm conteúdo.
+- **A febre engana nos dois sentidos:** está presente em só **57%** das artrites sépticas não gonocócicas, e **falta na maioria** das artrites purulentas gonocócicas. Monoartrite quente sem febre continua sendo punção.
+- **Padrão migratório** com tenossinovite e pústulas indolores no jovem sexualmente ativo → [[Infecção Gonocócica Disseminada]] — é a única artrite bacteriana que "pula" de articulação.
+- **Celularidade:** > 50.000/µL eleva muito a probabilidade de infecção (LR 7,7), mas não confirma; < 25.000 reduz (LR 0,32), mas não exclui; cristais no líquido **não** excluem infecção.
+
+**Relevância clínica:** o roteiro desta nota (velocidade de instalação → número de articulações → porta de entrada infecciosa) chega à punção; o que muda é saber que nem febre, nem cristais, nem um corte de leucócitos encerram a pergunta — quem encerra é o Gram ou a cultura.
+**Fonte:** Margaretten ME et al. JAMA. 2007;297(13):1478-88. PMID 17405973 — https://doi.org/10.1001/jama.297.13.1478 · Ravn C et al. (SANJO). J Bone Jt Infect. 2023;8(1):29-37. PMID 36756304 — https://doi.org/10.5194/jbji-8-29-2023
+
+---

@@ -26,12 +26,12 @@ Porém existem situações onde se faz necessário a investigação deste. Para 
 *A caracterização das fezes é o primeiro passo para direcionar as hipóteses.*
 
 ### **[[Diarreia Aguda Aquosa (Não-Inflamatória)]]**
-- **Características:** Fezes **[[Líquidas e de grande volume]]**, sem sangue ou pus. Geralmente associada a cólicas abdominais leves, náuseas e vômitos. [[Febre baixa ou ausente]].
+- **Características:** Fezes **Líquidas e de grande volume**, sem sangue ou pus. Geralmente associada a cólicas abdominais leves, náuseas e vômitos. Febre baixa ou ausente.
 - **Fisiopatologia:** Geralmente causada por toxinas bacterianas pré-formadas ou vírus que causam hipersecreção ou má absorção no intestino delgado.
 - **Causas Comuns:** Vírus (Norovírus, Rotavírus), Bactérias (E. coli enterotoxigênica, Cólera, S. aureus, B. cereus).
 
 ### **[[Diarreia Aguda Inflamatória (Disenteria)]]**
-- **Características:** Fezes de **[[Pequeno volume, porém frequentes]]**, com presença de **[[Sangue, muco ou pus]]**. Geralmente associada a [[Dor abdominal mais intensa (tenesmo)]] e **[[Febre alta]]**.
+- **Características:** Fezes de **Pequeno volume, porém frequentes**, com presença de **Sangue, muco ou pus**. Geralmente associada a Dor abdominal mais intensa (tenesmo) e **Febre alta**.
 - **Fisiopatologia:** Causada por bactérias invasivas ou citotoxinas que lesam a mucosa do cólon.
 - **Causas Comuns:** Bactérias (Shigella, Salmonella, Campylobacter, E. coli enteroinvasiva/enterohemorrágica, C. difficile), Amebíase.
 
@@ -40,25 +40,25 @@ Porém existem situações onde se faz necessário a investigação deste. Para 
 *Indicam a necessidade de uma investigação mais aprofundada ou manejo mais agressivo.*
 
 - **Sinais de desidratação grave**: Hipotensão postural, taquicardia, mucosas secas, redução da diurese, alteração do nível de consciência.
-- **[[Febre alta (> 38.5°C)]]** persistente.
-- **[[Dor abdominal intensa]]** ou sinais de peritonite.
-- **[[Presença de sangue visível nas fezes]]** (disenteria).
-- **[[Duração > 48-72 horas sem melhora]]**.
+- **Febre alta (> 38.5°C)** persistente.
+- **Dor abdominal intensa** ou sinais de peritonite.
+- **Presença de sangue visível nas fezes** (disenteria).
+- **Duração > 48-72 horas sem melhora**.
 - Idade avançada (> 70 anos) ou comorbidades significativas.
-- [[Imunossupressão]].
-- [[Uso recente de antibióticos]] (suspeita de C. difficile).
+- Imunossupressão.
+- Uso recente de antibióticos (suspeita de C. difficile).
 
 ---
 ## 3. Anamnese Focada (As Perguntas-Chave)
 - **Início, Duração e Frequência:**
-- **Características das Fezes:** [[Consistência]], [[Volume]], presença de [[Sangue]], [[Muco]] ou [[Gordura]]?
-- **Sintomas Associados:** [[Febre]], [[Vômitos]], [[Dor abdominal]] (localização, tipo)?
+- **Características das Fezes:** Consistência, Volume, presença de Sangue, Muco ou Gordura?
+- **Sintomas Associados:** Febre, Vômitos, Dor abdominal (localização, tipo)?
 - **Epidemiologia:**
-  - [[História alimentar recente]] (suspeita de intoxicação alimentar)?
-  - [[Viagem recente]]?
-  - [[Contato com outras pessoas doentes]]?
-  - [[Uso recente de antibióticos]]?
-  - [[Internação hospitalar recente]]?
+  - História alimentar recente (suspeita de intoxicação alimentar)?
+  - Viagem recente?
+  - Contato com outras pessoas doentes?
+  - Uso recente de antibióticos?
+  - Internação hospitalar recente?
 
 ---
 ## 4. 🧭 Principais Causas e Diagnósticos Diferenciais
@@ -91,14 +91,14 @@ Porém existem situações onde se faz necessário a investigação deste. Para 
 > *A maioria dos casos de diarreia aguda é autolimitada e NÃO requer investigação laboratorial**
 
 ### **Quando Investigar?**
-- Presença de [[Sinais de Alarme]]. - Investigar em surtos ou sinais de alarme
+- Presença de Sinais de Alarme. - Investigar em surtos ou sinais de alarme
 - Surtos em instituições.
 
 ### **Exames a Considerar**
 - **Exames de Fezes:**
-  - **[[Pesquisa de leucócitos fecais]]**: Um [[Teste positivo]] sugere causa inflamatória.
+  - **[[Pesquisa de leucócitos fecais]]**: Um Teste positivo sugere causa inflamatória.
   - **[[Coprocultura]]**: Para identificar bactérias invasivas (Salmonella, Shigella, Campylobacter).
-  - **[[Pesquisa de toxinas A e B para C. difficile]]**: Se houver história de uso de antibióticos.
+  - **Pesquisa de toxinas A e B para C. difficile**: Se houver história de uso de antibióticos.
   - **[[Exame Parasitológico de Fezes (EPF)]]**: Para Giardia, Ameba, Criptosporidium.
 - **Exames de Sangue (em casos graves):**
   - [[Hemograma]] (avaliar leucocitose, anemia).
@@ -109,7 +109,7 @@ Porém existem situações onde se faz necessário a investigação deste. Para 
 
 ### **1. Terapia de Reidratação (A Base do Tratamento)** - se [[Desidratação]]
 - **[[Terapia de Reidratação Oral (TRO)]]**: **Tratamento de escolha** para a maioria dos casos. Usar soluções prontas ou soro caseiro. Manter a ingesta enquanto a diarreia persistir.
-- **Hidratação Venosa:** Reservada para [[Desidratação grave]], intolerância à via oral (vômitos incoercíveis) ou choque.
+- **Hidratação Venosa:** Reservada para Desidratação grave, intolerância à via oral (vômitos incoercíveis) ou choque.
 
 ### **2. Terapia Nutricional**
 - **Manter a alimentação:** Não se recomenda jejum. Preferir dieta leve, sem gorduras ou condimentos (ex: arroz, batata, frango cozido, banana).
@@ -118,8 +118,8 @@ Porém existem situações onde se faz necessário a investigação deste. Para 
 ### **3. Tratamento Farmacológico Sintomático**
 - **[[Loperamida]]
   - **Podem ser usados com cautela** em casos de diarreia aquosa leve a moderada, sem febre ou sangue.
-  - **CONTRAINDICADOS** na disenteria ([[Diarreia com sangue ou febre alta]]), pois podem prolongar a doença e aumentar o risco de complicações.
-- **[[Probióticos]]**: Podem ajudar a reduzir a duração da diarreia, especialmente em crianças - não são indicados
+  - **CONTRAINDICADOS** na disenteria (Diarreia com sangue ou febre alta), pois podem prolongar a doença e aumentar o risco de complicações.
+- **Probióticos**: Podem ajudar a reduzir a duração da diarreia, especialmente em crianças - não são indicados
 - [[Racecadotrila]]
 - [[Ondasentrona]]
 -
@@ -127,7 +127,7 @@ Porém existem situações onde se faz necessário a investigação deste. Para 
 ### **4. Antibioticoterapia (Uso Seletivo)**
 *A maioria das diarreias agudas NÃO necessita de antibióticos.*
 - **Indicações:**
-  - Disenteria bacteriana grave ([[Febre alta]], [[Sangue nas fezes]], comprometimento sistêmico). Ex: Shigelose.
+  - Disenteria bacteriana grave (Febre alta, Sangue nas fezes, comprometimento sistêmico). Ex: Shigelose.
   - Diarreia do viajante moderada a grave.
   - Cólera grave.
   - Infecção confirmada por `C. difficile`.
