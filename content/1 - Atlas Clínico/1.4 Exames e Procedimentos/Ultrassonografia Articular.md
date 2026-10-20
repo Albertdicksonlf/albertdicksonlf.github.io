@@ -92,3 +92,19 @@ tipo de exame: Imagem
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
 -
+
+### 🔗 Ultrassom na monoartrite aguda: derrame, punção e cristais
+**Data:** 2026-10-17
+**Contexto:** [[Abordagem da Monoartrite Aguda]] · [[Sinal do Duplo Contorno]] · [[Doença por Deposição de Pirofosfato de Cálcio (DDPC)]] — processamento de `Mono Artrite Aguda - Anotações`
+
+**Características específicas:**
+- **À beira do leito (POCUS):** confirma derrame em articulações **profundas** (quadril, ombro), onde o exame físico falha, e **guia a artrocentese** — preferível à técnica às cegas em articulações profundas, pequenas ou com derrame pequeno.
+- **Exame formal com protocolo dirigido:** alta acurácia para doenças por cristais e desempenho limitado para separar as demais artrites.
+	- **Gota:** [[Sinal do Duplo Contorno]] (urato **sobre** a cartilagem) e tofos — a EULAR 2018 recomenda procurá-los quando não há cristal.
+	- **DDPC:** depósito hiperecoico **dentro** da cartilagem — mais útil que a radiografia nas articulações periféricas (LR+ ~24, EULAR 2011).
+- **Limite que não muda:** não substitui a punção quando a dúvida é artrite séptica (já registrado acima).
+
+**Relevância clínica:** acrescenta à nota, centrada em artrite reumatoide, os dois papéis do ultrassom na monoartrite: achar e puncionar o derrame, e identificar o cristal.
+**Fonte:** Richette P et al. EULAR 2018 — diagnosis of gout. Ann Rheum Dis. 2020;79(1):31–38. PMID 31167758 · Zhang W et al. EULAR 2011 — CPPD, parte I. Ann Rheum Dis. 2011;70(4):563–570. PMID 21216817 *(confirmados via PubMed)* · anotação-fonte (Tá de Clinicagem)
+
+---

@@ -24,13 +24,13 @@ card:
 - **Diagnóstico de [[Síndrome Coronariana Crônica]]:** É a principal indicação. Avalia a presença de isquemia miocárdica induzida pelo esforço em pacientes com dor torácica e probabilidade pré-teste intermediária.
 - **Avaliação Prognóstica:** Em pacientes com doença coronariana conhecida, a capacidade funcional (medida em METs) é um forte preditor de mortalidade.
 - **Avaliação de Arritmias:** Investigar arritmias induzidas pelo esforço.
-- **Avaliação da capacidade funcional:** Em pacientes com [[Insuficiência Cardíaca]] ou após [[IAMCSST|IAM]].
+- **Avaliação da capacidade funcional:** Em pacientes com [[Insuficiência Cardíaca]] ou após [[Infarto Agudo do Miocárdio com Supradesnivelamento do Segmento ST - IAMCSST|IAM]].
 
 ## ⛔ Contraindicações e Riscos
 *Quando NÃO solicitar ou ter cuidado.*
 
 - **Absolutas (Não pode fazer):**
-    - [[IAMCSST|Infarto agudo do miocárdio]] (< 2 dias).
+    - [[Infarto Agudo do Miocárdio com Supradesnivelamento do Segmento ST - IAMCSST|Infarto agudo do miocárdio]] (< 2 dias).
     - [[Angina Instável]] de alto risco.
     - Arritmias não controladas causando instabilidade hemodinâmica.
     - [[Estenose Aórtica]] sintomática grave.

@@ -21,7 +21,7 @@ card:
 *Quando indicar este procedimento?*
 
 - **[[Síndrome Coronariana Aguda]]:**
-    - **[[IAMCSST]]:** **Angioplastia Primária** é o tratamento de escolha (terapia de reperfusão) se puder ser realizada dentro dos tempos-meta (<90-120 min).
+    - **[[Infarto Agudo do Miocárdio com Supradesnivelamento do Segmento ST - IAMCSST]]:** **Angioplastia Primária** é o tratamento de escolha (terapia de reperfusão) se puder ser realizada dentro dos tempos-meta (<90-120 min).
     - **[[IAMSSST]] e [[Angina Instável]]:** Indicada como parte de uma estratégia invasiva (imediata, precoce ou tardia) baseada na estratificação de risco do paciente.
 - **[[Síndrome Coronariana Crônica]]:**
     - Pacientes com angina refratária ao tratamento medicamentoso otimizado.

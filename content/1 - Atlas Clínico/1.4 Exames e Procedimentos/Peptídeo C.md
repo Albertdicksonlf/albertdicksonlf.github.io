@@ -4,13 +4,13 @@ date: 2026-04-12T11:30:00
   - Endocrinologia
 tipo: Exame
 tipo de exame: Laboratorial
-tipo de doença: 
+tipo de doença:
 classe de medicamentos:
-prevalência: 
+prevalência:
 aliases:
   - C-peptide
   - Peptídeo de Conexão
-card: 
+card:
 ---
 
 # Peptídeo C
@@ -66,3 +66,23 @@ card:
 ### ➕ Novas Anotações / Insights
 *- Nota criada em modo esqueleto - completar depois*
 -
+
+### 🔗 Peptídeo C na amostra crítica da hipoglicemia
+**Data:** 2026-10-14
+**Contexto:** [[Hipoglicemia]] · [[Investigação de Hipoglicemia]] · [[Insulinoma]] · [[Teste de Jejum de 72 Horas]]
+
+**Características específicas:**
+- **Corte:** com glicose plasmática < 55 mg/dL, peptídeo C **≥ 0,6 ng/mL (0,2 nmol/L)** = secreção endógena de insulina **inapropriada** (Endocrine Society 2009; Hofland 2024).
+	- No hiperinsulinismo, o valor costuma ser "normal" para quem está em jejum. **O que define o quadro é a inadequação frente à glicose baixa, não um valor "muito alto".** Ajuste à tabela de interpretação acima.
+- **Leitura combinada:**
+	- **Peptídeo C alto + insulina alta:** produção endógena. Pode ser [[Insulinoma]], NIPHS, hipoglicemia pós-bariátrica **ou sulfonilureia**; o perfil é idêntico. **A triagem de sulfonilureia é obrigatória.**
+	- **Peptídeo C suprimido + insulina alta:** insulina exógena (factícia, acidental ou criminosa).
+	- **Peptídeo C e insulina suprimidos + β-OHB baixo:** substância que age como insulina sem ser insulina. Pensar em tumor não-ilhota (IGF-2) e pedir a razão IGF-II/IGF-I.
+- **Ensaios monoclonais de insulina** não detectam proinsulina, e a insulina pode vir "suprimida" num insulinoma verdadeiro. Nesses casos, o **peptídeo C e a proinsulina** sustentam o diagnóstico (Loo et al. 2025).
+- **Especificidade:** com o corte de 0,6 ng/mL, a sensibilidade para insulinoma foi de 100%, mas a especificidade só de **80%**. Um corte de 0,7 ng/mL, com glicose ≤ 50 mg/dL, chegou a ~100% de especificidade numa coorte de 144 insulinomas (Yu et al. 2022).
+- **Doença renal em diálise:** insulina e peptídeo C de jejum ficam **mais altos** que o normal, e a insulina cai ~50% após a hemodiálise. Interpretar com cautela (AASD 2025).
+
+**Relevância clínica:** o peptídeo C é o exame que separa insulina "de dentro" de insulina "de fora". Junto com a triagem de sulfonilureia, é o que evita mandar um paciente com hipoglicemia factícia para a cirurgia pancreática.
+**Fonte:** Hofland J et al. J Clin Endocrinol Metab. 2024;109(4):1109-1118. PMID 37925662 — https://doi.org/10.1210/clinem/dgad641 · Yu J et al. Front Endocrinol. 2022;13:994707. PMID 36339408 — https://doi.org/10.3389/fendo.2022.994707 · Loo FJJ et al. JCEM Case Rep. 2025;3(1):luae232. PMID 39790938 — https://doi.org/10.1210/jcemcr/luae232 · Soliman AR et al. (AASD 2025). Cardiovasc Diabetol Endocrinol Rep. 2025;11(1):22. PMID 41047420 — https://doi.org/10.1186/s40842-025-00234-8
+
+---

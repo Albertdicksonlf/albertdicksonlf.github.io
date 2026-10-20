@@ -84,3 +84,19 @@ card: null
 ### ➕ Novas Anotações / Insights
 *- Nota criada em 2026-08-23 no processamento de [[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]].*
 -
+
+### 🔗 CNAF no PS — GOLD 2026, asma e o ensaio RENOVATE
+**Data:** 2026-10-18
+**Contexto:** [[Abordagem da Dispneia Aguda]] · [[Oxigenoterapia]] — processamento de `Dispneia no Pronto-Socorro - Anotações`
+
+**Características específicas:**
+- **Hipoxêmica *de novo*:** primeira linha, exceto no **edema pulmonar cardiogênico** (aí, [[Ventilação Não Invasiva (VNI)|VNI]]). O benefício consistente é **menos intubação**, sobretudo com PaO₂/FiO₂ ≤ 200; efeito em mortalidade incerto (ERS 2022).
+- **[[Exacerbação de DPOC]] — GOLD 2026 posiciona o CNAF como alternativa à VNI** quando há: hipoxemia persistente; intolerância ou contraindicação à VNI; desmame de O₂ após a VNI; prevenção de reintubação; e, no retentor crônico em [[Oxigenoterapia Domiciliar Prolongada (ODP)|ODP]], redução de exacerbações. A regra desta nota se mantém: **acidose hipercápnica → VNI primeiro**.
+- **[[Exacerbação de Asma]]:** o GINA 2026 **não** faz recomendação formal. O CNAF reduz FR e dispneia em relação ao O₂ convencional, mas sem ganho demonstrado em intubação, internação ou mortalidade (estudos poucos, pequenos e heterogêneos).
+- **RENOVATE (JAMA 2025)** — 1.766 adultos em 33 hospitais brasileiros, CNAF × VNI: CNAF **não inferior** para intubação ou morte em 7 dias em 4 de 5 grupos (hipoxêmico não imunossuprimido, EAP, DPOC com acidose, COVID); no imunossuprimido, recrutamento interrompido por futilidade. Os grupos de DPOC, imunossuprimidos e EAP foram **pequenos** e os resultados mudaram sem o empréstimo bayesiano entre grupos — os autores pedem mais estudos. Leitura prudente: reforça o CNAF na hipoxêmica; **não** desloca a VNI no DPOC acidótico nem no EAP.
+- **Vigiar falha:** índice ROX (acima) para CNAF; para VNI, o equivalente é o escore **HACOR**.
+
+**Relevância clínica:** o discriminante "hipoxemia isolada → CNAF; acidose hipercápnica → VNI" sobrevive ao RENOVATE — com uma zona cinzenta honesta no DPOC.
+**Fonte:** Maia IS, Kawano-Dourado L, Tramujas L, et al. High-Flow Nasal Oxygen vs Noninvasive Ventilation in Patients With Acute Respiratory Failure: The RENOVATE Randomized Clinical Trial. JAMA. 2025;333(10):875-890. PMID 39657981 · Ergan B, Scala R, et al. Eur Respir J. 2022;59(4):2101574 (ERS) · GOLD 2026 — https://goldcopd.org · GINA 2026 — https://ginasthma.org
+
+---

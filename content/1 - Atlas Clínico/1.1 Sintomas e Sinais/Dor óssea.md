@@ -81,3 +81,21 @@ A nota nasceu organizada pelo eixo **não-mecânico** (neoplasia, infecção, me
 **Fonte:** ESMO–EURACAN–GENTURIS–ERN PaedCan 2021 — Strauss SJ et al. Ann Oncol. 2021;32(12):1520–1536. PMID 34500044 — https://doi.org/10.1016/j.annonc.2021.08.1995 · Tepelenis K et al. In Vivo. 2021;35(4):1929–1938. PMID 34182465
 
 ---
+
+### 🔗 O eixo VASO-OCLUSIVO: a crise falciforme
+**Data:** 2026-10-14
+**Contexto:** [[Anemia Falciforme]]
+
+As gavetas desta nota (neoplásico, infeccioso, metabólico, traumático) não tinham a causa mais frequente de **dor óssea aguda e recorrente** em criança e adulto jovem preto ou pardo no Nordeste: a **crise vaso-oclusiva da doença falciforme**.
+
+**Características específicas:**
+- **Padrão:** dor profunda em ossos longos, coluna e tórax, sem sinais flogísticos, durando tipicamente 4–6 dias; o paciente costuma reconhecer "a dor de sempre". Dor **diferente da habitual** obriga a procurar outra causa
+- **No lactente:** **dactilite** (síndrome mão-pé) — edema doloroso de mãos e pés, muitas vezes a primeira manifestação da doença
+- **Infarto ósseo × infecção:** a [[Osteomielite]] na doença falciforme (agentes clássicos: *Salmonella* e *S. aureus*) imita a crise álgica — febre persistente e dor focal que não cede pedem investigação
+- **Dor articular crônica** (quadril, ombro) no adulto com doença falciforme → [[Osteonecrose]]
+- **A conduta não espera o diagnóstico fechado:** analgesia em até 60 min da chegada, opioide na dor intensa, hidratação em taxa de manutenção e O₂ só se SpO₂ < 95%
+
+**Relevância clínica:** com traço falciforme em 6–10% da população do Norte e Nordeste, "tem doença falciforme / fez teste do pezinho?" entra na anamnese de toda dor óssea não traumática em criança — antes de pensar em leucemia ou tumor.
+**Fonte:** Brasil, Ministério da Saúde. PCDT Doença Falciforme 2024 (Portaria Conjunta SAES/SECTICS nº 16/2024) — https://saude.rs.gov.br/upload/arquivos/202412/20163402-doenca-falciforme-pcdt-novo.pdf · Yawn BP et al. JAMA. 2014;312(10):1033-48. PMID 25203083
+
+---

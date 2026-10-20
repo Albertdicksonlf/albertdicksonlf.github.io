@@ -28,7 +28,7 @@ card:
 ## 📋 Indicações Principais
 *Para que serve na prática?*
 
-1.  **Dor Moderada a Intensa (Nociceptiva):** Dor oncológica, dor pós-operatória aguda, [[IAMCSST|Infarto Agudo do Miocárdio]].
+1.  **Dor Moderada a Intensa (Nociceptiva):** Dor oncológica, dor pós-operatória aguda, [[Infarto Agudo do Miocárdio com Supradesnivelamento do Segmento ST - IAMCSST|Infarto Agudo do Miocárdio]].
 2.  **Dispneia em Cuidados Paliativos:** Reduzem a percepção subjetiva de falta de ar.
 3.  **Tosse Refratária:** Efeito antitussígeno (Codeína).
 

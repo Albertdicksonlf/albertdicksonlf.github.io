@@ -91,6 +91,7 @@ card: null
 - [[Mialgia]] — dor musculoesquelética difusa
 - [[Espondilite Anquilosante (EA)]] — protótipo de artrite axial
 - [[Lúpus Eritematoso Sistêmico]] — poliartrite não erosiva de doença sistêmica
+- [[Abordagem da Monoartrite Aguda]] — o guia quando a artrite é de uma articulação só e de instalação aguda
 
 ---
 
@@ -117,3 +118,5 @@ card: null
 **Fonte:** Margaretten ME et al. JAMA. 2007;297(13):1478-88. PMID 17405973 — https://doi.org/10.1001/jama.297.13.1478 · Ravn C et al. (SANJO). J Bone Jt Infect. 2023;8(1):29-37. PMID 36756304 — https://doi.org/10.5194/jbji-8-29-2023
 
 ---
+
+![[Pasted image 20261017121458.png]]

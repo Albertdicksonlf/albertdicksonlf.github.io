@@ -51,6 +51,7 @@ O diagnóstico é feito pela combinação de sintomas isquêmicos e alterações
 
 ## 💊 Manejo Imediato
 O manejo do IAMCSST é tempo-dependente. O objetivo é **abrir a artéria ocluída** o mais rápido possível.
+MONABICHE 
 
 ### **1. Terapia de Reperfusão de Emergência**
 A escolha depende da disponibilidade e do tempo estimado para sua realização.

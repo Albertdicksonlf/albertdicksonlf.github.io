@@ -58,7 +58,7 @@ As diretrizes modernas focam na redução do tempo de DAPT para minimizar sangra
 A antiagregação por tempo indeterminado (geralmente com **monoterapia**) é indicada para a **prevenção secundária** em pacientes com doença aterosclerótica estabelecida:
 
 1.  **Doença Arterial Coronariana (DAC):**
-    - Pós-Infarto Agudo do Miocárdio ([[IAMCSST]] ou [[IAMSSST]]).
+    - Pós-Infarto Agudo do Miocárdio ([[Infarto Agudo do Miocárdio com Supradesnivelamento do Segmento ST - IAMCSST]] ou [[IAMSSST]]).
     - [[Síndrome Coronariana Crônica]] documentada (angina estável ou isquemia em exames).
     - Pós-[[Cirurgia de Revascularização Miocárdica]] (CRM).
 2.  **Doença Cerebrovascular:**

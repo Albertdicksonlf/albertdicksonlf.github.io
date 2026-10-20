@@ -121,3 +121,9 @@ Se sinal de infecção - ATB
 
 
 # Fonte de informação/ Oque estudar?
+
+> [!info] Revisão de 2026-10-14
+> A nota [[Anemia Falciforme]] foi reestruturada no template v3.5 e atualizada pelo PCDT Doença Falciforme 2024. Correções em relação a esta aula:
+> - **Sequestro esplênico:** "esplenectomia de urgência" não é a primeira conduta — o tratamento inicial é volume + transfusão cautelosa (alvo Hb 6–7 g/dL); a esplenectomia é **eletiva**, para prevenir recorrência (a própria aula corrige isso mais abaixo).
+> - **Hidroxiureia:** não depende de "Hb < 6" — o PCDT 2024 indica para HbSS/HbSβ⁰ a partir de **9 meses**, independentemente de sintomas.
+> - **Ácido fólico:** deixou de ser rotina universal — só com folato sérico baixo ou na gestação (ou esquema empírico 3×/semana se não houver dosagem).

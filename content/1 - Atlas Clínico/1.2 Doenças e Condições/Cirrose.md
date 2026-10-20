@@ -169,3 +169,19 @@ Child A - realizar a cirurgia
 **Fonte:** Baveno VII — de Franchis R et al. J Hepatol. 2022;76(4):959-974. PMID 35120736 · EASL 2018 — J Hepatol. 2018;69(2):406-460. PMID 29653741
 
 ---
+
+### 🔗 Hidrotórax hepático — a ascite que atravessa o diafragma
+**Data:** 2026-10-17
+**Contexto:** [[Hidrotórax Hepático]] · [[Derrame pleural]] — processamento de `Derrame Pleural - Anotações` (Osler)
+
+**Características específicas:**
+- Derrame pleural (em geral **transudato**, **à direita**) no cirrótico com hipertensão portal, sem causa cardiopulmonar — a ascite é aspirada pela pressão pleural negativa através de pequenos defeitos diafragmáticos. Pode existir **sem ascite clinicamente evidente**.
+- **Tratamento = tratamento da ascite:** restrição de sódio + espironolactona e furosemida; toracocentese de alívio quando necessário; refratário → TIPS.
+- **Dreno torácico é contraindicado** (perda de líquido e proteína, infecção, lesão renal, morte) e **pleurodese não é recomendada** (AASLD 2021).
+- **Todo cirrótico com hidrotórax deve ser avaliado para transplante:** a mortalidade real supera a prevista pelo MELD.
+- Cirrótico com derrame e febre → puncionar: o **empiema bacteriano espontâneo** é o correlato pleural da [[Peritonite Bacteriana Espontânea (PBE)|PBE]] e se trata como ela, sem dreno.
+
+**Relevância clínica:** acrescenta à lista de complicações da descompensação uma que muda conduta de forma oposta à intuição (a única causa de derrame que não se drena).
+**Fonte:** AASLD 2021 — Biggins SW et al. Hepatology. 2021;74(2):1014–1048. PMID 33942342 — https://doi.org/10.1002/hep.31884 *(confirmado via PubMed)*
+
+---

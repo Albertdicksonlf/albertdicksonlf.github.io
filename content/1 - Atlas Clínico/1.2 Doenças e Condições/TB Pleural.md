@@ -131,3 +131,20 @@ card: null
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
 -
+
+### 🔗 TB pleural dentro do raciocínio do derrame
+**Data:** 2026-10-17
+**Contexto:** [[Derrame pleural]] · [[Abordagem do Derrame Pleural]] — processamento de `Derrame Pleural - Anotações` (Osler)
+
+**Características específicas:**
+- **Posição no algoritmo:** exsudato pelos [[Critérios de Light]] → [[Exsudato Linfocítico na Toracocentese|linfocítico]] → [[ADA Elevado|ADA]] decide entre TB e neoplasia.
+- **Corte do ADA e prevalência (BTS 2023):** em população de **alta prevalência**, ADA e/ou interferon-γ podem **diagnosticar**; em baixa prevalência, ADA serve para **excluir**. O corte de 40 U/L tem sensibilidade muito alta e especificidade moderada — ótimo para afastar; para confirmar, conta a probabilidade pré-teste (que no Brasil é alta).
+- **Tecido para cultura:** a BTS 2023 recomenda (forte, por consenso) que a amostra de tecido para cultura seja a opção preferida em toda suspeita de TB pleural — complementa o item 3 da investigação desta nota. Ver [[Biópsia Pleural]].
+- **Células mesoteliais < 5%** no líquido favorecem TB — a inflamação reveste a pleura e impede a descamação do mesotélio (anotação-fonte).
+- **Menos de 50% têm cultura do líquido positiva**, e a baciloscopia pode positivar com outras micobactérias (anotação-fonte) — reforça o "erro comum" já registrado acima.
+- **Pseudoquilotórax:** a TB pleural de longa data pode evoluir para derrame rico em colesterol (> 200 mg/dL, cristais) — diferencial do [[Quilotórax]].
+
+**Relevância clínica:** a nota já tinha a dupla exsudato linfocítico + ADA; o acréscimo é o peso da prevalência na leitura do ADA e a preferência por cultura de tecido.
+**Fonte:** BTS 2023 — Roberts ME et al. Thorax. 2023;78(11):1143–1156. PMID 37553157 · Kim HW et al. Sci Rep. 2022;12(1):7586. PMID 35534515 *(confirmados via PubMed)*
+
+---

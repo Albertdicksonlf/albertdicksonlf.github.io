@@ -5,15 +5,15 @@ date: 2026-08-26T10:00:00
   - Cardiologia
   - Clínica Médica
 tipo: Guia de Raciocínio
-tipo de exame: 
-tipo de doença: 
+tipo de exame:
+tipo de doença:
 classe de medicamentos:
-prevalência: 
+prevalência:
 aliases:
   - Guia de Raciocínio - Dispneia Crônica
   - Dispneia de esforço crônica
   - Investigação da dispneia crônica
-card: 
+card:
 ---
 
 # Abordagem da Dispneia Crônica
@@ -177,3 +177,16 @@ card:
 
 ### ➕ Updates de Casos Reais
 -
+
+### 🔗 Quando a "crônica" chega ao pronto-socorro
+**Data:** 2026-10-18
+**Contexto:** [[Abordagem da Dispneia Aguda]] — processamento de `Dispneia no Pronto-Socorro - Anotações`
+
+- Este guia cobre a dispneia **> 4 semanas**, investigada em regime ambulatorial. Em ~85% dos casos a causa é [[Asma]], [[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]], [[Insuficiência Cardíaca]] ou descondicionamento.
+- O paciente com doença de base que **piora** (DPOC, IC, bronquiectasia exacerbadas) não é "crônico" no PS — é **crônico agudizado**, com mortalidade maior, e deve ser conduzido pelo ramo agudo: [[Abordagem da Dispneia Aguda]].
+- Entre 2 e 4 semanas não há classificação padronizada na literatura.
+
+**Relevância clínica:** evita que a etiqueta "falta de ar de sempre" atrase triagem e suporte.
+**Fonte:** Araujo JPN, Vasconcelos JM. Dispneia no Pronto-Socorro. Guia Tá de Clinicagem, jun/2026 — https://www.tadeclinicagem.com.br/guia/594/dispneia-no-pronto-socorro/
+
+---

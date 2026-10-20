@@ -79,6 +79,10 @@ card: null
 - [[Abordagem da Dor Torácica]] (sobreposição frequente de queixa)
 - [[Abordagem do Choque]]
 - [[Distúrbios Ácido-Básicos]]
+- [[Abordagem da Dispneia]] — o guia principal desta queixa (hub)
+- [[Abordagem da Dispneia Aguda]] — dispneia no pronto-socorro: com ou sem insuficiência respiratória aguda
+- [[Abordagem da Dispneia Crônica]] — dispneia há mais de 4 semanas
+- [[Abordagem do Derrame Pleural]] — quando o exame mostra macicez, frêmito reduzido e murmúrio abolido
 
 ---
 

@@ -14,12 +14,12 @@ card:
 # Fibrólise no IAMCSST
 
 > [!abstract] O que é e para que serve?
-> Terapia farmacológica que utiliza medicamentos (fibrinolíticos) para dissolver o trombo de fibrina que está ocluindo a artéria coronária, restaurando o fluxo sanguíneo no contexto do [[IAMCSST]].
+> Terapia farmacológica que utiliza medicamentos (fibrinolíticos) para dissolver o trombo de fibrina que está ocluindo a artéria coronária, restaurando o fluxo sanguíneo no contexto do [[Infarto Agudo do Miocárdio com Supradesnivelamento do Segmento ST - IAMCSST]].
 
 ## 📋 Indicações e Seleção de Paciente
 *Quando indicar este procedimento?*
 
-- **Indicação Principal:** Pacientes com [[IAMCSST]] com **menos de 12 horas de início dos sintomas** em um local **sem capacidade de realizar [[Angioplastia Coronariana|Angioplastia Primária (ICP)]] em tempo hábil**.
+- **Indicação Principal:** Pacientes com [[Infarto Agudo do Miocárdio com Supradesnivelamento do Segmento ST - IAMCSST]] com **menos de 12 horas de início dos sintomas** em um local **sem capacidade de realizar [[Angioplastia Coronariana|Angioplastia Primária (ICP)]] em tempo hábil**.
 - **Critérios de Tempo:**
     - A ICP primária é preferível se o tempo total desde o primeiro contato médico até a insuflação do balão (porta-balão) for **< 120 minutos**.
     - Se esse tempo não puder ser cumprido, a Fibrólise está indicada e deve ser iniciada idealmente em **< 30 minutos** da chegada do paciente (porta-agulha).
@@ -76,7 +76,7 @@ O principal risco da Fibrólise é o sangramento, especialmente o intracraniano.
 ---
 
 ## 💡 Pontos de Aprendizado
-- Fibrólise é uma terapia exclusiva para o [[IAMCSST]]. **NUNCA** deve ser usada em [[IAMSSST]] ou [[Angina Instável]].
+- Fibrólise é uma terapia exclusiva para o [[Infarto Agudo do Miocárdio com Supradesnivelamento do Segmento ST - IAMCSST]]. **NUNCA** deve ser usada em [[IAMSSST]] ou [[Angina Instável]].
 - O maior benefício da Fibrólise ocorre nas primeiras 2-3 horas do início dos sintomas.
 - Lembre-se do mnemônico "porta-balão" (<90-120 min) vs. "porta-agulha" (<30 min) para decidir entre ICP primária e Fibrólise.
 

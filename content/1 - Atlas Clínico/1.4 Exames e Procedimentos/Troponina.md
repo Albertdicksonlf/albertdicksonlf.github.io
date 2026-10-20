@@ -19,7 +19,7 @@ card:
 ## 📋 Indicações Principais
 *Quando solicitar este exame?*
 
-- **Diagnóstico de [[Síndrome Coronariana Aguda]]:** É a principal indicação. A detecção de uma elevação e/ou queda ("curva") dos seus níveis é fundamental para o diagnóstico do [[IAMCSST]] e [[IAMSSST]].
+- **Diagnóstico de [[Síndrome Coronariana Aguda]]:** É a principal indicação. A detecção de uma elevação e/ou queda ("curva") dos seus níveis é fundamental para o diagnóstico do [[Infarto Agudo do Miocárdio com Supradesnivelamento do Segmento ST - IAMCSST]] e [[IAMSSST]].
 - **Estratificação de Risco:** Níveis mais elevados de troponina se correlacionam com maior área de infarto e pior prognóstico.
 - **Diagnóstico Diferencial de Dor Torácica:** Ajuda a diferenciar SCA de outras causas de dor torácica.
 - **Outras Condições:** Avaliação de dano miocárdico em miocardite, contusão cardíaca, quimioterapia cardiotóxica, [[Tromboembolismo Pulmonar (TEP)]] maciço.

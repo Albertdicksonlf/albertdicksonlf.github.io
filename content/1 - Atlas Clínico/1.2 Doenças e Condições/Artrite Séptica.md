@@ -6,7 +6,7 @@ date: 2026-08-30T12:44:00
   - Infectologia
   - Emergência
 tipo: Doença
-tipo de exame: 
+tipo de exame:
 tipo de doença: Infecciosa
 classe de medicamentos:
 prevalência: Incomum
@@ -16,7 +16,7 @@ aliases:
   - Septic Arthritis
   - Artrite Bacteriana
   - SANJO
-card: 
+card:
 ---
 
 # Artrite Séptica
@@ -233,3 +233,31 @@ card:
 *- Suas anotações incorporadas: doença articular prévia como principal fator da via hematogênica (por isso a artrite reumatoide); fatores de risco para MRSA, que viraram lista própria no Tratamento.*
 *- Texto puro proposital (sem nota no vault): pseudogota, tenossinovite, artropatia de Charcot, gentamicina, ceftazidima, infecção periprotética, *Kingella kingae* (pediatria).*
 -
+
+### 🔗 Na monoartrite aguda: peso dos fatores de risco, microbiologia e escores pós-punção
+**Data:** 2026-10-17
+**Contexto:** [[Abordagem da Monoartrite Aguda]] — processamento de `Mono Artrite Aguda - Anotações` (Tá de Clinicagem)
+
+**Características específicas:**
+- **Quanto cada fator de risco pesa (Margaretten 2007, LR+):** cirurgia articular recente **6,9**; idade > 80 anos 3,5; prótese de quadril ou joelho 3,1; infecção de pele 2,8; diabetes 2,7; artrite reumatoide 2,5. Leucocitose, VHS e PCR ficam entre 1,3 e 1,6. **Nenhum, ausente, reduz a probabilidade de forma útil** — daí o limiar baixo para puncionar.
+- **Microbiologia:**
+	- Cultura do líquido negativa em **30% ou mais** (antibiótico prévio, germe fastidioso, coleta ruim).
+	- Em ~**9%**, a [[Hemocultura]] é a **única** fonte de confirmação — colher sempre, antes do antibiótico.
+	- Inocular o líquido em **frascos de hemocultura** aeróbio e anaeróbio (diretriz IDSA/ASM 2024, citada pela anotação-fonte; coerente com a SANJO).
+	- Cristais e infecção coexistem em até ~5% dos casos.
+- **Escores pós-punção** — todos exigem o líquido, nenhum tem validação multicêntrica ampla, nenhum substitui Gram, cultura e julgamento:
+
+| Escore | Variáveis | Desempenho |
+|---|---|---|
+| **SAS** (Tverring 2025 — joelho nativo, 668 pacientes; calculadora sascore.org) | Razão glicose sinovial/sérica, leucócitos sinoviais, aspecto anormal do líquido, prioridade de triagem pelos sinais vitais | AUC 0,97 (validação interna). Probabilidade < 2%: sensibilidade 100%, especificidade 79% → **afastar**; ≥ 10%: 92% / 92% → **antibiótico**. Validação externa pendente |
+| **RESAS** (Coiffier 2021 — Rennes) | Líquido purulento ou ≥ 70.000/mm³; presença ou ausência de cristais; lactato e glicose sinoviais (−4 a +13 pontos) | ≥ +4: especificidade ~98%, LR+ 29 (interna) a 53 (externa, n = 70); sensibilidade 56–92% → **confirmar** |
+| **Escore bioquímico** (Sacco 2026) | Glicose (≤ 126 e ≤ 27 mg/dL), lactato (≥ 4,5 e ≥ 7,5 mmol/L), LDH (≥ 600 e ≥ 1.200 UI/L) — 0 a 2 pontos cada | ≥ 3: sensibilidade 100%, especificidade 74% → **afastar**; ≥ 5: 56% / 98% → confirmar |
+| **SARC** (calculadora da Universidade de Washington — joelho) | Seis variáveis; leucócitos ≥ 30.000/µL é o maior preditor; cristais pesam **contra** | Descrito pela anotação-fonte; publicação original não localizada nesta consulta |
+
+- **Imunossuprimidos:** o desempenho dos escores é desconhecido. A SANJO adverte que os cortes de leucócitos podem não valer; um estudo citado pela anotação encontrou celularidade semelhante à da população geral — usar com cautela redobrada.
+- **Notas novas ligadas a esta:** a pseudogota do diferencial agora é [[Doença por Deposição de Pirofosfato de Cálcio (DDPC)]]; o raciocínio da síndrome mora em [[Abordagem da Monoartrite Aguda]].
+
+**Relevância clínica:** os escores ajudam a decidir **antibiótico empírico** quando o líquido fica na zona cinzenta (sobretudo os de exclusão: SAS < 2% e escore bioquímico < 3), mas o diagnóstico continua sendo Gram, cultura e evolução.
+**Fonte:** Margaretten ME et al. JAMA. 2007;297(13):1478–1488. PMID 17405973 · Tverring J et al. Septic arthritis score (SAS). BMC Infect Dis. 2025;25(1):926. PMID 40681984 — https://doi.org/10.1186/s12879-025-11306-6 · Coiffier G et al. RESAS. Rheumatology (Oxford). 2021;60(5):2238–2245. PMID 33197255 — https://doi.org/10.1093/rheumatology/keaa567 · Sacco I et al. A new biochemical score from synovial fluid for diagnosing septic arthritis. Joint Bone Spine. 2026;93(2):105980. PMID 41016583 — https://doi.org/10.1016/j.jbspin.2025.105980 *(confirmados via PubMed)*
+
+---

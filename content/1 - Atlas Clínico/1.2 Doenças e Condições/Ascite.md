@@ -47,7 +47,7 @@ card: null
 - **Quadro Típico:** aumento progressivo do volume abdominal com ganho de peso, em paciente com hepatopatia conhecida ou estigmas dela.
 - **Sintomas Principais:**
 	- [[Distensão Abdominal]]
-	- [[Dispneia]] — restrição diafragmática na ascite tensa; considerar hidrotórax hepático
+	- [[Dispneia]] — restrição diafragmática na ascite tensa; considerar [[Hidrotórax Hepático|hidrotórax hepático]]
 	- [[Edema]] de membros inferiores
 	- [[Dor abdominal]] ou desconforto — se dor franca ou febre, pensar em PBE
 - **Sinais de Alerta (Red Flags):**

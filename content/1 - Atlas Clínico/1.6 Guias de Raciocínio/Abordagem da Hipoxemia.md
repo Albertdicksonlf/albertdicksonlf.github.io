@@ -124,3 +124,21 @@ Este guia resolve *por qual mecanismo* falta oxigênio. O passo seguinte — *qu
 **Fonte:** Rochwerg B, Brochard L, Elliott MW, et al. Eur Respir J. 2017;50(2):1602426 (ERS/ATS, VNI na insuficiência respiratória aguda); Ergan B, Scala R, et al. Eur Respir J. 2022;59(4):2101574 (ERS, cateter nasal de alto fluxo); O'Driscoll BR et al. BMJ Open Respir Res. 2017;4(1):e000170 (BTS, alvos de saturação 94–98% e 88–92%).
 
 ---
+
+### 🔗 Quando o O₂ não corrige: shunt ou disemoglobinemia? — e outras peças do PS
+**Data:** 2026-10-18
+**Contexto:** [[Abordagem da Dispneia Aguda]] · [[Gap de Saturação]] · [[Metemoglobinemia]] — processamento de `Dispneia no Pronto-Socorro - Anotações`
+
+**Características específicas:**
+- **O Passo 4 deste guia tem um ramo escondido.** Hipoxemia que não corrige com O₂ **e** sem lesão pleuroparenquimatosa que a explique só tem duas explicações: **shunt direita-esquerda** ou **disemoglobinemia**. O separador é o [[Gap de Saturação]]:
+	- **Gap > 5%** → [[Metemoglobinemia]] ou carboxi-hemoglobinemia ([[Intoxicação por Monóxido de Carbono]]) → co-oximetria.
+	- **Sem gap** → shunt verdadeiro: **intracardíaco** (forame oval patente, CIA → ecocardiograma com microbolhas) ou **intrapulmonar** (malformação arteriovenosa → angio-TC).
+	- ⚠️ No CO, comparar SpO₂ com a SaO₂ **calculada** pelo gasômetro **não mostra gap** — só a co-oximetria revela.
+- **Baixa FiO₂ inspirada no Brasil não é altitude, é espaço confinado.** Rede de esgoto, silo de grãos, tanque industrial: metano, CO₂ ou sulfeto de hidrogênio deslocam o O₂ e produzem hipoxemia aguda com **gradiente A-a normal** e PaCO₂ normal ou baixa (Grupo A, segundo ramo).
+- **Shunt latente que abre no TEP.** A sobrecarga aguda do VD inverte o gradiente interatrial e pode abrir um forame oval patente, piorando uma hipoxemia que já era desproporcional — mais um motivo para o [[Tromboembolismo Pulmonar (TEP)|TEP]] "não fechar" com o RX.
+- **Gradiente A-a esperado — fórmulas.** Este guia e a nota do [[Gradiente Alvéolo-Arterial (A-a)]] usam **(idade/4) + 4**; a fonte do PS usa **(idade + 10)/4** e cita também **2,5 + 0,21 × idade**. São aproximações próximas (aos 60 anos: 19, 17,5 e 15). Não há conflito clínico — mantém-se a fórmula do vault — mas vale reconhecer as outras em prova. O gradiente sobe com a FiO₂: calcule em ar ambiente.
+
+**Relevância clínica:** completa a árvore — sem o ramo da disemoglobinemia, a hipoxemia "refratária" vira automaticamente "shunt" e o paciente com metemoglobinemia acaba intubado em vez de receber [[Azul de Metileno]].
+**Fonte:** Iolascon A et al. Recommendations for diagnosis and treatment of methemoglobinemia. Am J Hematol. 2021;96(12):1666-1678. PMID 34467556 · Araujo JPN, Vasconcelos JM. Dispneia no Pronto-Socorro. Guia Tá de Clinicagem, jun/2026 — https://www.tadeclinicagem.com.br/guia/594/dispneia-no-pronto-socorro/
+
+---

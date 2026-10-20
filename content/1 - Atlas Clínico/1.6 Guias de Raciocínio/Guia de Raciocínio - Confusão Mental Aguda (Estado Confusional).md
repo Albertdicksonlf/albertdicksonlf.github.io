@@ -64,7 +64,7 @@ card: null
 > Uma vez confirmado o delirium, a **maioria esmagadora** das causas é **tóxico-metabólica/infecciosa** (Grupo A e B). Comece por aí (glicemia + laboratório amplo + rastreio infeccioso). Só desvie para neuroimagem se houver **foco**, **trauma**, **rebaixamento associado** ou laboratório que **não explica**.
 
 ### **Grupo A: Tóxico-Metabólicas (a maioria)**
-- **Glico:** hipoglicemia; hiperglicemia ([[Cetoacidose Diabética]], [[Estado Hiperosmolar]])
+- **Glico:** [[Hipoglicemia]]; hiperglicemia ([[Cetoacidose Diabética]], [[Estado Hiperosmolar]])
 - **Eletrólitos:** [[Hiponatremia]], [[Hipernatremia]], [[Hipercalcemia]], Mg
 - **Órgão-alvo:** [[Encefalopatia Hepática]] ([[Asterixis ('flapping')|flapping]]), [[Encefalopatia Urêmica]] ([[Mioclonia|mioclonias]])
 - **Carencial:** [[Encefalopatia de Wernicke]] (deficiência de [[Tiamina (Vitamina B1)|B1]])

@@ -12,7 +12,7 @@ aliases:
   - Doença epiléptica
 card: 
 ---
-
+	
 # Epilepsia
 
 > [!abstract] Resumo de Uma Linha

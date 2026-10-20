@@ -5,8 +5,8 @@ date: 2026-09-27T16:20:00
   - Terapia Intensiva
   - Medicina de Emergência
 tipo: Doença
-tipo de exame: 
-tipo de doença: 
+tipo de exame:
+tipo de doença:
 classe de medicamentos:
 prevalência: Comum
 aliases:
@@ -14,7 +14,7 @@ aliases:
   - Insuficiência Respiratória Aguda
   - Falência Respiratória
   - Acute Respiratory Failure
-card: 
+card:
 ---
 
 # Insuficiência Respiratória
@@ -195,3 +195,29 @@ card:
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
 -
+
+### 🔗 No pronto-socorro: quantificar o agudo, decidir o tubo, limitar o oxigênio
+**Data:** 2026-10-18
+**Contexto:** [[Abordagem da Dispneia Aguda]] — processamento de `Dispneia no Pronto-Socorro - Anotações`
+
+**1. A regra do bicarbonato transforma "crônico agudizado" em número.** Para cada 10 mmHg de PaCO₂ acima de 40, o HCO₃⁻ sobe +1 mEq/L na hipercapnia **aguda** e +4 mEq/L na **crônica** (acima de 24).
+- *Exemplo:* retentor com HCO₃⁻ 32 → excesso de 8 → PaCO₂ basal esperada ~60. Gasometria com PaCO₂ 75 → **15 mmHg de componente agudo**. Este é o paciente da VNI.
+- Carbonarcose (sonolência → coma) costuma surgir com PaCO₂ > 75 em quem tinha CO₂ normal; na DPOC, pode reverter com VNI na primeira hora.
+
+**2. Gasometria venosa basta para triar ventilação.** PvCO₂ < 45 mmHg afasta hipercapnia relevante; o pH venoso fica em média ~0,03 abaixo do arterial (Byrne, 2014). A PvCO₂, porém, tem dispersão larga — serve para **excluir**, não para quantificar.
+
+**3. As três perguntas da intubação** (patência/proteção da via aérea; falha de oxigenação ou ventilação apesar do suporte; curso previsto desfavorável). IOT **direta**, sem teste não invasivo: PCR, incapacidade de proteger via aérea, IRpA com instabilidade hemodinâmica. Para os demais, os critérios de intubação do **RENOVATE** dão régua objetiva:
+- PAS < 90 após volume ou noradrenalina > 0,3 µg/kg/min
+- SpO₂ < 92% (< 88% na DPOC) com FiO₂ ≥ 60%
+- PaCO₂ subindo > 10 mmHg com queda do pH
+- pH < 7,20 persistente após 60 min de tratamento otimizado
+- Secreção que o paciente não elimina
+
+**4. CNAF × VNI — o que o RENOVATE (JAMA 2025, 1.766 pacientes em 33 hospitais brasileiros) acrescenta.** O CNAF foi não inferior à VNI para IOT ou morte em 7 dias em 4 de 5 grupos, mas os grupos de DPOC acidótico, imunossuprimido e EAP foram pequenos e sensíveis ao modelo estatístico. **Não altera** a tabela de escalonamento acima: VNI segue primeira escolha no DPOC com pH ≤ 7,35 e no EAP.
+
+**5. Teto de saturação — uma divergência que esta nota precisa registrar.** A BTS 2017 (já citada acima) aceita alvo de **94–98%**; o painel do BMJ 2018, apoiado na meta-análise IOTA, recomenda com força **não ultrapassar 96%** — o sinal de mortalidade com O₂ liberal aparece acima de 94–96%. Na prática: **92–96%** no paciente sem risco de retenção satisfaz as duas. Dispositivos e escada de FiO₂ em [[Oxigenoterapia]].
+
+**Relevância clínica:** a nota define a síndrome; este bloco dá os números de beira de leito para as três decisões do PS — é agudo? intubo? quanto oxigênio?
+**Fonte:** Maia IS et al. JAMA. 2025;333(10):875-890. PMID 39657981 · Siemieniuk RAC et al. BMJ. 2018;363:k4169. PMID 30355567 · Chu DK et al. Lancet. 2018;391(10131):1693-1705. PMID 29726345 · Byrne AL et al. Respirology. 2014;19(2):168-175. PMID 24383789 · regra do bicarbonato: conhecimento consolidado de fisiologia ácido-básica.
+
+---

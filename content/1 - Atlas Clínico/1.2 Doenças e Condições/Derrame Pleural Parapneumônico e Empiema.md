@@ -262,3 +262,27 @@ A aula do Albert trouxe o bloco cirúrgico do empiema com números do banco da S
 **Fonte:** Towe CW, Carr SR, Donahue JM, et al. Morbidity and 30-day mortality after decortication for parapneumonic empyema and pleural effusion among patients in the Society of Thoracic Surgeons' General Thoracic Surgery Database. J Thorac Cardiovasc Surg. 2019;157(3):1288–1297.e4. PMID 33198004 — https://doi.org/10.1016/j.jtcvs.2018.10.157 *(confirmada via PubMed)*
 
 ---
+
+### 🔗 BTS 2023: limiares de drenagem, fibrinolítico, RAPID e duração do antibiótico
+**Data:** 2026-10-17
+**Contexto:** [[Derrame pleural]] · [[Abordagem do Derrame Pleural]] — processamento de `Derrame Pleural - Anotações` (Osler)
+
+**Características específicas:**
+- **Limiares de drenagem (BTS 2023)**, quando a punção não traz pus franco:
+	- **pH ≤ 7,2** → alto risco de derrame complicado → **dreno**, se houver volume acessível ao USG
+	- **pH 7,2–7,4** → risco intermediário → medir LDH; **LDH > 900 UI/L** → considerar dreno, sobretudo com febre persistente, volume grande, glicose ≤ 72 mg/dL, realce pleural na TC ou septação ao USG
+	- **pH ≥ 7,4** → baixo risco, sem dreno imediato
+	- Sem gasômetro disponível: **glicose < 60 mg/dL (3,3 mmol/L)** substitui o pH
+	- A tabela desta nota usa glicose < 40–60 e LDH > 1.000 (cortes clássicos de Light); os da BTS são um pouco mais sensíveis.
+- **pH baixo sem pneumonia não é derrame complicado:** AR, neoplasia avançada e mesotelioma também acidificam o líquido.
+- **Dreno fino (≤ 14 Fr)** como drenagem inicial.
+- **Fibrinolítico:** **t-PA 10 mg + DNase 5 mg, 2×/dia por 3 dias**, quando o dreno para de drenar e resta coleção. **Agente isolado não funciona**; estreptoquinase não. No MIST-2, a combinação reduziu o encaminhamento cirúrgico (4% × 16%) e a internação (−6,7 dias).
+- **Correção do material-fonte:** a anotação põe a **VATS como primeira linha na fase fibrinopurulenta** e o fibrinolítico como alternativa. A BTS 2023 inverte: drenagem com dreno fino + t-PA/DNase primeiro; **cirurgia precoce não é preferida** à drenagem inicial (falta evidência), e a VATS entra na falha. A ERS/ESTS 2023 reforça: considerar o fibrinolítico cedo, **com o cirurgião já envolvido** — atraso no tratamento piora o desfecho. O ensaio MIST-3 mostrou que a comparação direta é viável, mas ainda não a resolveu.
+- **RAPID** (urea, idade, purulência, origem da infecção, albumina) — validado prospectivamente no PILOT: mortalidade em 3 meses de 2,3% (0–2 pontos), 9,2% (3–4) e 29,3% (5–7). Serve para estratificar e conversar com o paciente, não para decidir conduta isoladamente.
+- **Duração do antibiótico:** a anotação cita 2–3 semanas no complicado e 4–6 no empiema. Não há diretriz com número fixo; o único RCT localizado (pequeno, interrompido precocemente) sugere que **2 semanas** de amoxicilina-clavulanato bastam no derrame complicado comunitário que estabilizou.
+- **Coleta:** cultura do líquido em frascos de hemocultura; pH sem heparina residual nem anestésico.
+
+**Relevância clínica:** pH continua sendo o pivô; o que muda é a zona cinzenta (7,2–7,4), a ordem dreno → fibrinolítico → cirurgia, e a possibilidade de encurtar o antibiótico.
+**Fonte:** BTS 2023 — Roberts ME et al. Thorax. 2023;78(11):1143–1156. PMID 37553157 · Rahman NM et al. (MIST-2). N Engl J Med. 2011;365(6):518–526. PMID 21830966 · Corcoran JP et al. (PILOT). Eur Respir J. 2020;56(5):2000130. PMID 32675200 · Rahman NM et al. (RAPID). Chest. 2014;145(4):848–855. PMID 24264558 · Bedawi EO et al. ERS/ESTS statement on the management of pleural infection in adults. Eur Respir J. 2023;61(2):2201062. PMID 36229045 · Porcel JM et al. Two vs. three weeks of amoxicillin-clavulanate for stabilized community-acquired complicated parapneumonic effusions. Pleura Peritoneum. 2020;5(1):20190027. PMID 32934974 *(confirmados via PubMed)*
+
+---

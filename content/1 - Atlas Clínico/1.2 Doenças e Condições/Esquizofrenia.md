@@ -3,14 +3,14 @@ date: 2026-04-04T10:00:00
 área:
   - Psiquiatria
 tipo: Doença
-tipo de exame: 
+tipo de exame:
 tipo de doença: Neuropsiquiátrica
 classe de medicamentos:
 prevalência: Comum
 aliases:
   - Esquizofrenia
   - Psicose Esquizofrênica
-card: 
+card:
 ---
 
 # Esquizofrenia

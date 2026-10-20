@@ -69,7 +69,7 @@ tipo de exame: null
 
 ### **Grupo C: Difusas — Tóxico-Metabólicas e Infecciosas (60-70% — a maioria)**
 *Comprometimento global e simétrico; reflexos pupilares preservados (exceto barbitúricos/anóxia profunda).*
-- **Metabólicas:** [[Glicemia Capilar (HGT)|hipo/hiperglicemia]] ([[Cetoacidose Diabética]], [[Estado Hiperosmolar]]), [[Hiponatremia]]/[[Hipernatremia]], [[Encefalopatia Hepática]] ([[Asterixis ('flapping')|flapping]]), [[Encefalopatia Urêmica]] ([[Mioclonia|mioclonias]])
+- **Metabólicas:** [[Glicemia Capilar (HGT)|HGT]] para [[Hipoglicemia]] ou hiperglicemia ([[Cetoacidose Diabética]], [[Estado Hiperosmolar]]), [[Hiponatremia]]/[[Hipernatremia]], [[Encefalopatia Hepática]] ([[Asterixis ('flapping')|flapping]]), [[Encefalopatia Urêmica]] ([[Mioclonia|mioclonias]])
 - **Carenciais:** [[Encefalopatia de Wernicke]] (deficiência de [[Tiamina (Vitamina B1)|B1]] — frequentemente iatrogênica, pós-glicose)
 - **Tóxicas:** [[Intoxicação Aguda por Opioides]], [[Toxicidade Sistêmica de Anestésicos Locais]], anticolinérgicos, encefalopatia por cefepime/metronidazol
 - **Infecciosas:** [[Sepse]], [[Meningite Aguda]], [[Encefalite]] (ver [[Encefalopatia Febril Aguda (Suspeita de Encefalite)]])
@@ -123,3 +123,17 @@ tipo de exame: null
 ### ➕ Updates de Casos Reais
 *- (Anote aqui aprendizados de casos)*
 -
+
+### 🔗 Causas tireoidianas de rebaixamento
+**Data:** 2026-10-14
+**Contexto:** [[Coma Mixedematoso]], [[Crise Tireotóxica]]
+
+**Características específicas:**
+- **Coma mixedematoso** — rebaixamento + **hipotermia + bradicardia + hiponatremia + hipercapnia**, típico de idoso no inverno com hipotireoidismo mal tratado. Popoveniuc ≥ 60 = diagnóstico; 45–59 = risco. Hidrocortisona IV **antes** da levotiroxina IV.
+- **Crise tireotóxica** — rebaixamento/delirium + **febre alta + taquicardia desproporcional/FA + insuficiência cardíaca + vômitos/diarreia/icterícia**. Burch-Wartofsky ≥ 45. Betabloqueador → tionamida → iodo (≥ 1 h depois) → hidrocortisona.
+- Nos dois casos o tratamento começa **antes** do resultado do TSH/T4L.
+
+**Relevância clínica:** na triagem do rebaixamento, a temperatura e a frequência cardíaca apontam o polo tireoidiano — **frio e lento** (mixedema) × **quente e rápido** (tireotoxicose).
+**Fonte:** Jonklaas J et al. (ATA 2014) Thyroid. 2014;24(12):1670-1751. PMID 25266247; Popoveniuc G et al. Endocr Pract. 2014;20(8):808-817. PMID 24518183; Kopp PA et al. J Clin Endocrinol Metab. 2026;111(5):1484-1494. PMID 41655224
+
+---

@@ -67,7 +67,7 @@ card:
         - **Segmento ST e Onda T:** **Isquemia (infra de ST, T invertida) ou Lesão/Infarto (supra de ST).**
 
 - **Achados Patológicos (Pivôs):**
-    - **[[Supradesnivelamento de ST]]**: Sugere [[IAMCSST]].
+    - **[[Supradesnivelamento de ST]]**: Sugere [[Infarto Agudo do Miocárdio com Supradesnivelamento do Segmento ST - IAMCSST]].
     - **[[Infradesnivelamento de ST]]**: Sugere [[Isquemia subendocárdica]] ([[IAMSSST]] ou [[Angina Instável]]).
     - **[[Ondas T apiculadas e simétricas]]**: Podem indicar hipercalemia ou fase hiperaguda do infarto.
     - **[[Alargamento do QRS]]**: Indica bloqueio de ramo ou arritmia ventricular.

@@ -98,3 +98,17 @@ O som é energia mecânica: sua transmissão depende da proximidade entre as mol
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
 -
+
+### 🔗 Egofonia no derrame: o paradoxo do frêmito e a observação de Laennec
+**Data:** 2026-10-17
+**Contexto:** [[Derrame pleural]] · [[Redução do Frêmito Tóraco-Vocal]] — processamento de `Derrame Pleural - Anotações` (Osler)
+
+**Características específicas:**
+- No derrame moderado, o mesmo paciente pode ter **frêmito reduzido** e **ressonância vocal aumentada** (egofonia) — não é contradição. O frêmito é feito de **baixas frequências** (~100–200 Hz), que o líquido bloqueia; a ressonância vocal, de **altas frequências** (> 300 Hz), que o pulmão normal filtra e o pulmão comprimido na borda do derrame deixa passar.
+- **Laennec**, inventor do estetoscópio, já descrevia: a egofonia aparece nos derrames **moderados**, **some** quando o derrame cresce (o pulmão perde contato com a parede) e **reaparece** quando ele regride.
+- Consequência prática: ausência de egofonia não afasta derrame grande; sua presença na borda superior ajuda a localizar o nível do líquido.
+
+**Relevância clínica:** completa o callout "Por que também ocorre acima de derrame" desta nota com o mecanismo de frequência e a dependência do volume.
+**Fonte:** Diaz-Guzman E, Budev MM. Accuracy of the physical examination in evaluating pleural effusion. Cleve Clin J Med. 2008;75(4):297–303. PMID 18491436 — https://doi.org/10.3949/ccjm.75.4.297 *(confirmado via PubMed; citado na anotação-fonte)*
+
+---

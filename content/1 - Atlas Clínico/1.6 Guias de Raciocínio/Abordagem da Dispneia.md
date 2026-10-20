@@ -37,6 +37,11 @@ tipo de exame: null
 
 **O primeiro corte é temporal — aguda (minutos a horas) vs. crônica (semanas a meses) — porque muda completamente o conjunto de hipóteses.**
 
+> [!tip] Este guia é o hub — os dois ramos têm guia próprio
+> - **Aguda (até ~2 semanas), no pronto-socorro** → [[Abordagem da Dispneia Aguda]] — com/sem IRpA, triagem, decisão de intubação, oxigênio, armadilhas e critérios de alta.
+> - **Crônica (> 4 semanas), ambulatorial** → [[Abordagem da Dispneia Crônica]].
+> - Entre 2 e 4 semanas não há classificação padronizada; e "crônica que piorou" é **crônica agudizada** — vai pelo ramo agudo.
+
 ### **Grupo A: Vias aéreas e parênquima**
 - [[Asma]]
 - [[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]] / [[Exacerbação de DPOC|exacerbação de DPOC]]
@@ -135,3 +140,35 @@ Na dispneia aguda grave, a [[Ultrassonografia Pulmonar|US pulmonar]] responde em
 **Complemento cardíaco:** no paciente instável, o [[Ecocardiograma Focado à Beira do Leito (FoCUS)|FoCUS]] acrescenta VE fraco (edema cardiogênico), VD dilatado com sinal do D (TEP), derrame com colapso de câmaras (tamponamento).
 
 **Fonte deste bloco:** Lichtenstein DA, Mezière GA. Relevance of lung ultrasound in the diagnosis of acute respiratory failure: the BLUE protocol. Chest. 2008;134(1):117-125. PMID 18403664 — 260 pacientes de UTI, 90,5% de acerto global.
+
+---
+
+### 🔗 Quando a dispneia é de derrame pleural
+**Data:** 2026-10-17
+**Contexto:** [[Derrame pleural]] · [[Abordagem do Derrame Pleural]] — processamento de `Derrame Pleural - Anotações` (Osler)
+
+**Características específicas:**
+- No Grupo A, o [[Derrame pleural]] tem exame físico que "aponta para menos": [[Macicez à Percussão Torácica|macicez]] (LR+ 8,7 — o melhor sinal para confirmar), [[Expansibilidade Torácica Assimétrica|expansibilidade reduzida]] (LR+ 8,1) e [[Redução do Frêmito Tóraco-Vocal|frêmito reduzido]] (sua ausência dá LR− 0,21 — o melhor para afastar).
+- O que diferencia de consolidação e pneumotórax, que também reduzem o murmúrio, é a combinação de frêmito e percussão — tabela em [[Derrame pleural]].
+- **Trepopneia** (dispneia ao deitar sobre o lado sadio) é pista de derrame unilateral volumoso.
+- Confirmado o derrame, a pergunta muda de "por que falta ar?" para "transudato ou exsudato?" — seguir em [[Abordagem do Derrame Pleural]]. A dispneia do derrame se trata pela causa; punção de alívio só se o sintoma for atribuível ao líquido e não estiver melhorando.
+
+**Relevância clínica:** liga o bucket pulmonar deste guia ao guia específico do derrame, fechando o bloco sintoma → guia → doença.
+**Fonte:** Wong CL et al. Does this patient have a pleural effusion? JAMA. 2009;301(3):309–317. PMID 19155458 — https://doi.org/10.1001/jama.2008.937 *(confirmado via PubMed)*
+
+---
+
+### 🔗 O que o pronto-socorro acrescenta a este guia
+**Data:** 2026-10-18
+**Contexto:** [[Abordagem da Dispneia Aguda]] — processamento de `Dispneia no Pronto-Socorro - Anotações`
+
+**Características específicas:**
+- **A idade redistribui a pré-teste antes de qualquer pergunta:** até 45 anos a [[Asma]] lidera; depois, [[Doença Pulmonar Obstrutiva Crônica (DPOC)|DPOC]] e [[Insuficiência Cardíaca]] crescem; acima de 80 anos, IC descompensada é a causa mais comum.
+- **Pesos dos achados para IC** (Wang, JAMA 2005): [[B3 (Galope)]] LR+ 11 · refluxo hepatojugular LR+ 6,4 · [[Turgência Jugular Patológica|turgência jugular]] LR+ 5,1 · [[Fibrilação Atrial]] no ECG ~3,8 · [[Dispneia Paroxística Noturna]] só 2,6 · ausência de [[Crepitações (Estertores)|crepitações]] LR− 0,51 (quase não exclui). A [[Sibilância]] tem LR+ de apenas 3,6 para doença obstrutiva — e sibila também a IC.
+- **Viés que este guia já nomeia, agora com número:** quando a triagem menciona IC, investiga-se e diagnostica-se menos TEP. Diagnóstico prévio é pré-teste, não explicação.
+- **Correção de leitura do Achado-Pivô "dispneia desproporcional + gradiente A-a alargado = TEP":** um gradiente **normal não exclui** TEP — ele classifica mecanismo, não descarta doença (ver [[Gradiente Alvéolo-Arterial (A-a)]]).
+
+**Relevância clínica:** liga o hub ao ramo agudo com os números que mudam probabilidade à beira do leito.
+**Fonte:** Wang CS, FitzGerald JM, Schulzer M, et al. Does this dyspneic patient in the emergency department have congestive heart failure? JAMA. 2005;294(15):1944-1956. PMID 16234501 · Araujo JPN, Vasconcelos JM. Dispneia no Pronto-Socorro. Guia Tá de Clinicagem, jun/2026 — https://www.tadeclinicagem.com.br/guia/594/dispneia-no-pronto-socorro/
+
+---

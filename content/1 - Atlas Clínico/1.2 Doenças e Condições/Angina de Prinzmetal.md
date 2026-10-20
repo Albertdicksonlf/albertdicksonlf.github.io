@@ -33,13 +33,13 @@ card:
 *Dados que mudam a probabilidade pré-teste.*
 
 - **Exame Físico:** Geralmente normal entre os episódios.
-- **[[Eletrocardiograma (ECG)]]:** O achado-pivô é a **elevação transitória do segmento ST** durante o episódio de dor, que resolve completamente após o fim da dor. Isso mimetiza um [[IAMCSST]], mas é transitório.
+- **[[Eletrocardiograma (ECG)]]:** O achado-pivô é a **elevação transitória do segmento ST** durante o episódio de dor, que resolve completamente após o fim da dor. Isso mimetiza um [[Infarto Agudo do Miocárdio com Supradesnivelamento do Segmento ST - IAMCSST]], mas é transitório.
 - **[[Cineangiocoronariografia]]:** Ausência de lesões obstrutivas fixas significativas. O diagnóstico pode ser confirmado com **testes provocativos** (injeção de acetilcolina ou ergonovina) durante o cateterismo para induzir o espasmo focal.
 
 ---
 
 ## 🔍 Diagnósticos Diferenciais
-- [[IAMCSST]] (a principal diferença é a transitoriedade do supra de ST e a ausência de lesão obstrutiva no cateterismo).
+- [[Infarto Agudo do Miocárdio com Supradesnivelamento do Segmento ST - IAMCSST]] (a principal diferença é a transitoriedade do supra de ST e a ausência de lesão obstrutiva no cateterismo).
 - [[Síndrome Coronariana Aguda]] por outras causas.
 - [[Espasmo esofágico]].
 

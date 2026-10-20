@@ -21,7 +21,7 @@ card:
 A Síndrome Coronariana Aguda (SCA) é quase sempre causada pela instabilização de uma placa de ateroma.
 
 - **Mecanismo Central:** A ruptura, fissura ou erosão de uma placa vulnerável (geralmente com núcleo lipídico grande e capa fibrótica fina) expõe seu conteúdo trombogênico ao sangue. Isso ativa a cascata de coagulação e a agregação plaquetária, formando um trombo que obstrui parcial ou totalmente a artéria coronária.
-- **Oclusão Total:** Um trombo que oclui completamente o vaso por tempo prolongado causa necrose transmural, resultando em um [[IAMCSST|Infarto Agudo do Miocárdio com Supradesnivelamento do Segmento ST (IAMCSST)]].
+- **Oclusão Total:** Um trombo que oclui completamente o vaso por tempo prolongado causa necrose transmural, resultando em um [[Infarto Agudo do Miocárdio com Supradesnivelamento do Segmento ST - IAMCSST|Infarto Agudo do Miocárdio com Supradesnivelamento do Segmento ST (IAMCSST)]].
 - **Oclusão Parcial ou Transitória:** Um trombo que não oclui totalmente a artéria, ou que é lisado rapidamente, causa um espectro de doenças conhecido como SCA sem supra de ST, que inclui a [[Angina Instável]] (sem necrose) e o [[IAMSSST|Infarto Agudo do Miocárdio sem Supradesnivelamento do Segmento ST (IAMSSST)]] (com necrose).
 
 ## 🤒 Apresentação Clínica e Suspeita
@@ -73,7 +73,7 @@ O manejo inicial visa aliviar a isquemia, prevenir a progressão do trombo e est
 ## Classificação e Estratégias de Tratamento
 A SCA é dividida em três entidades clínicas, com manejos distintos após a avaliação inicial:
 
-1.  **[[IAMCSST|Infarto Agudo do Miocárdio com Supra de ST (IAMCSST)]]:** Requer terapia de reperfusão imediata (angioplastia primária ou fibrólise).
+1.  **[[Infarto Agudo do Miocárdio com Supradesnivelamento do Segmento ST - IAMCSST|Infarto Agudo do Miocárdio com Supra de ST (IAMCSST)]]:** Requer terapia de reperfusão imediata (angioplastia primária ou fibrólise).
 2.  **[[IAMSSST|Infarto Agudo do Miocárdio sem Supra de ST (IAMSSST)]]:** Não se beneficia de fibrólise. O manejo envolve estratificação de risco para definir a urgência do cateterismo.
 3.  **[[Angina Instável]]:** Marcadores de necrose negativos. O manejo é semelhante ao do IAMSSST, com foco na estratificação de risco.
 

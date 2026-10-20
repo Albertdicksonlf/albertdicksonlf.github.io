@@ -21,7 +21,7 @@ card:
 São as mais comuns nas primeiras horas após o IAM.
 
 - **Arritmias Ventriculares:**
-    - **[[Fibrilação Ventricular (FV)]]:** Principal causa de morte na fase pré-hospitalar do [[IAMCSST]].
+    - **[[Fibrilação Ventricular (FV)]]:** Principal causa de morte na fase pré-hospitalar do [[Infarto Agudo do Miocárdio com Supradesnivelamento do Segmento ST - IAMCSST]].
     - **[[Taquicardia Ventricular (TV)]]:** Pode ser sustentada ou não sustentada. Se instável, requer cardioversão elétrica imediata.
 - **Bradicardias e Bloqueios Atrioventriculares (BAV):**
     - Mais comuns no **infarto de parede inferior** (acometimento da Coronária Direita, que irriga o nó AV).

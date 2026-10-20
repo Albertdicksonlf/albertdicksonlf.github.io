@@ -52,3 +52,18 @@ tipo de exame: null
 ### ➕ Novas Anotações / Insights
 *- Nota criada em 2026-07-28 (Trilha A, Tier 2, par pulmonar com [[Hemoptise]]). Articulada como a "qualidade pleurítica" da dor torácica, roteando para o sintoma-guia e o guia gerais sem duplicá-los. Texto puro: costocondrite/Tietze.*
 -
+
+### 🔗 Dor pleurítica e derrame pleural
+**Data:** 2026-10-17
+**Contexto:** [[Derrame pleural]] · [[Abordagem do Derrame Pleural]] — processamento de `Derrame Pleural - Anotações` (Osler)
+
+**Características específicas:**
+- A dor pleurítica vem da **pleura parietal** inflamada — a visceral não tem inervação dolorosa.
+- No derrame, a dor pode **melhorar enquanto o derrame cresce**: o líquido afasta os folhetos e o atrito some. Melhora da dor com piora da dispneia não é sinal de resolução.
+- Dor pleurítica + febre + derrame → [[Derrame Pleural Parapneumônico e Empiema]]; dor pleurítica + derrame pequeno + dispneia súbita → [[Tromboembolismo Pulmonar (TEP)|TEP]]; dor surda e persistente com derrame volumoso → [[Derrame Pleural Maligno]] ou mesotelioma.
+- Achado o derrame, o raciocínio segue em [[Abordagem do Derrame Pleural]].
+
+**Relevância clínica:** completa a gaveta "pleuropulmonar" desta nota com o guia específico do derrame.
+**Fonte:** BTS 2023 — Roberts ME et al. Thorax. 2023;78(11):1143–1156. PMID 37553157 *(confirmado via PubMed)* · anotação-fonte
+
+---

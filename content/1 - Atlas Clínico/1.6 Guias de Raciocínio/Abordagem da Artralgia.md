@@ -192,3 +192,21 @@ tipo de exame: null
 **Fonte:** Gossec L et al. EULAR recommendations for the management of psoriatic arthritis with pharmacological therapies: 2023 update. Ann Rheum Dis. 2024;83(6):706-719. PMID 38499325 — https://doi.org/10.1136/ard-2024-225531 · Ramiro S et al. ASAS-EULAR 2022 update. Ann Rheum Dis. 2023;82(1):19-34. PMID 36270658 — https://doi.org/10.1136/ard-2022-223296
 
 ---
+
+### 🔗 A "pergunta que não pode esperar" agora tem guia próprio
+**Data:** 2026-10-17
+**Contexto:** [[Abordagem da Monoartrite Aguda]] — processamento de `Mono Artrite Aguda - Anotações` (Tá de Clinicagem)
+
+**Características específicas:**
+- Quando a resposta à primeira pergunta deste guia é **sim — monoartrite aguda** —, o raciocínio segue em [[Abordagem da Monoartrite Aguda]]: buckets (infecciosa, cristais, estrutural/hemorrágica, sistêmica estreando como mono, imitadores periarticulares), algoritmo da artrocentese e leitura do líquido.
+- O que aquele guia acrescenta a este:
+	- **A gota é a causa mais comum** da monoartrite aguda; a séptica é a mais grave — e as duas coexistem.
+	- **Quando dá para não puncionar:** gota clinicamente típica, sem suspeita de séptica, punção inviável → [[Escore de Janssens]] ≥ 8.
+	- **Fatores de risco para séptica com peso:** cirurgia articular recente (LR+ 6,9), idade > 80 (3,5), prótese (3,1); nenhum, ausente, afasta.
+	- **Pseudogota agora tem nota:** [[Doença por Deposição de Pirofosfato de Cálcio (DDPC)]] — no Grupo C deste guia estava em texto puro.
+	- **Hemartrose** tem nota de achado: [[Hemartrose (sangramento articular)]].
+
+**Relevância clínica:** fecha o bloco sintoma → guia: [[Artrite]] → [[Abordagem da Artralgia]] (triagem) → [[Abordagem da Monoartrite Aguda]] (monoartrite) → doenças.
+**Fonte:** Margaretten ME et al. JAMA. 2007;297(13):1478–1488. PMID 17405973 · Janssens HJ et al. Arch Intern Med. 2010;170(13):1120–1126. PMID 20625017 *(confirmados via PubMed)*
+
+---

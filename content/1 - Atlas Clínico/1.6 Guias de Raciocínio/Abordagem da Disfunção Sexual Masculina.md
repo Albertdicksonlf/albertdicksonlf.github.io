@@ -55,7 +55,7 @@ card:
 - **Pivô CV:** DE vasculogênica precede IAM/AVC em 2-5 anos → avaliação cardiovascular obrigatória
 
 ### **Sistema Hormonal**
-- [[Testosterona ]] (libido central e periférica)
+- [[Testosterona]] (libido central e periférica)
 - Prolactina (inibe quando elevada)
 - TSH (hipo/hipertireoidismo afeta)
 - **Pistas:** Diminuição global da libido, fadiga, perda de massa muscular, ginecomastia, atrofia testicular

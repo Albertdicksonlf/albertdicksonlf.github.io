@@ -97,3 +97,43 @@ Mas alta perda de peso - superobesos (IMC 60)
 ### **➕ Novas Anotações / Insights**
 *- (Espaço para suas anotações pessoais, insights de aulas, artigos ou da prática clínica)*
 -
+
+### 🔗 Hipoglicemia pós-bariátrica (PBH)
+**Data:** 2026-10-14
+**Contexto:** [[Hipoglicemia]] · [[Investigação de Hipoglicemia]] · [[Bypass Gástrico em Y de Roux]] · [[Gastrectomia Vertical (Sleeve)]]
+
+**Características específicas:**
+- **O que é:** hipoglicemia **hiperinsulinêmica pós-prandial**, que aparece **1–3 anos** após o bypass gástrico ou a gastrectomia vertical e tende a persistir. Sintomas de hipoglicemia foram relatados em cerca de **1/3** dos operados, embora a prevalência real dependa do critério usado (Looi & Lawler 2025).
+- **Mecanismo:**
+	1. o alimento chega rápido ao intestino, rico em células L;
+	2. há pico exagerado de GLP-1 e GIP;
+	3. vem um **pico de glicose** e depois um **pico de insulina**;
+	4. a hipoglicemia surge **1–3 h** após a refeição.
+	- Contribuem também menor depuração da insulina, glucagon embotado, ácidos biliares e microbiota.
+	- A "nesidioblastose" como causa é controversa.
+- **Diferenciar do *dumping* precoce:**
+	- O *dumping* precoce surge **logo** após a cirurgia, melhora com o tempo e dá sintomas **10–30 min** após comer, **sem hipoglicemia**: desconforto abdominal, náusea, sudorese, palpitação, rubor.
+	- A PBH é **tardia**, dá sintomas **1–3 h** após a refeição e **tem glicose baixa** (AASD 2025).
+- **Diagnóstico:**
+	- Clínico, com glicose documentada.
+	- O CGM ajuda a ver o padrão pico-depois-queda.
+	- **Teste de refeição mista** se houver dúvida. **Não usar TOTG**, que pode provocar crise convulsiva.
+	- **Hipoglicemia de jejum num operado não é PBH:** investigar [[Insulinoma]] com [[Teste de Jejum de 72 Horas]] (Looi & Lawler 2025).
+- **Tratamento:**
+	- **Nutrição é a base:**
+		- refeições mistas pequenas e frequentes (cerca de 6 por dia);
+		- **até 30 g de carboidrato complexo por refeição**, sem açúcar simples;
+		- proteína e fibra;
+		- **sem líquidos junto com a refeição** nem nos 30 min seguintes;
+		- evitar álcool e cafeína.
+	- **Corrigir a crise com 10–15 g** de açúcar simples seguidos de proteína ou gordura, para evitar o "ioiô" glicêmico.
+	- **Fármacos (sem nenhum aprovado pela FDA para PBH):**
+		- **acarbose** como 1ª opção;
+		- depois agonista de GLP-1 (paradoxal, mas reduz a variabilidade);
+		- [[Diazóxido]], verapamil ou análogo de somatostatina ([[Octreotida]]) em casos selecionados.
+	- **Refratários:** reversão do bypass ou anel restritivo no sleeve. A pancreatectomia parcial é considerada só em casos extremos (AASD 2025).
+
+**Relevância clínica:** o operado que "desmaia depois do almoço" tem hipoglicemia até prova em contrário, e não "dumping". O horário (1–3 h) e a glicose documentada separam os dois quadros.
+**Fonte:** Looi E, Lawler HM. J Clin Med. 2025;14(13):4393. PMID 40648766 — https://doi.org/10.3390/jcm14134393 · Soliman AR et al. (AASD 2025). Cardiovasc Diabetol Endocrinol Rep. 2025;11(1):22. PMID 41047420 — https://doi.org/10.1186/s40842-025-00234-8
+
+---

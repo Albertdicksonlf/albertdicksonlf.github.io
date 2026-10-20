@@ -4,7 +4,7 @@ date: 2026-04-25T08:30:00
   - Cardiologia
   - Clínica Médica
 tipo: Doença
-tipo de exame: 
+tipo de exame:
 tipo de doença: Degenerativa
 classe de medicamentos:
 prevalência: Comum
@@ -13,7 +13,7 @@ aliases:
   - ICC
   - Insuficiência Cardíaca Congestiva
   - Falência Cardíaca
-card: 
+card:
 ---
 
 # Insuficiência Cardíaca
@@ -312,3 +312,20 @@ Utilizado quando há sintomas + FEVE preservada para estimar probabilidade de IC
 ### ➕ Novas Anotações / Insights
 - Hub principal de IC. Notas-filhas: [[Insuficiência Cardíaca com Fração de Ejeção Reduzida]], [[Insuficiência Cardíaca com Fração de Ejeção Preservada]], [[Insuficiência Cardíaca com Fração de Ejeção Melhorada]], [[Insuficiência Cardíaca Aguda]], [[Insuficiência Cardíaca de Alto Débito]].
 -
+
+### 🔗 Derrame pleural na IC — o transudato que vira "exsudato" com diurético
+**Data:** 2026-10-17
+**Contexto:** [[Derrame pleural]] · [[Critérios de Light]] · [[Abordagem do Derrame Pleural]] — processamento de `Derrame Pleural - Anotações` (Osler)
+
+**Características específicas:**
+- A IC é a **causa mais comum de derrame pleural**: tipicamente **bilateral**, maior à direita, transudato. O líquido vem do **edema intersticial pulmonar** que transborda pela pleura visceral — por isso o derrame acompanha a congestão esquerda.
+- **Derrame pequeno, bilateral, simétrico, em IC típica:** pode-se tratar com diurético e reavaliar, sem punção. **Assimétrico, com febre, dor pleurítica ou que não regride com a diurese → puncionar** — até ~1/3 desses pacientes tem uma segunda causa (anotação-fonte).
+- **Pseudoexsudato:** a diurese tira água do espaço pleural mais rápido que proteína e LDH, e cerca de 1/4 a 1/3 dos derrames cardíacos em diurético preenchem os [[Critérios de Light]]. Confirmar com **gradiente soro-pleural de albumina > 1,2 g/dL** (= transudato).
+- **NT-proBNP sérico** apoia a IC como causa do derrame unilateral; dosá-lo no líquido não acrescenta (BTS 2023).
+- **Pseudotumor ("vanishing tumor"):** derrame loculado em cisura que imita massa na radiografia e desaparece com a diurese.
+- Dispneia por derrame que melhora com diurese **não pede punção**.
+
+**Relevância clínica:** evita as duas armadilhas simétricas — investigar câncer num pseudoexsudato e deixar passar a segunda causa num derrame atípico.
+**Fonte:** BTS 2023 — Roberts ME et al. Thorax. 2023;78(11):1143–1156. PMID 37553157 · ERS 2024 — Sundaralingam A et al. Eur Respir J. 2024;64(6):2302307. PMID 39060018 *(confirmados via PubMed)*
+
+---

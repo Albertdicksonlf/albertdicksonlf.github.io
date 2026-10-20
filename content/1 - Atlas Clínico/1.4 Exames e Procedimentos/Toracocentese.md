@@ -165,3 +165,21 @@ tipo de exame: Procedimento
 
 ---
 -
+
+### 🔗 Toracocentese no derrame pleural — o que mudou com a BTS 2023 e os ensaios
+**Data:** 2026-10-17
+**Contexto:** [[Derrame pleural]] · [[Abordagem do Derrame Pleural]] — processamento de `Derrame Pleural - Anotações` (Osler)
+
+**Características específicas:**
+- **Guiar por imagem sempre** — recomendação forte da BTS 2023. Em metanálise, o pneumotórax caiu de 9,3% sem USG para 4,0% com USG.
+- **Coagulopatia:** esta nota lista "coagulopatia não corrigida, plaquetas < 50.000" como contraindicações relativas. Numa coorte de 9.320 punções, sangramento **não se associou** a INR, TTPa nem plaquetas; a anotação-fonte registra o consenso de que, sob USG, o risco é muito baixo mesmo com coagulopatia franca. Não se corrige de rotina — decide-se caso a caso.
+- **Volume terapêutico:** manter o teto de 1–1,5 L e **interromper por sintoma** (dor torácica, tosse). Na mesma coorte, retirar > 1.500 mL associou-se a pneumotórax, e o edema de reexpansão foi raríssimo (10 casos em 9.320 punções).
+- **Manometria:** a anotação-fonte sugere interromper se a pressão pleural cair abaixo de −20 cmH₂O. Um RCT (Lentz 2019) mostrou que a manometria de rotina **não reduz desconforto nem complicações** em relação à interrupção guiada por sintomas — não é recomendada como rotina.
+- **Amostras:** 25–50 mL para citologia; 5–10 mL inoculados em frascos de hemocultura (aeróbio e anaeróbio); pH em seringa **sem heparina residual e sem anestésico local** (ambos baixam o pH) e processado sem demora.
+- **Espessura mínima para puncionar:** ~1 cm de lâmina em decúbito lateral.
+- **Agora com nota própria:** [[Critérios de Light]] (antes texto puro aqui), [[Derrame Pleural Maligno]] e [[Biópsia Pleural]] — o passo seguinte quando o líquido não fecha o diagnóstico.
+
+**Relevância clínica:** a punção diagnóstica e de alívio passou a ser guiada por imagem e interrompida por sintoma, não por um número de pressão.
+**Fonte:** BTS 2023 — Roberts ME et al. Thorax. 2023;78(11):1143–1156. PMID 37553157 · Gordon CE et al. Arch Intern Med. 2010;170(4):332–339. PMID 20177035 · Ault MJ et al. Thoracentesis outcomes: a 12-year experience. Thorax. 2015;70(2):127–132. PMID 25378543 — https://doi.org/10.1136/thoraxjnl-2014-206114 · Lentz RJ et al. Lancet Respir Med. 2019;7(5):447–455. PMID 30772283 *(confirmados via PubMed)*
+
+---

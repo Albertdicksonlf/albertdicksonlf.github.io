@@ -26,7 +26,7 @@ A decisão entre CRM, [[Angioplastia Coronariana|angioplastia (ICP)]] ou tratame
     - Doença triarterial, especialmente com disfunção ventricular (**FEVE < 35%**) ou **SYNTAX Score alto (>32)**.
     - **Pacientes diabéticos com doença multiarterial.**
     - Falha da angioplastia com isquemia em curso.
-    - [[IAMCSST]] com choque cardiogênico refratário ou complicações mecânicas.
+    - [[Infarto Agudo do Miocárdio com Supradesnivelamento do Segmento ST - IAMCSST]] com choque cardiogênico refratário ou complicações mecânicas.
 - **Indicações Classe IIa (Benefício Provável):**
     - Doença biarterial com lesão proximal da artéria Descendente Anterior (DA).
     - Angina refratária ao tratamento clínico otimizado.

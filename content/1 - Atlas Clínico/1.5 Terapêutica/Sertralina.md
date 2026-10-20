@@ -27,7 +27,7 @@ card:
 ## 📋 Indicações Principais
 *Para que serve na prática?*
 
-1.  **Depressão Maior em Cardiopatas:** É o antidepressivo mais estudado e seguro no pós-Infarto Agudo do Miocárdio ([[IAMCSST|IAM]]).
+1.  **Depressão Maior em Cardiopatas:** É o antidepressivo mais estudado e seguro no pós-Infarto Agudo do Miocárdio ([[Infarto Agudo do Miocárdio com Supradesnivelamento do Segmento ST - IAMCSST|IAM]]).
 2.  **Transtorno de Pânico e Fobia Social.**
 3.  **[[TOC]].**
 4.  **Transtorno de Estresse Pós-Traumático (TEPT).**

@@ -28,7 +28,7 @@ card:
 ## 📋 Indicações Principais
 1. **Profilaxia de Tromboembolismo Venoso (TEV):** Em cirurgias ortopédicas, cirurgia geral e pacientes clínicos com mobilidade reduzida.
 2. **Tratamento de TVP e [[Tromboembolismo Pulmonar (TEP)]].**
-3. **[[Síndrome Coronariana Aguda]]:** Angina instável, IAMSSST e [[IAMCSST]].
+3. **[[Síndrome Coronariana Aguda]]:** Angina instável, IAMSSST e [[Infarto Agudo do Miocárdio com Supradesnivelamento do Segmento ST - IAMCSST]].
 4. **Prevenção de coagulação em circuitos de hemodiálise.**
 
 ## 💊 Posologia e Apresentação
