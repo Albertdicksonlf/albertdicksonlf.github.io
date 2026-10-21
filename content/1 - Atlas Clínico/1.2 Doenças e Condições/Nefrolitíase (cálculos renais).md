@@ -95,7 +95,9 @@ tipo de exame:
 
 ### **2. Terapia médica expulsiva (TME)**
 - **[[Tansulosina]]** (alfabloqueador) é o agente principal; alternativas: bloqueador de canal de cálcio.
-- **Indicação por tamanho:** cálculo **< 5 mm** → costuma sair sozinho (TME dispensável); **5–10 mm** → TME (eliminação em ~3 semanas); **> 10 mm** → baixa chance espontânea, tende a intervenção.
+- **Indicação por tamanho:** cálculo **< 5 mm** → costuma sair sozinho (TME dispensável); **5–10 mm** → TME (eliminação em ~3 semanas); 
+- 
+- **> 10 mm** → baixa chance espontânea, tende a intervenção.
 
 ### **3. Intervenção de urgência (litíase complicada = desobstruir já)**
 > Indicações: cálculo **obstrutivo + infecção** (urossepse), obstrução **bilateral com LRA**, ou obstrução em **rim único**.

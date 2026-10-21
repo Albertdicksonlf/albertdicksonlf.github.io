@@ -68,6 +68,6 @@ Principalmente com a Clorpromazina.
 
 ---
 ## 🎯 PIVÔ FARMACOLÓGICO
-- **Haloperidol:** [[Rei da Emergência e do Delirium. Cuidado com o pescoço duro (distonia)]].`
-- **Clorpromazina:** [[Rei da sedação ("sossega leão"). Cuidado com a pressão que cai]].`
-- **Antídoto:** [[Distonia aguda se resolve com Biperideno na hora]].`
+- **Haloperidol:** Rei da Emergência e do Delirium. Cuidado com o pescoço duro (distonia).`
+- **Clorpromazina:** Rei da sedação ("sossega leão"). Cuidado com a pressão que cai.`
+- **Antídoto:** Distonia aguda se resolve com Biperideno na hora.`

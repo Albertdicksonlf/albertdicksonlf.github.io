@@ -54,6 +54,8 @@ tipo de exame: null
 
 ## 🎯 ACHADOS-CHAVE (PIVÔS) — O ALGORITMO
 
+![[Pasted image 20261020150534.png]]x
+
 ### **PASSO 1 — Confirmar com [[Osmolaridade Plasmática]]**
 
 | Osmolaridade | Tipo | Conduta |
