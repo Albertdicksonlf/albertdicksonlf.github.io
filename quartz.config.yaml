@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: pt-BR
-  baseUrl: albertdicksonlf.github.io/quartz-medicina
+  baseUrl: albertdicksonlf.github.io
   ignorePatterns:
     - private
     - templates
