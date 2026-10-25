@@ -125,3 +125,26 @@ tipo de exame: null
 
 ### ➕ Novas Anotações / Insights
 *- A neuropatia de fibras finas pode ter uma ENMG normal, pois o exame avalia principalmente as fibras grossas. Nesses casos, o diagnóstico pode exigir uma biópsia de pele.*
+
+### 🔗 Hanseníase neural pura: a neuropatia SEM lesão de pele
+**Data:** 2026-10-25
+**Contexto:** [[Hanseniase]]
+
+**O ponto:** existe hanseníase que se apresenta **só como neuropatia**, sem nenhuma lesão cutânea. É a forma **neural pura** (neurite primária), e é a que mais escapa do diagnóstico — porque o médico procura mancha, não nervo.
+
+**Por que isso muda a conduta:**
+- Pelo PCDT 2022, **o acometimento de nervo periférico é, sozinho, critério diagnóstico de hanseníase** — espessamento, dor ou perda de função. Não é preciso haver lesão de pele nem baciloscopia positiva.
+- A [[Baciloscopia de hanseniase|baciloscopia]] nessas formas é tipicamente **negativa**, o que reforça o atraso diagnóstico.
+
+**Características que apontam hanseníase dentro de uma mononeuropatia múltipla:**
+- **[[Espessamento de Nervos Periféricos|Nervo espessado e palpável]]** — é o discriminador. Praticamente nenhuma outra neuropatia comum engrossa o tronco nervoso.
+- Padrão **assimétrico e não contíguo**, com predileção por nervos **superficiais e frios**: ulnar (o mais acometido), mediano, fibular comum, tibial posterior, grande auricular.
+- Perda sensitiva na ordem **térmica → dolorosa → tátil**.
+- Anidrose e rarefação de pelos no território acometido.
+- Instalação pode ser **crônica e silenciosa** ou **aguda em dias**, quando há [[Reações Hansênicas|reação hansênica]] — esta última é urgência de corticoide.
+
+**Relevância clínica:** em paciente brasileiro com mononeuropatia múltipla assimétrica, os dois diagnósticos de topo são **hanseníase e vasculite**. O que desempata à beira do leito, sem exame nenhum, é **palpar os troncos nervosos**.
+
+**Fonte:** Brasil, Ministério da Saúde — PCDT Hanseníase 2022 (critérios diagnósticos e Avaliação Neurológica Simplificada); OMS, *Leprosy* fact sheet, 23/01/2026 (neurite pura como critério de multibacilar) — https://www.who.int/news-room/fact-sheets/detail/leprosy
+
+---

@@ -10,7 +10,7 @@ A ideia é simples: transformar o estudo linear (aula após aula) numa **teia na
 
 > [!tip] Como navegar
 > - Use a **busca** (canto superior esquerdo) para ir direto a qualquer tema.
-> - Use o **explorer** na lateral esquerda para percorrer as áreas: Atlas Clínico (sintomas, doenças, exames, terapêutica, guias de raciocínio) e Fonte e Estudo (aulas, resumos, anotações).
+> - Use o **explorer** na lateral esquerda para percorrer o Atlas Clínico: sintomas, doenças, achados-pivô, exames, terapêutica e guias de raciocínio.
 > - Em cada nota, os **backlinks** (à direita) mostram de onde aquele tema é referenciado.
 
 ---
