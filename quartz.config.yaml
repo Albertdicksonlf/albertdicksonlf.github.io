@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: "Atlas Médico"
+  pageTitle: "Atlas Clínico"
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -15,30 +15,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Inter
+      body: Inter
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#84a59d55"
+        light: "#ffffff"
+        lightgray: "#e2e8ef"
+        gray: "#8794a3"
+        darkgray: "#334150"
+        dark: "#15212e"
+        secondary: "#1d6fa5"
+        tertiary: "#0f8b7e"
+        highlight: rgba(29, 111, 165, 0.08)
+        textHighlight: "#fff1a8"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#84a59d40"
+        light: "#16202b"
+        lightgray: "#2a3644"
+        gray: "#6d7c8c"
+        darkgray: "#cfd8e1"
+        dark: "#eef3f7"
+        secondary: "#6db3e4"
+        tertiary: "#4cc3b1"
+        highlight: rgba(109, 179, 228, 0.12)
+        textHighlight: "#b3aa0266"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -173,11 +173,8 @@ plugins:
   - source: github:quartz-community/search
     enabled: true
     layout:
-      position: left
+      position: header
       priority: 20
-      group: toolbar
-      groupOptions:
-        grow: true
   - source: github:quartz-community/backlinks
     enabled: true
     layout:
@@ -201,20 +198,18 @@ plugins:
   - source: github:quartz-community/page-title
     enabled: true
     layout:
-      position: left
+      position: header
       priority: 10
   - source: github:quartz-community/darkmode
     enabled: true
     layout:
-      position: left
+      position: header
       priority: 30
-      group: toolbar
   - source: github:quartz-community/reader-mode
     enabled: true
     layout:
-      position: left
+      position: header
       priority: 35
-      group: toolbar
   - source: github:quartz-community/breadcrumbs
     enabled: true
     layout:
@@ -268,7 +263,7 @@ plugins:
       name: quartz-themes
       repo: github:saberzero1/quartz-themes
       subdir: plugin
-    enabled: true
+    enabled: false
     options:
       theme: default
   - source: github:quartz-community/obsidian-plugin-excalidraw
@@ -290,13 +285,16 @@ layout:
         beforeBody: []
         left: []
         right: []
-    content: {}
+    content:
+      template: atlas
     folder:
+      template: atlas
       exclude:
         - reader-mode
       positions:
         right: []
     tag:
+      template: atlas
       exclude:
         - reader-mode
       positions:

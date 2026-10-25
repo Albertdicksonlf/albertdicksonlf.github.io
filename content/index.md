@@ -1,11 +1,11 @@
 ---
-title: Atlas Médico
+title: Atlas Clínico
 ---
 
 O paciente não chega dizendo o diagnóstico: chega com uma **queixa**. Este atlas é organizado do mesmo jeito. Escolha a queixa abaixo e o guia de raciocínio leva às hipóteses, aos achados que decidem entre elas, aos exames e à conduta.
 
 > [!tip] Atalhos
-> - **Busca** (canto superior esquerdo): vá direto a qualquer doença, sinal, exame ou medicamento.
+> - **Busca** (barra superior): vá direto a qualquer doença, sinal, exame ou medicamento.
 > - **Explorer** (lateral esquerda): percorra o atlas por camada: sintomas, doenças, achados-pivô, exames, terapêutica e guias.
 > - **Backlinks** (no fim de cada nota): veja de onde aquele tema é citado.
 
