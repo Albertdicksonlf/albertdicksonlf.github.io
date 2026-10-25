@@ -4,8 +4,7 @@ configuration:
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
-  analytics:
-    provider: plausible
+  analytics: null
   locale: pt-BR
   baseUrl: albertdicksonlf.github.io
   ignorePatterns:

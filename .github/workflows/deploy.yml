@@ -4,6 +4,11 @@ on:
   push:
     branches:
       - v5
+  # Todo dia às 00h30 de Natal (03h30 UTC): busca as notas novas do vault e republica.
+  schedule:
+    - cron: "30 3 * * *"
+  # Permite rodar à mão pela aba Actions ("Run workflow").
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -17,10 +22,34 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      # Só busca o vault se a chave de leitura estiver cadastrada nos Secrets do repositório.
+      HAS_VAULT_KEY: ${{ secrets.VAULT_DEPLOY_KEY != '' }}
     steps:
       - uses: actions/checkout@v6
         with:
           fetch-depth: 0
+      - name: Buscar o vault (medicina-vault)
+        if: env.HAS_VAULT_KEY == 'true'
+        uses: actions/checkout@v6
+        with:
+          repository: Albertdicksonlf/medicina-vault
+          ssh-key: ${{ secrets.VAULT_DEPLOY_KEY }}
+          path: .vault
+          fetch-depth: 1
+      - name: Copiar o Atlas Clínico atualizado para o site
+        if: env.HAS_VAULT_KEY == 'true'
+        run: |
+          shopt -s nullglob
+          src=(.vault/1\ -\ Atlas*)
+          if [ ${#src[@]} -ne 1 ]; then
+            echo "Pasta do Atlas não encontrada no vault; publicando com o conteúdo do repositório."
+            exit 0
+          fi
+          rm -rf content/1\ -\ Atlas* content/3\ -\ Fonte*
+          cp -R "${src[0]}" content/
+          rm -rf .vault
+          echo "Notas do Atlas: $(find content -name '*.md' | wc -l)"
       - uses: actions/setup-node@v6
         with:
           node-version: 24
