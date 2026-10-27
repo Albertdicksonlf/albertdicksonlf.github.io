@@ -56,6 +56,7 @@ tipo de exame: ""
 
 ## 🔗 Conexões com Guias de Raciocínio
 - [[Abordagem da Cervicalgia]]
+- [[Abordagem do Trauma Cervical]] — quando a cervicalgia tem **contexto traumático**: é esse guia que decide colar, imagem e liberação da coluna
 
 ---
 

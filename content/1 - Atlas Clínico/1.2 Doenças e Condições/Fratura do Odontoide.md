@@ -99,7 +99,7 @@ card:
 - **Heurística:** *"Idoso que caiu e está com dor cervical alta = odontoide até prova em contrário."* É a fratura cervical mais comum dessa faixa etária, e frequentemente sem déficit.
 - **Heurística 2:** *"Tipo II é a mais comum e a que menos consolida."* Tipo III consolida bem porque atinge osso esponjoso vascularizado.
 - **Erro Comum:** chamar **os odontoideum** (variante congênita) de fratura aguda — procure bordas corticalizadas e lisas; na dúvida, RM com edema define a aguda.
-- **Erro Comum 2:** não distinguir fratura de odontoide de **fratura do enforcado**. O odontoide é **elemento anterior** de C2; o Hangman acomete a **pars interarticularis** (elementos posteriores) — mecanismos, prognóstico e tratamento diferentes.
+- **Erro Comum 2:** não distinguir fratura de odontoide da [[Fratura do Enforcado (Hangman)|fratura do enforcado]]. O odontoide é **elemento anterior** de C2; o Hangman acomete a **pars interarticularis** (elementos posteriores) — mecanismos, prognóstico e tratamento diferentes.
 - **Pérola de Prova:** ~60% das fraturas de C2 envolvem o odontoide; tipo I é raro, tipo II é o mais comum, tipo III é o de melhor consolidação.
 
 ---

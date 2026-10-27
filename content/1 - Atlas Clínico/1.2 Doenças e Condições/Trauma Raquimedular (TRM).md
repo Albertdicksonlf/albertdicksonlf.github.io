@@ -66,8 +66,9 @@ tipo de exame: null
 
 ## 🔬 Investigação e Diagnóstico
 - **Liberar a coluna cervical clinicamente?**
-	- **Critérios NEXUS:** dispensa imagem se TODOS presentes — sem dor à palpação da linha média cervical posterior, sem déficit focal, alerta pleno, sem intoxicação, sem lesão distratora.
-	- **Canadian C-Spine Rule:** **idade ≥ 65 anos** (entre outros fatores de alto risco) obriga imagem; em baixo risco, libera se o paciente **roda o pescoço 45° para cada lado sem dor**.
+	- **[[Critérios NEXUS]]:** dispensa imagem se TODOS presentes — sem dor à palpação da linha média cervical posterior, sem déficit focal, alerta pleno, sem intoxicação, sem lesão distratora.
+	- **[[Canadian C-Spine Rule (CCR)|Canadian C-Spine Rule]]:** **idade ≥ 65 anos** (entre outros fatores de alto risco) obriga imagem; em baixo risco, libera se o paciente **roda o pescoço 45° para cada lado sem dor**.
+	- **Roteiro completo da decisão:** ver [[Abordagem do Trauma Cervical]].
 - **Imagem:** TC de coluna (osso, invasão do canal) e **[[Ressonância Magnética]]** de medula (tecido neural, ligamentos, compressão).
 - **SCIWORA:** suspeitar quando há déficit com imagem óssea normal.
 
@@ -77,7 +78,7 @@ tipo de exame: null
 *Objetivo central: reduzir a lesão secundária.*
 
 ### **1. ABCDE com proteção da coluna**
-- **A (via aérea com controle cervical):** **colar cervical + prancha rígida** para transporte; **limitar o tempo na prancha (~2 h)** — risco de úlcera de pressão. Transferência **em bloco**.
+- **A (via aérea com controle cervical):** **[[Colar Cervical|colar cervical]] + prancha rígida** para transporte; **limitar o tempo na prancha (~2 h)** — risco de úlcera de pressão. Transferência **em bloco**. ⚠️ No **trauma cervical penetrante isolado** o colar é contraindicado — ver [[Trauma Cervical Penetrante]].
 - **[[Intubação Orotraqueal]] precoce** em lesões **acima de C5** (acometimento do nervo frênico → diafragma).
 - **C (circulação):** combate **agressivo à hipotensão**, alvo **PAM ~85-90 mmHg** por ~7 dias (perfusão medular); no [[Choque Neurogênico]] pode exigir **vasopressor + atropina** (pela bradicardia).
 

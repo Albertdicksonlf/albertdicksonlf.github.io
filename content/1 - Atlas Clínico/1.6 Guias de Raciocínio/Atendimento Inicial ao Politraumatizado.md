@@ -100,7 +100,8 @@ Nem toda vítima precisa. A decisão combina **mecanismo + sinais vitais + lesõ
 - **Manobras manuais:** *chin-lift* e ***jaw-thrust*** — no trauma, prefere-se o **jaw-thrust**, que abre a via aérea sem estender o pescoço. Ver [[Manejo de Vias Aéreas]]
 - **[[Intubação Orotraqueal]]** se incapacidade de proteger a via aérea, Glasgow baixo, trauma de face grave ou queimadura de via aérea
 - **Restrição cervical** mantida durante todo o manejo; a **prancha rígida é dispositivo de TRANSPORTE**, não de permanência — retirar assim que possível (lesão por pressão)
-- Liberação da coluna cervical por critérios clínicos (**NEXUS** ou regra canadense)
+- Liberação da coluna cervical por critérios clínicos — [[Critérios NEXUS|NEXUS]] ou [[Canadian C-Spine Rule (CCR)|Canadian C-Spine Rule]]. O roteiro completo (colar, imagem, contuso × penetrante) está em [[Abordagem do Trauma Cervical]]
+- ⚠️ **[[Colar Cervical|Colar]] NÃO se aplica ao [[Trauma Cervical Penetrante]] isolado** (PHTLS): esconde hematoma expansível, impede compressão direta e atrapalha a via aérea
 
 > [!warning] Correção sobre o material de origem
 > O free recall pergunta *"o que vem primeiro: via aérea ou imobilização cervical?"* e responde "imobilização cervical". A formulação é enganosa. No ATLS, é **"via aérea COM restrição do movimento cervical"** — são **simultâneas**. A estabilização manual em linha é feita *enquanto* se maneja a via aérea. **Nunca se atrasa a via aérea para colocar colar**: o paciente morre de hipóxia, não de colar ausente.

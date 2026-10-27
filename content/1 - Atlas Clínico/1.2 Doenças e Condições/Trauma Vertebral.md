@@ -76,3 +76,18 @@ tipo de exame: null
 ### ➕ Novas Anotações / Insights
 *- Nota criada a partir da anotação Osler "Trauma Raquimedular e Vertebral".*
 -
+
+### 🔗 Denis é TORACOLOMBAR e de TRÊS colunas — não serve para a cervical
+**Data:** 2026-10-25
+**Contexto:** [[Abordagem do Trauma Cervical]]
+
+**Características específicas:**
+- A **classificação morfológica desta nota é toracolombar** — e é esse o território de Denis. O artigo original de 1983 é literalmente *"The three column spine and its significance in the classification of acute thoracolumbar spinal injuries"*: **três colunas (anterior, média e posterior)**, derivadas para a transição toracolombar.
+- O que se ensina para a **TC cervical** como "coluna anterior × coluna posterior" é outro modelo: o de **DUAS colunas, de Holdsworth** — anterior (corpo, disco, ligamento longitudinal anterior e posterior) × posterior (complexo ligamentar posterior, facetas, elementos ósseos posteriores).
+- Esse modelo de duas colunas é a **base conceitual do SLIC** (*Subaxial Injury Classification*), que pontua morfologia + integridade do complexo discoligamentar + estado neurológico.
+- A **WFNS 2020** recomenda o **SLIC como padrão de decisão na cervical subaxial** e **não recomenda** a classificação de **Allen-Ferguson**, por reprodutibilidade baixa (ICC 0,53).
+
+**Relevância clínica:** aplicar "Denis" na cervical é erro de território e de número de colunas. Na toracolombar, pensar em **três** colunas (e hoje, na prática, na AOSpine/TLICS); na **cervical subaxial**, pensar em **duas** colunas e decidir pelo **SLIC**. Nas cervicais **altas** (C1–C2), nenhum dos dois se aplica — valem as classificações próprias de [[Fratura de Jefferson]], [[Fratura do Odontoide]] e [[Fratura do Enforcado (Hangman)]].
+**Fonte:** Denis F. Spine. 1983;8(8):817-31. PMID 6670016 · Sharif S et al. Surgical techniques for subaxial cervical spine injuries: WFNS Spine Committee recommendations. Neurospine. 2020;17(4):737-58 — https://www.e-neurospine.org/journal/view.php?number=1103
+
+---
