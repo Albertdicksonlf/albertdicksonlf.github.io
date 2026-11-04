@@ -84,7 +84,7 @@ A porta de entrada é o [[Atendimento Inicial ao Politraumatizado|xABCDE]]. No p
 
 ## 🔎 3. Algoritmo de Investigação
 
-### **Via CONTUSA — liberação da coluna cervical**
+### **Via CONTUSA — liberação da coluna cervical** - PENETRANTE NAO ENTRA NO NEXUS 
 1. **Passo 1 — o paciente é elegível para regra clínica?** [[Critérios NEXUS|NEXUS]] e [[Canadian C-Spine Rule (CCR)|CCR]] **não se aplicam** a: idade > 65 ou < 10 anos (critério de exclusão do CCR; o NEXUS foi validado em todas as idades mas tem desempenho pior em extremos), **trauma penetrante**, e golpe direto no pescoço. Fora disso: GCS 15, estável, alerta.
 2. **Passo 2 — aplicar a regra.** Se qualquer critério falha → **imagem**.
 3. **Passo 3 — imagem:** [[Tomografia computadorizada do pescoço|TC de coluna cervical]] (não radiografia — a TC é francamente superior em sensibilidade).

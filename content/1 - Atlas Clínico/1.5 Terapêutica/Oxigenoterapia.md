@@ -122,3 +122,30 @@ card: null
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
 -
+
+### 🔗 Baixo fluxo × alto fluxo: a taxonomia que explica a FiO₂ (e a fórmula do cateter)
+**Data:** 2026-11-01
+**Contexto:** [[Insuficiência Respiratória]] — processamento de `Insuficiência Respiratória Aguda - Aula` (28/10/2026)
+
+**1. O que define "alto fluxo" não é o número no fluxômetro.** Um sistema é de **alto fluxo** quando entrega um fluxo total **maior que a demanda inspiratória de pico do paciente** (que no adulto dispneico passa facilmente de 30–40 L/min). A consequência é toda a diferença:
+
+| Classe | Dispositivos | O que acontece com a FiO₂ |
+|---|---|---|
+| **Baixo fluxo** | cateter nasal, máscara simples, máscara não reinalante | o paciente **arrasta ar ambiente** pelas frestas para completar o volume que falta → a FiO₂ real **varia** com o padrão ventilatório. Quanto mais taquipneico, mais ar ambiente, **menor** a FiO₂ entregue |
+| **Alto fluxo com FiO₂ fixa** | **máscara de Venturi** | o fluxo total excede a demanda → nada de ar ambiente é arrastado → **FiO₂ fixa e previsível**, independente do padrão ventilatório — ainda que o teto seja 60% |
+| **Alto fluxo aquecido e umidificado** | [[Cateter Nasal de Alto Fluxo (CNAF)\|CNAF]] | além da FiO₂ estável, lava espaço morto, reduz trabalho respiratório e gera leve pressão positiva |
+
+> [!warning] A confusão de nomenclatura que atrapalha na prática
+> "Alto fluxo" na aula clássica de oxigenoterapia significa **máscara de Venturi** — um sistema de FiO₂ fixa com teto de 60%. "Alto fluxo" no contexto de diretriz moderna de insuficiência respiratória significa **CNAF**, que é outra coisa e faz outras coisas. São dois conceitos diferentes com o mesmo rótulo. O que une os dois é a FiO₂ previsível; o que os separa é que só o CNAF reduz trabalho respiratório.
+
+**2. A regra de bolso do cateter nasal tem respaldo formal.** A estimativa da aula — **FiO₂ ≈ 21% + 3 × fluxo (L/min)**, válida de 1 a 6 L/min — é exatamente a fórmula de FiO₂ estimada adotada pela **Nova Definição Global de SDRA (2024)** para dispositivos de baixo fluxo: FiO₂ = 0,21 + 0,03 × fluxo. Deixou de ser folclore de enfermaria e passou a ser critério publicado.
+- **Por que o teto é 6 L/min:** acima disso o fluxo resseca a mucosa nasal e a FiO₂ **deixa de subir proporcionalmente** — o nasofaringe já está preenchido e o excedente vaza. Precisar de mais que 6 L/min é indicação para **trocar de dispositivo**, não para abrir o fluxômetro.
+
+**3. Mecanismo da máscara de Venturi:** o jato de O₂ passa por um orifício estreito e ganha velocidade; a queda de pressão lateral arrasta ar ambiente por janelas laterais em **proporção fixa** definida pelo adaptador (cada cor = uma razão O₂:ar). Como a razão é mecânica e o fluxo total excede a demanda, a FiO₂ é **fixa** — e é por isso que a Venturi é o dispositivo de escolha no retentor de CO₂, em que é indispensável **saber** a FiO₂ que se está dando.
+
+**4. Máscara não reinalante (Hudson) — o que as válvulas fazem e o que não fazem:** o reservatório é preenchido continuamente com O₂ puro e as **válvulas unidirecionais** impedem que o ar exalado retorne a ele. Isso eleva a FiO₂, mas o dispositivo **não gera pressão positiva** e, portanto, **não reduz o trabalho respiratório**. Paciente em máscara com reservatório que continua em esforço não precisa de mais oxigênio — precisa de [[Cateter Nasal de Alto Fluxo (CNAF)|CNAF]], [[Ventilação Não Invasiva (VNI)|VNI]] ou tubo.
+
+**Relevância clínica:** a tabela principal desta nota já traz os números; este bloco dá o **critério** por trás deles — por que a FiO₂ de um dispositivo é confiável e a de outro não, e por que "aumentar o fluxo" para de funcionar em determinado ponto de cada dispositivo.
+**Fonte:** Matthay MA et al. Am J Respir Crit Care Med. 2024;209(1):37-47. PMID 37487152 (fórmula FiO₂ = 0,21 + 0,03 × fluxo) · O'Driscoll BR et al. BMJ Open Respir Res. 2017;4(1):e000170 (BTS 2017 — faixas de Venturi) · efeito Venturi, arraste de ar ambiente em sistemas de baixo fluxo e função das válvulas unidirecionais: conhecimento consolidado de fisiologia e de engenharia de dispositivos, sem diretriz que os normatize.
+
+---

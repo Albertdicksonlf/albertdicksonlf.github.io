@@ -35,7 +35,7 @@ card:
 
 | Tipo | Gás alterado | Falha em | Causas típicas |
 |---|---|---|---|
-| **1 — Hipoxêmica** | PaO₂ ↓, PaCO₂ normal ou ↓ | Troca gasosa (parênquima) | [[Pneumonia]], [[Edema Agudo de Pulmão]], SDRA, [[Contusão Pulmonar]], [[Tromboembolismo Pulmonar (TEP)\|TEP]], [[COVID-19]] |
+| **1 — Hipoxêmica** | PaO₂ ↓, PaCO₂ normal ou ↓ | Troca gasosa (parênquima) | [[Pneumonia]], [[Edema Agudo de Pulmão]], [[Síndrome do Desconforto Respiratório Agudo (SDRA)\|SDRA]], [[Contusão Pulmonar]], [[Tromboembolismo Pulmonar (TEP)\|TEP]], [[COVID-19]] |
 | **2 — Hipercápnica** | PaCO₂ ↑ com pH ≤ 7,35 | Bomba ventilatória (drive, nervo, músculo, caixa, via aérea) | [[Exacerbação de DPOC\|exacerbação de DPOC]], asma quase-fatal, [[Miastenia Gravis]], [[Síndrome de Guillain-Barré]], [[Botulismo]], intoxicação por opioides ou [[Lorazepam\|benzodiazepínicos]], [[Fratura de Costelas e Tórax Instável\|tórax instável]], obesidade-hipoventilação |
 | **3 — Perioperatória** | PaO₂ ↓ | Atelectasia pós-operatória | cirurgia abdominal alta e torácica, dor, decúbito, curarização residual |
 | **4 — Do choque** | PaO₂ ↓ / lactato ↑ | Oferta × demanda da musculatura respiratória | qualquer choque; o diafragma consome até 40% do débito |
@@ -219,5 +219,36 @@ card:
 
 **Relevância clínica:** a nota define a síndrome; este bloco dá os números de beira de leito para as três decisões do PS — é agudo? intubo? quanto oxigênio?
 **Fonte:** Maia IS et al. JAMA. 2025;333(10):875-890. PMID 39657981 · Siemieniuk RAC et al. BMJ. 2018;363:k4169. PMID 30355567 · Chu DK et al. Lancet. 2018;391(10131):1693-1705. PMID 29726345 · Byrne AL et al. Respirology. 2014;19(2):168-175. PMID 24383789 · regra do bicarbonato: conhecimento consolidado de fisiologia ácido-básica.
+
+---
+
+### 🔗 Parâmetros de troca gasosa: qual número serve para quê (e três correções)
+**Data:** 2026-11-01
+**Contexto:** [[Oxigenoterapia]] — processamento de `Insuficiência Respiratória Aguda - Aula` (28/10/2026)
+
+**1. Hierarquia dos parâmetros — a aula se contradiz e vale desfazer o nó.**
+
+| Parâmetro | O que mede | Para que serve |
+|---|---|---|
+| **PaO₂** | O₂ dissolvido no plasma | **Define** hipoxemia (< 60 mmHg). Isolada, não gradua gravidade se a FiO₂ mudou |
+| **SpO₂** | % de hemoglobina saturada | Triagem e titulação contínua. Não vê CO₂ e satura na parte plana da curva |
+| **PaO₂/FiO₂** | PaO₂ corrigida pela oferta | **É o parâmetro de monitorização** da oxigenação ao longo do tempo |
+
+A consequência prática: **subir a FiO₂ melhora a PaO₂ e piora a relação PaO₂/FiO₂**. É exatamente assim que se percebe que o pulmão está piorando enquanto o oxímetro aparenta melhorar. Corte de referência: PaO₂/FiO₂ ≤ 300 define [[Síndrome do Desconforto Respiratório Agudo (SDRA)|SDRA]].
+
+**2. Correção — a fórmula abreviada do gradiente A-a usada na aula, `(140 − PaCO₂) − PaO₂`, falha justamente no paciente que mais importa.**
+A equação do gás alveolar é PAO₂ = FiO₂ × (P_atm − P_H₂O) − PaCO₂/R, que em ar ambiente ao nível do mar dá **PAO₂ ≈ 150 − 1,25 × PaCO₂**. A versão abreviada omite o fator 1,25:
+- Com PaCO₂ 40: abreviada = 100; correta ≈ 100. Coincidem — e é por isso que o atalho parece funcionar.
+- Com PaCO₂ 80: abreviada = 60; correta ≈ 50. O atalho **superestima o gradiente em ~10 mmHg**.
+- **Por que isso é perigoso:** o gradiente **normal** com hipoxemia + hipercapnia é a assinatura da **hipoventilação pura** (opioide, doença neuromuscular). Um atalho que alarga artificialmente o gradiente no hipercápnico empurra o raciocínio para "pulmão doente" quando o problema é o fole. Detalhe em [[Gradiente Alvéolo-Arterial (A-a)]].
+
+**3. Correção — o corte da forma hipercápnica é PaCO₂ > 45 mmHg com pH ≤ 7,35.** A aula abre com "PaCO₂ > 50 e acidose" e depois usa "> 45" na classificação. O valor operacional, que é o mesmo usado como limiar de indicação de [[Ventilação Não Invasiva (VNI)|VNI]] na DPOC, é **> 45 com pH ≤ 7,35** (ERS/ATS 2017, já citado acima).
+
+**4. Correção — oxigênio não é indicação de rotina em IAM, trauma ou recuperação anestésica na ausência de hipoxemia.** A aula lista essas três como "indicações especiais". Para a [[Síndrome Coronariana Aguda|síndrome coronariana aguda]] sem hipoxemia o O₂ suplementar **não tem benefício** e integra o grupo em que a estratégia liberal mostrou sinal de dano. A regra que substitui a lista é uma só: **oxigênio se há hipoxemia, no alvo da doença de base** — ver [[Oxigenoterapia]]. As exceções em que o alvo é alto de propósito são outras (monóxido de carbono, cefaleia em salvas, pneumotórax, pré-oxigenação).
+
+**5. Taquipneia > 24 irpm é o corte operacional de alerta** (normal 12–20). Vale menos como número e mais como gatilho: frequência acima disso em paciente dispneico obriga a reavaliar em 30–60 min, porque é a **trajetória** que informa, não o valor pontual.
+
+**Relevância clínica:** a nota já tinha os alvos e o escalonamento; este bloco arruma a leitura dos números — qual parâmetro responde a qual pergunta — e desarma três erros que a anotação-fonte carregava.
+**Fonte:** Siemieniuk RAC et al. BMJ. 2018;363:k4169. PMID 30355567 · Chu DK et al. Lancet. 2018;391(10131):1693-1705. PMID 29726345 · Rochwerg B et al. Eur Respir J. 2017;50(2):1602426 (ERS/ATS 2017) · equação do gás alveolar e faixa de normalidade do gradiente A-a: conhecimento consolidado de fisiologia respiratória, sem diretriz aberta que as normatize.
 
 ---
