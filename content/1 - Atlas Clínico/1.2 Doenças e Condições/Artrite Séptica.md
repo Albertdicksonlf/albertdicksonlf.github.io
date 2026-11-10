@@ -261,3 +261,47 @@ card:
 **Fonte:** Margaretten ME et al. JAMA. 2007;297(13):1478–1488. PMID 17405973 · Tverring J et al. Septic arthritis score (SAS). BMC Infect Dis. 2025;25(1):926. PMID 40681984 — https://doi.org/10.1186/s12879-025-11306-6 · Coiffier G et al. RESAS. Rheumatology (Oxford). 2021;60(5):2238–2245. PMID 33197255 — https://doi.org/10.1093/rheumatology/keaa567 · Sacco I et al. A new biochemical score from synovial fluid for diagnosing septic arthritis. Joint Bone Spine. 2026;93(2):105980. PMID 41016583 — https://doi.org/10.1016/j.jbspin.2025.105980 *(confirmados via PubMed)*
 
 ---
+
+### 🔗 Na CRIANÇA: o escore é outro, o germe é outro, a duração é outra
+**Data:** 2026-11-08
+**Contexto:** aula "Infecções Osteoarticulares" (3.1 Notas de Aulas)
+
+Tudo o que esta nota traz de pivô — os LR de Margaretten, os escores SAS/RESAS, o empírico guiado por Gram da SANJO 2023 — foi derivado em **adulto**. Na criança, três coisas mudam de lugar.
+
+#### **1. O escore: [[Critérios de Kocher]]**
+- Quatro variáveis (história de febre · não descarga de peso · VHS ≥ 40 · leucócitos > 12.000) que separam artrite séptica de **sinovite transitória** no **quadril irritável da criança**. Probabilidade predita: **< 0,2% / 3% / 40% / 93,1% / 99,6%** para 0 a 4 critérios (Kocher 1999); a validação prospectiva manteve os mesmos preditores com **AUC 0,86** (Kocher 2004).
+- **Por que o quadril tem escore próprio e o joelho não:** o quadril é profundo, sem sinais locais visíveis, e a radiografia **frequentemente perde o derrame** (ESPID 2017). Sem semiologia local, só restam os dados sistêmicos.
+- Como aplicar e os sete pitfalls: ver [[Critérios de Kocher]]. **O escore não dispensa a punção** — a EFORT 2017 afirma que nenhum exame isolado, **incluindo a aspiração**, é confiável o bastante, e que algoritmos devem complementar e não substituir o julgamento clínico.
+
+#### **2. O germe: *Kingella kingae* entra, e ela quebra o empírico do adulto**
+- Entre **3 meses e 5 anos**, *K. kingae* é causa comum (em séries com PCR, segunda ou até primeira depois do *S. aureus*) e é **resistente a clindamicina, vancomicina, linezolida e daptomicina**, sendo sensível a betalactâmicos (ESPID 2017).
+- Consequência prática: **clindamicina como monoterapia abaixo dos 5 anos é escolha perigosa**. A ESPID só a oferece nessa faixa "onde *K. kingae* não é preocupação".
+- Empírico por idade (tabela completa no bloco pediátrico de [[Osteomielite]]): **< 3 meses** [[Cefazolina]]/[[Oxacilina]] + gentamicina; **3 meses–5 anos** [[Cefazolina]] ou [[Cefuroxima]]; **≥ 5 anos** oxacilina, cefazolina ou [[Clindamicina]] em meio de alto MRSA.
+- **Abaixo de 3 anos, artrite séptica é mais frequente que osteomielite** (Iliadis & Ramachandran 2017) — o inverso do que a intuição sugere.
+- O agente mais comum em todas as idades continua sendo o [[Staphylococcus aureus]].
+
+#### **3. A drenagem: o quadril do lactente é artrotomia**
+- **Prazo da ESPID 2017:** a drenagem deve ocorrer **idealmente em 5–7 dias do início dos sintomas**. A [[Análise do Líquido Sinovial|artrocentese]] isolada **pode bastar** em muitos casos não complicados; **artrotomia é sempre indicada na artrite séptica complexa**.
+- **Artrotomia preferida** quando: **quadril ou ombro em lactente**, duração longa de sintomas, infecção por **MRSA ou PVL-positiva**. Considerar cirurgia se as punções repetidas passarem de **2–3 procedimentos**.
+- A EFORT 2017 é mais direta: no lactente com artrite séptica de quadril, **artrotomia em vez de aspiração**.
+- **Quadril é o sítio de maior risco de sequela** — necrose avascular ([[Osteonecrose]]) e dano de cartilagem (ESPID 2017).
+- Ver [[Artrotomia]] e [[Artroscopia]].
+
+#### **4. Duração: menor que no adulto**
+- **ESPID 2017 (recomendação forte):** mínimo de **2–3 semanas** no total para artrite séptica — alguns estudos sugerem que **10 dias** bastam em caso não complicado. Compare com as 3–4 semanas dos cards de adulto registradas acima nesta nota.
+- Mais longo em **MRSA ou PVL-positivo**, recém-nascido e lactente pequeno, resposta lenta, complicação, e envolvimento pélvico ou espinhal.
+- **Gatilho de troca para via oral:** PCR caindo para **30–50% do pico**, com melhora clínica (ESPID 2017). A PCR normaliza em 3–8 dias; a VHS leva 2–3 semanas e não serve para seguir.
+
+#### **5. Imagem — o que a aula acertou e o que faltou**
+- **"USG pode ser útil" está certo, e vale precisar o papel:** a ultrassonografia é **muito sensível para derrame articular**, porém **pouco específica** — não distingue pus de líquido não purulento. Serve também para **abscesso subperiosteal ou de partes moles** e para **guiar a punção** (ESPID 2017). Ver [[Ultrassonografia Articular]].
+- **A radiografia frequentemente perde o derrame de quadril** — normal não tranquiliza.
+- **[[Ressonância Magnética|RM]]:** em geral **não é necessária na artrite séptica isolada**, mas é valiosa quando se suspeita de **osteomielite associada (OM-AS)** — e isso é comum: em série citada pela ESPID 2017, **35% das osteomielites agudas** tinham artrite séptica contígua. Em sítio de **metáfise intracapsular** (quadril e ombro em todas as fontes) e **abaixo de 18 meses** (vasos transfisários), suspeitar sempre.
+- **No lactente o laboratório falha:** recém-nascidos e lactentes **raramente fazem leucocitose** e podem ter sinais mínimos (Iliadis & Ramachandran 2017) — os cortes de celularidade e os escores não foram validados aí.
+
+> [!warning] ⚠️ Nota sobre o material-fonte
+> **"Drenagem imediata (cartilagem acaba em horas)"** → a urgência é real e a condrólise começa precocemente, mas **"horas" é retórica, não corte operacional**. O número que as diretrizes fixam é **drenagem em 5–7 dias do início dos sintomas** (ESPID 2017), com antibiótico imediato e cirurgia sem espera quando há **sepse**. O que de fato não admite espera é a **punção diagnóstica**, e essa é a regra que abre esta nota.
+
+**Relevância clínica:** criança que **não apoia o peso** e tem febre é artrite séptica de quadril até a punção provar o contrário — e nessa criança o antibiótico do adulto (clindamicina, vancomicina) pode não cobrir o germe mais provável da faixa.
+**Fonte:** ESPID 2017 — Saavedra-Lozano J et al. Pediatr Infect Dis J. 2017;36(8):788-799. PMID 28708801 — https://doi.org/10.1097/INF.0000000000001635 · Kocher MS, Zurakowski D, Kasser JR. J Bone Joint Surg Am. 1999;81(12):1662-70. PMID 10608376 — https://doi.org/10.2106/00004623-199912000-00002 · Kocher MS et al. J Bone Joint Surg Am. 2004;86(8):1629-35. PMID 15292409 — https://doi.org/10.2106/00004623-200408000-00005 · Iliadis AD, Ramachandran M. EFORT Open Rev. 2017;2(1):7-12. PMID 28607765 — https://doi.org/10.1302/2058-5241.2.160027 *(citações confirmadas no PubMed)*
+
+---

@@ -47,14 +47,14 @@ card:
 - *Pista:* FAN positivo, capilaroscopia em padrão SD, dedos inchados, úlceras de polpa, refluxo, dispneia, artrite, rash.
 
 ### **Grupo C: Sangue e hiperviscosidade**
-- Crioglobulinemia (púrpura, artralgia, C4 baixo, hepatite C)
+- [[Crioglobulinemia]] (púrpura, artralgia, C4 baixo, hepatite C)
 - Doença das crioaglutininas — ver [[Anemia Hemolítica Autoimune]]
 - Paraproteinemias, policitemia, trombocitose
 - *Pista:* púrpura, hemólise, gamopatia, hemograma alterado.
 
 ### **Grupo D: Vascular, ocupacional e mecânico**
 - [[Síndrome do Desfiladeiro Torácico]]
-- Aterosclerose de membro superior e tromboangeíte obliterante (tabagista jovem)
+- Aterosclerose de membro superior e [[Tromboangeíte Obliterante (TAO)|tromboangeíte obliterante]] (tabagista jovem)
 - Síndrome da vibração mão-braço (ferramentas vibratórias) e síndrome do martelo hipotenar
 - Lesão por frio
 - *Pista:* assimetria, pulso fraco, exposição ocupacional.
@@ -84,8 +84,8 @@ card:
 - Polegar acometido, assimetria, cicatriz ou úlcera de polpa = **secundário**
 - [[Esclerodactilia|Puffy fingers]] + FAN positivo = [[Esclerodermia|ES muito precoce]] até prova em contrário
 - Raynaud + anti-U1-RNP em título alto + mãos inchadas = [[Doença Mista do Tecido Conjuntivo (DMTC)|DMTC]]
-- [[Pulsos Assimétricos]] ou [[Diferença de PA entre os Braços]] = causa macrovascular ([[Síndrome do Desfiladeiro Torácico]], aterosclerose)
-- [[Púrpura Palpável]] + C4 baixo + FR positivo = crioglobulinemia
+- [[Pulsos Assimétricos]] ou [[Diferença de PA entre os Braços]] = causa macrovascular ([[Síndrome do Desfiladeiro Torácico]], aterosclerose, [[Arterite de Takayasu|Takayasu]])
+- [[Púrpura Palpável]] + C4 baixo + FR positivo = [[Crioglobulinemia]]
 
 ---
 

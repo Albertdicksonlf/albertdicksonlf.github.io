@@ -38,7 +38,7 @@ tipo de exame: null
 - [[Lactato]] sérico
 - SvcO₂ (saturação venosa central de O₂)
 - Base Excess (BE)
-- Delta CO₂ (diferença veno-arterial de CO₂)
+- [[Gap Venoarterial de CO2|Delta CO₂]] (diferença veno-arterial de CO₂)
 
 ---
 
@@ -99,7 +99,7 @@ Coleta simultânea de gasometria arterial e venosa central.
 |---|---|---|
 | < 2 mmol/L | Normal | — |
 | 2–4 mmol/L | Elevado | Hipoperfusão ou estresse metabólico |
-| > 4 mmol/L | Crítico | Define [[Choque Séptico]] (Sepsis-3) |
+| > 4 mmol/L | Crítico | Hipoperfusão grave; era o gatilho dos 30 mL/kg no bundle de 2018 — o corte do [[Choque Séptico]] no Sepsis-3 é **> 2 mmol/L** (com vasopressor apesar de volume) |
 | Clearance < 10% em 2h | Falha de ressuscitação | Reavaliar estratégia |
 
 Ver nota completa: [[Lactato]]
@@ -150,3 +150,18 @@ Ver nota completa: [[Lactato]]
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
 -
+
+### 🔗 Sepse — o que a SSC 2026 diz sobre monitorização
+**Data:** 2026-11-09
+**Contexto:** [[Choque Séptico]] · [[Sepse]]
+
+**Características específicas:**
+- **Medidas dinâmicas** (resposta da [[Elevação Passiva das Pernas]] ou de um bolus medida por volume sistólico, VVS, pressão de pulso ou VPP) são preferidas ao exame físico ou a medidas estáticas isoladas para guiar volume.
+- **Lactato seriado** guia a ressuscitação, mas sem perseguir a normalização com mais fluido; **[[Tempo de Enchimento Capilar (TEC) > 3s|TEC]]** entra como adjunto (ANDROMEDA-SHOCK-2: ressuscitação personalizada pelo TEC reduziu tempo de suporte vital).
+- **Correção na tabela de lactato acima:** o corte do choque séptico é > 2 mmol/L, não > 4.
+- **Nuance do Delta CO₂:** no estudo de Ospina-Tascón (2013), o gap persistentemente alto previu pior desfecho mesmo com SvcO₂ ≥ 70%, mas concordou mal com o débito cardíaco medido (r² = 0,025) — ele sinaliza fluxo inadequado ao metabolismo, não mede o débito. Detalhes em [[Gap Venoarterial de CO2]].
+
+**Relevância clínica:** a pérola "SvcO₂ normal + Delta CO₂ alto" continua válida como alerta de hipoperfusão oculta; o passo seguinte é distinguir falta de pré-carga de disfunção de bomba antes do inotrópico.
+**Fonte:** SSC 2026 (Prescott HC, et al. Crit Care Med. 2026. PMID 41869847) — https://sccm.org/survivingsepsiscampaign/guidelines-and-resources/surviving-sepsis-campaign-adult-guidelines · Ospina-Tascón GA, et al. Crit Care. 2013;17(6):R294. PMID 24330804
+
+---

@@ -79,3 +79,22 @@ card:
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
 -
+
+### 🔗 O eixo NÃO-TRAUMÁTICO: a criança que não apoia o peso
+**Data:** 2026-11-08
+**Contexto:** aula "Infecções Osteoarticulares" (3.1 Notas de Aulas)
+
+A nota nasceu inteira no **trauma** — as três vias (mecânica, antálgica, neurológica), as *Ottawa Ankle Rules*, a dissociação ativo/passivo. Falta o cenário em que a mesma queixa chega **sem nenhum trauma**: a criança que **recusa deambular, não apoia o peso ou é carregada**, com febre.
+
+**Características específicas:**
+- **Nessa criança, "não descarga de peso" deixa de ser semiologia e vira variável de escore.** É um dos quatro [[Critérios de Kocher]], ao lado de história de febre, VHS ≥ 40 mm/h e leucócitos > 12.000 — a regra que separa [[Artrite Séptica|artrite séptica]] de sinovite transitória no quadril irritável.
+- **A impotência funcional é antálgica, e a dor é articular ou metafisária.** Mobilização **passiva** limitada e dolorosa aponta para a articulação; dor óssea localizada à palpação, para [[Osteomielite|osteomielite]]. Os dois coexistem: **35% das osteomielites agudas** da criança têm artrite séptica contígua (ESPID 2017).
+- **O exame físico do quadril engana por anatomia.** O quadril é profundo: não há edema, eritema nem flutuação para ver, e a radiografia **frequentemente perde o derrame** (ESPID 2017). Daí a [[Ultrassonografia Articular|ultrassonografia]] à beira do leito e o escore.
+- **No lactente, a queixa é ainda mais pobre:** recém-nascidos e lactentes **raramente fazem leucocitose** e podem ter sinais mínimos (Iliadis & Ramachandran 2017) — a pseudoparalisia do membro pode ser o único achado.
+- **A outra ponta do diferencial é oncológica e hematológica:** [[Leucemias Agudas|leucemia aguda]] (dor óssea na criança + citopenias) e [[Sarcoma de Ewing|Ewing]], que imita osteomielite com dor, febre e marcadores altos. Roteiro em [[Abordagem da Lesão Óssea Focal]].
+- **Texto puro (sem nota no vault):** sinovite transitória do quadril, Legg-Calvé-Perthes, epifisiólise femoral proximal e artrite idiopática juvenil — eixos da anotação "Ortopedia Infantil", ainda não processada.
+
+**Relevância clínica:** no adulto, a pergunta que a impotência funcional abre é *"fraturou?"*. **Na criança sem trauma, é *"infectou?"*** — e o desenlace de errar é um quadril destruído, não uma consolidação viciosa. A conduta não espera: punção articular antes do antibiótico.
+**Fonte:** ESPID 2017 — Saavedra-Lozano J et al. Pediatr Infect Dis J. 2017;36(8):788-799. PMID 28708801 — https://doi.org/10.1097/INF.0000000000001635 · Kocher MS, Zurakowski D, Kasser JR. J Bone Joint Surg Am. 1999;81(12):1662-70. PMID 10608376 — https://doi.org/10.2106/00004623-199912000-00002 · Iliadis AD, Ramachandran M. EFORT Open Rev. 2017;2(1):7-12. PMID 28607765 — https://doi.org/10.1302/2058-5241.2.160027 *(citações confirmadas no PubMed)*
+
+---

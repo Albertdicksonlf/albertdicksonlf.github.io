@@ -187,3 +187,87 @@ tipo de exame: null
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
 -
+
+### 🔗 O eixo PEDIÁTRICO: osteomielite hematogênica aguda (OHA)
+**Data:** 2026-11-08
+**Contexto:** aula "Infecções Osteoarticulares" (3.1 Notas de Aulas)
+
+A nota nasceu organizada pelo **adulto e pelo [[Pé Diabético|pé diabético]]** — via de contiguidade, curso insidioso, [[Probe-to-Bone (Teste de Sondagem Óssea)|probe-to-bone]], VHS > 70. Faltava o cenário que domina a pediatria e que tem **diretriz própria**: a OHA da criança, hematogênica, metafisária e aguda.
+
+#### **Por que a metáfise (o mecanismo, com precisão)**
+- As **arteríolas da metáfise terminam numa alça fechada** antes de desaguar num **seio venoso largo**. O fluxo resultante é **lento**, e há **relativamente poucos fagócitos** nos vasos metafisários — ambiente ideal para proliferação bacteriana (De Boeck 2005).
+- A porta de entrada é a **bacteremia**; o que define o sítio é essa hemodinâmica local. Ossos mais acometidos: fêmur, tíbia e úmero.
+- Daí a sequência clássica já descrita na Fisiopatologia desta nota: pressão intramedular sobe → pus perfura a cortical → **descola o periósteo** → o osso descolado morre (**sequestro**) e o periósteo viável forma osso novo em volta (**involucro**).
+
+#### **A fise como barreira — e as duas exceções**
+- **Abaixo de 18 meses**, pequenos vasos **atravessam a fise** (vasos transfisários), e o abscesso metafisário alcança a epífise e a articulação direto. Depois dessa idade, **a fise passa a funcionar como barreira** aos vasos terminais da metáfise (De Boeck 2005; Iliadis & Ramachandran 2017).
+- **Metáfise intracapsular:** em alguns sítios a metáfise fica **dentro da cápsula articular**, e o abscesso abre para dentro da articulação sem precisar atravessar a fise.
+
+> [!warning] ⚠️ Refinamento ao material-fonte: "Ombro, Joelho e Quadril"
+> A aula aponta **ombro, joelho e quadril** como os sítios em que a osteomielite vem com [[Artrite Séptica|artrite séptica]] associada. A ideia está certa, mas **as fontes divergem na lista**:
+> - **Quadril (fêmur proximal) e ombro (úmero proximal)** aparecem em **todas** as fontes — e são os dois sítios que a ESPID 2017 nomeia explicitamente para OM-AS.
+> - **Joelho (tíbia proximal)** consta da lista da EFORT 2017, junto com **fíbula distal**.
+> - **De Boeck 2005** lista fêmur proximal, úmero proximal, **rádio proximal (cotovelo)** e **tíbia distal lateral (tornozelo)** — **sem o joelho**.
+> **Como guardar:** quadril e ombro são certos; os demais variam conforme a fonte. E, abaixo de 18 meses, o mecanismo dominante não é a cápsula, são os **vasos transfisários** — por isso o lactente faz OM-AS em qualquer sítio.
+
+- **Frequência:** em série citada pela ESPID 2017, **35% das crianças com osteomielite aguda tinham artrite séptica contígua**. A ESPID indica [[Ressonância Magnética|RM]] sempre que se suspeita de OM-AS.
+- **Quadril** é o sítio de maior risco de sequela — necrose avascular ([[Osteonecrose]]) e dano de cartilagem (ESPID 2017).
+
+#### **Imagem — onde a aula errou**
+| Exame | O que as diretrizes dizem |
+|---|---|
+| **[[Radiografia Simples\|Radiografia]]** | **Recomendação forte** da PIDS/IDSA 2021 (II.1): fazer sempre. **Não é pela sensibilidade** — é como linha de base e para **afastar outros diagnósticos**. Alterações osteolíticas e elevação periosteal aparecem **10–21 dias** após o início (ESPID 2017); De Boeck fala em **7–14 dias**, com mosqueado da densidade óssea como primeiro sinal |
+| **[[Ressonância Magnética\|RM]]** | **O exame de imagem da OHA.** PIDS/IDSA 2021 (II.2) sugere **RM em vez de cintilografia, TC ou ultrassom** quando é preciso mais imagem. Mostra alteração em **3–5 dias** do início (ESPID 2017), define extensão, guia o desbridamento e avalia alternativas como neoplasia |
+| **[[Tomografia Computadorizada\|TC]]** | **Preterida.** Menos sensível para alteração óssea precoce e com mais radiação (ESPID 2017) |
+| **[[Ultrassonografia Articular\|Ultrassonografia]]** | Útil para **derrame articular**, suspeita de extensão para a articulação e **abscesso subperiosteal ou de partes moles**; guia a punção |
+| **[[Cintilografia Óssea com Leucócitos Marcados\|Cintilografia]]** | Fica atrás da RM nesta indicação |
+
+> [!danger] ⚠️ Correção ao material-fonte
+> 1. **"Radiografia — não essencial para diagnóstico → 21 dias para aparecer alterações. Tomografia também"** → A primeira metade está certa quanto ao **diagnóstico**, mas a radiografia **é recomendada de forma forte** como primeiro passo (PIDS/IDSA 2021, II.1) — e o prazo é **10–21 dias** (ESPID 2017), não um "21 dias" fixo. **A segunda metade está errada:** a TC **não** compartilha essa latência e **não** é o próximo exame — a PIDS/IDSA sugere explicitamente **RM em vez de TC**, cintilografia ou ultrassom (II.2).
+> 2. **A RM não aparece na aula** — e é o exame que muda a conduta: enxerga **em 3–5 dias** o que a radiografia leva 2–3 semanas para mostrar. Essa é a maior lacuna do material-fonte.
+> 3. **"Metáfise = região de transferência entre veia e artéria"** → mais exato: **alça arteriolar terminal que desagua em seio venoso largo**, com fluxo lento e poucos fagócitos (De Boeck 2005). O conceito de "fluxo mais lento" está correto; o de "transferência" é impreciso.
+
+#### **Laboratório**
+- **[[PCR (Proteína C Reativa)|PCR]]:** **acurácia baixa para diagnosticar** OHA (PIDS/IDSA 2021, I.2) — serve como **valor de base** e, sobretudo, para **seguimento serial** junto com a avaliação clínica (IX.1). Normaliza em **3–8 dias** (ESPID 2017).
+- **[[Velocidade de Hemossedimentação (VHS)|VHS]]:** a PIDS/IDSA **não faz recomendação** e registra que não é mais usada rotineiramente para diagnóstico. Normaliza em **2–3 semanas** — ruim para seguir resposta.
+- **Procalcitonina:** PIDS/IDSA **sugere contra** (I.3).
+- **Gatilho de troca para via oral (ESPID 2017):** PCR caindo para **30–50% do pico**, com melhora clínica.
+- **No lactente, o laboratório falha:** recém-nascidos e lactentes **raramente fazem leucocitose** e podem ter sinais mínimos (Iliadis & Ramachandran 2017).
+
+#### **Culturas**
+- **[[Hemocultura]] antes do antibiótico** — recomendação **forte** (PIDS/IDSA 2021, I.1). Positiva em **cerca de um terço**.
+- **Amostragem invasiva** (aspirado ou [[Biópsia Óssea|biópsia]]) para cultura e Gram é **sugerida** em vez de testes não invasivos isolados (III.1): é o que permite estreitar o espectro e definir a duração.
+- Criança **sem aparência de doente** pode ter o antibiótico **adiado por até 48–72 h** se houver procedimento invasivo programado (IV.2); criança com aparência de doente recebe antibiótico **precoce** (IV.1, forte).
+
+#### **Antibiótico empírico por faixa de idade (ESPID 2017)**
+| Idade | Esquema |
+|---|---|
+| **< 3 meses** | [[Cefazolina]] ou penicilina antiestafilocócica ([[Oxacilina]]) **+** gentamicina; alternativa: oxacilina + [[Cefotaxima]] |
+| **3 meses – 5 anos** | [[Cefazolina]] ou [[Cefuroxima]]; alternativas [[Amoxicilina + Clavulanato]], ampicilina-sulbactam, [[Ceftriaxona]] |
+| **≥ 5 anos** | [[Oxacilina]] IV, [[Cefazolina]], ou [[Clindamicina]] em meio de alta prevalência de MRSA |
+| **MRSA > ~10–15%** | [[Clindamicina]] ± [[Rifampicina]] ± betalactâmico antiestafilocócico; grave ou alta resistência a clindamicina → [[Vancomicina]] ou teicoplanina ± rifampicina; alternativas daptomicina ou [[Linezolida]] |
+
+> [!important] A pegadinha da clindamicina abaixo dos 5 anos
+> *Kingella kingae* é causa comum de infecção osteoarticular entre **3 meses e 5 anos** (em séries com PCR, segunda ou até primeira colocada depois do *S. aureus*) — e é **resistente a clindamicina, vancomicina, linezolida e daptomicina**, sendo sensível a betalactâmicos (ESPID 2017). Por isso a ESPID só oferece clindamicina nessa faixa **"onde K. kingae não é preocupação"**. Ver [[Staphylococcus aureus]].
+
+#### **Duração e via**
+- **PIDS/IDSA 2021 (XI.1, condicional):** **3 a 4 semanas** no total para OHA **não complicada** por *S. aureus* que respondeu ao tratamento inicial. Mais tempo em cepas virulentas (USA300, PVL-positivas) e em casos complicados.
+- **ESPID 2017:** mínimo **3–4 semanas** para osteomielite (e **2–3 semanas** para artrite séptica isolada); complicados, 4–6 semanas ou mais.
+- **Via oral é recomendação forte** sobre antibiótico venoso domiciliar (OPAT) quando há opção oral ativa e tolerada (PIDS/IDSA, X.1). Lactente **< 3 meses** pode precisar de **14–21 dias IV** antes da troca (ESPID 2017).
+- **Imagem de fim de tratamento:** **recomendação forte CONTRA** RM de rotina na OHA não complicada **sem envolvimento da fise** (XII); reservada a casos complicados ou com fise acometida.
+
+#### **Quando operar — a aula está certa pela metade**
+> [!danger] ⚠️ Correção ao material-fonte
+> **"72–96 horas de antibiótico → esperar resposta → se não, drenagem cirúrgica"** → **é um dos critérios, não o único**, e **não vale para todos**:
+> - **Sepse ou infecção rapidamente progressiva:** desbridar **o mais cedo possível** — recomendação **forte** (PIDS/IDSA 2021, VI.1). **Não se espera 72–96 h.**
+> - **Criança estável com abscesso > 2 cm:** desbridamento é **sugerido** em vez de tratamento clínico isolado (VI.2).
+> - **Febre persistente além de ~72–96 h**, abscesso periosteal com **PCR em alta**, destruição óssea, sequestro, osteomielite crônica, material implantado, MRSA/PVL → cirurgia (ESPID 2017). **É aqui que a regra da aula se encaixa.**
+> - Sem esses gatilhos, **a OHA é doença clínica**: "há um papel muito limitado para a cirurgia no manejo da osteomielite hematogênica aguda" (Iliadis & Ramachandran 2017).
+> - **Sem resposta em 24–48 h** → a PIDS/IDSA sugere **RM** (II.2), e não cirurgia às cegas.
+
+- **Falha ou recidiva (XIII, boa prática):** antes de ampliar o antibiótico, checar **adequação do esquema** (espectro, dose, penetração, adesão), reavaliar **necessidade de cirurgia** e **reabrir o diagnóstico** — sobretudo na cultura negativa. [[Sarcoma de Ewing|Ewing]] cursa com dor, febre e marcadores altos e imita osteomielite: **osteomielite que não responde vai para biópsia com cultura** (ver [[Abordagem da Lesão Óssea Focal]]).
+
+**Relevância clínica:** a OHA pediátrica é **doença de antibiótico, não de bisturi** — mas quem define isso são três perguntas na admissão: *tem sepse?*, *tem abscesso > 2 cm?*, *melhorou em 48 h?*. E o exame que responde a terceira é a **RM**, ausente do material-fonte.
+**Fonte:** PIDS/IDSA 2021 — Woods CR et al. J Pediatric Infect Dis Soc. 2021;10(8):801-844. PMID 34350458 — https://doi.org/10.1093/jpids/piab027 · ESPID 2017 — Saavedra-Lozano J et al. Pediatr Infect Dis J. 2017;36(8):788-799. PMID 28708801 — https://doi.org/10.1097/INF.0000000000001635 · Iliadis AD, Ramachandran M. EFORT Open Rev. 2017;2(1):7-12. PMID 28607765 — https://doi.org/10.1302/2058-5241.2.160027 · De Boeck H. Acta Orthop Belg. 2005;71(5):505-15. PMID 16305073 *(citações confirmadas no PubMed)*
+
+---

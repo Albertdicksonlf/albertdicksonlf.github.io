@@ -86,11 +86,12 @@ tipo de exame: null
 - [[Estenose Mitral]] e [[Insuficiência Cardíaca]] — congestão e ruptura de veias brônquicas dilatadas
 - [[Hipertensão Pulmonar]]
 - Malformação arteriovenosa pulmonar (Rendu-Osler-Weber)
+- [[Doença de Behçet]] — **aneurisma de artéria pulmonar**: imita TEP, e anticoagular pode causar hemoptise fatal
 - *Pista:* [[Dor torácica pleurítica]] súbita com [[Dispneia]] e fator de risco para trombose; ou dispneia crônica com sopro diastólico
 
 ### **Grupo D: Hemorragia alveolar difusa e sistêmicas**
 - [[Doença de Goodpasture]] — síndrome pulmão-rim
-- Vasculites ANCA-associadas (granulomatose com poliangiite, poliangiite microscópica) — *sem nota própria no vault*
+- Vasculites ANCA-associadas — [[Granulomatose com Poliangiite (GPA)|granulomatose com poliangiite]] e [[Poliangiite Microscópica (PAM)|poliangiite microscópica]] — mapa geral em [[Abordagem da Suspeita de Vasculite]]
 - [[Lúpus Eritematoso Sistêmico]]
 - [[Coagulação Intravascular Disseminada (CIVD)]] · anticoagulação excessiva · plaquetopenia grave
 - *Pista:* **infiltrado alveolar bilateral + queda de hemoglobina + hematúria/[[Proteinúria]]**. Aqui a hemoptise pode até estar **ausente** apesar de hemorragia alveolar maciça — não se tranquilize pela falta de sangue na tosse

@@ -22,7 +22,7 @@ tipo de exame: null
 > Qualquer alteração da mucosa oral. A boca é uma **janela diagnóstica**: muita doença sistêmica se manifesta ali primeiro. A triagem prática separa por **morfologia** (úlcera, placa, vesícula, massa) e, sobretudo, por **tempo de evolução**.
 
 ## 🎯 Gavetas por morfologia
-- **Úlcera/afta:** aftose recorrente (a mais comum), trauma, [[Sifilis|sífilis]] (cancro duro — indolor), [[AIDS|HIV]], Behçet, [[Neutropenia Febril|neutropenia]] (úlcera + febre em quimioterapia).
+- **Úlcera/afta:** aftose recorrente (a mais comum), trauma, [[Sifilis|sífilis]] (cancro duro — indolor), [[AIDS|HIV]], [[Doença de Behçet|Behçet]] (aftas recorrentes dolorosas + úlcera genital), [[Neutropenia Febril|neutropenia]] (úlcera + febre em quimioterapia).
 - **Placa branca:**
 	- **Candidíase oral** — placa que **destaca** à raspagem; no adulto sem causa óbvia, investigar imunossupressão/[[AIDS|HIV]] e diabetes *(sem nota dedicada)*
 	- **Leucoplasia** — placa que **NÃO destaca** → potencialmente pré-maligna, biópsia

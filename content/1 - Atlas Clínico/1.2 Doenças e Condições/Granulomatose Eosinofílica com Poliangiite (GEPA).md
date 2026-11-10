@@ -39,7 +39,7 @@ card:
 	1. **Prodrômica (alérgica):** asma, rinite, rinossinusite com pólipos — anos antes
 	2. **Eosinofílica:** [[Eosinofilia]] periférica marcada, **infiltrados pulmonares migratórios**, gastroenterite e miocardite eosinofílicas
 	3. **Vasculítica:** mononeurite múltipla, púrpura, glomerulonefrite, sintomas constitucionais
-- **Classificação:** vasculite **ANCA-associada de pequenos vasos** (Chapel Hill 2012), ao lado da granulomatose com poliangiite e da poliangiite microscópica.
+- **Classificação:** vasculite **ANCA-associada de pequenos vasos** (Chapel Hill 2012), ao lado da [[Granulomatose com Poliangiite (GPA)|granulomatose com poliangiite]] e da [[Poliangiite Microscópica (PAM)|poliangiite microscópica]].
 
 ## 🤒 Apresentação Clínica
 - **Quadro Típico:** adulto de meia-idade com **asma que piorou ou ficou difícil de controlar**, rinossinusite com pólipos, que passa a ter **eosinofilia > 10%**, febre, perda de peso, **dormência e queda do pé ou do punho** (mononeurite) e lesões purpúricas.
@@ -146,5 +146,21 @@ card:
 
 ### ➕ Novas Anotações / Insights
 *- Nota criada em 2026-10-06 no processamento de `Doenças Sistêmicas com Manifestações Cutâneas - Aula` (Modo Completo). Resolve a ausência registrada em 05/10 (citada em texto puro em `Dupilumabe` e em `Eosinofilia`, que pode passar a linkar). Mepolizumabe, granulomatose com poliangiite e poliangiite microscópica seguem em texto puro.*
-*- Critérios ACR/EULAR 2022 conferidos (pesos, corte ≥ 6, S 85% / E 99% na validação de 119 casos × 437 comparadores; o item neurológico é "mononeurite múltipla ou neuropatia motora não radicular"). ⚠️ Ainda a conferir: o regime de mepolizumabe (300 mg SC a cada 4 semanas no ensaio MIRRA).*
+*- Critérios ACR/EULAR 2022 conferidos (pesos, corte ≥ 6, S 85% / E 99% na validação de 119 casos × 437 comparadores; o item neurológico é "mononeurite múltipla ou neuropatia motora não radicular"). ⚠️ Ainda a conferir: o regime de mepolizumabe (300 mg SC a cada 4 semanas no ensaio MIRRA).* → *conferido em 2026-11-08 (bloco abaixo).*
+
+### 🔗 Deck Osler de Vasculites — complementos e correções
+**Data:** 2026-11-08
+**Contexto:** [[Abordagem da Suspeita de Vasculite]] · agora há notas próprias para [[Granulomatose com Poliangiite (GPA)]] e [[Poliangiite Microscópica (PAM)]]
+
+**Características específicas:**
+- **Benralizumabe** (anti-receptor de IL-5, 30 mg SC a cada 4 semanas) — **MANDARA**: não inferior ao mepolizumabe na remissão nas semanas 36 e 48 (**59% vs 56%**; diferença de 3 pontos, IC 95% −13 a 18) e com mais retirada completa do corticoide oral (**41% vs 26%**), em GEPA recidivante ou refratária.
+- **Pendência resolvida:** o regime do mepolizumabe é **300 mg SC a cada 4 semanas** (MIRRA; o mesmo usado como comparador no MANDARA).
+- **Correção do deck:** *"pelo menos metade dos pacientes apresentará injúria renal aguda"* **não se sustenta** — na coorte francesa (n = 383) o rim nem aparece entre as manifestações principais (neuropatia periférica 51%, ORL 48%, pele 40%, infiltrados pulmonares 39%, cardiomiopatia 16%); o acometimento renal é minoritário e concentra-se nos ANCA-positivos (31% da coorte).
+- **Da anotação:** *"Asma que apareceu na fase adulta tem que chamar atenção"* — correto (91% tinham asma, em média 9 anos antes do diagnóstico, na mesma coorte). *"Migratórias"* (as opacidades pulmonares) — correto → [[Infiltrado Pulmonar Migratório]]. *"Todos esses de pequenos vasos acabam cursando com síndrome pulmão-rim"* — **generalização**: a síndrome pulmão-rim é típica de GPA, PAM e doença anti-MBG; o pulmão da GEPA é asma + infiltrado eosinofílico, e o rim é minoritário.
+- Na mesma coorte, **cardiomiopatia** e idade mais avançada foram fatores independentes de morte; ANCA-positivos recidivaram mais (35% vs 23%) e ANCA-negativos morreram mais (12,5% vs 5,6%).
+
+**Relevância clínica:** reforça que a GEPA mata pelo **coração**, não pelo rim, e abre uma segunda opção anti-IL-5 para a doença recidivante.
+**Fonte:** Wechsler ME, et al. Benralizumab versus Mepolizumab for Eosinophilic Granulomatosis with Polyangiitis. N Engl J Med. 2024;390(10):911-921. PMID 38393328 · Comarmond C, et al. Arthritis Rheum. 2013;65(1):270-281. PMID 23044708
+
+---
 -

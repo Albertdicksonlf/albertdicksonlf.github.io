@@ -44,3 +44,22 @@ O ajuste **NÃO** é feito dosando cortisol no sangue (pois você acabou de dar 
 - **Padrão-Ouro:** [[A droga mais fisiológica para Addison/IA Secundária]].
 - **Regra dos Dias de Doença (Sick Days):** [[O paciente deve DUPLICAR a dose oral se tiver febre/infecção leve]].
 - **Emergência:** [[Se vômitos ou diarreia -> Precisa ir ao PS fazer injetável]].
+
+---
+
+### ➕ Novas Anotações / Insights
+
+### 🔗 Choque séptico — corticoide adjuvante
+**Data:** 2026-11-09
+**Contexto:** [[Choque Séptico]]
+
+**Características específicas:**
+- **Indicação:** choque séptico com **necessidade contínua de vasopressor** após a ressuscitação — a SSC 2026 **sugere** corticoide IV (condicional, certeza baixa); a SSC 2021 indicava com noradrenalina ou adrenalina ≥ 0,25 µg/kg/min por ≥ 4 h. Não é de rotina na sepse sem choque.
+- **Dose:** **200 mg/dia** — 50 mg IV 6/6 h ou infusão contínua (a mesma dose da crise adrenal de manutenção).
+- **Evidência:** ADRENAL (2018) — reverteu o choque mais rápido, sem reduzir mortalidade em 90 dias; APROCCHSS (2018) — hidrocortisona + [[Fludrocortisona]] reduziu a mortalidade em 90 dias.
+- **Efeitos a vigiar:** hiperglicemia (insulina se ≥ 180 mg/dL), hipernatremia, fraqueza muscular.
+
+**Relevância clínica:** é a terceira "perna" do escalonamento do choque séptico — catecolamina ([[Noradrenalina]]), [[Vasopressina]] e cortisol.
+**Fonte:** SSC 2026 (Prescott HC, et al. Crit Care Med. 2026. PMID 41869847) — https://sccm.org/survivingsepsiscampaign/guidelines-and-resources/surviving-sepsis-campaign-adult-guidelines · Venkatesh B, et al. N Engl J Med. 2018;378(9):797-808. PMID 29347874 · Annane D, et al. N Engl J Med. 2018;378(9):809-818. PMID 29490185
+
+---

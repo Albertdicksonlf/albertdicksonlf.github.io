@@ -36,8 +36,8 @@ card:
 - **Significado Clínico:** púrpura **palpável** = **vasculite de pequenos vasos** até prova em contrário. O passo seguinte é decidir se ela é **só cutânea** ou se é a **pele de uma vasculite sistêmica** (rim, pulmão, nervo, intestino).
 - **As causas a buscar:**
 	- **Vasculite por IgA** (púrpura de Henoch-Schönlein) — criança, púrpura em membros inferiores e nádegas + artralgia + dor abdominal + hematúria
-	- **Vasculites ANCA-associadas** — [[Granulomatose Eosinofílica com Poliangiite (GEPA)|GEPA]] (asma + [[Eosinofilia|eosinofilia]]), granulomatose com poliangiite, poliangiite microscópica
-	- **Crioglobulinemia** (hepatite C)
+	- **Vasculites ANCA-associadas** — [[Granulomatose Eosinofílica com Poliangiite (GEPA)|GEPA]] (asma + [[Eosinofilia|eosinofilia]]), [[Granulomatose com Poliangiite (GPA)|granulomatose com poliangiite]], [[Poliangiite Microscópica (PAM)|poliangiite microscópica]]
+	- **[[Crioglobulinemia]]** (hepatite C)
 	- **Vasculite por hipersensibilidade a fármacos** (antibióticos, AINEs) e pós-infecciosa — a causa mais comum da forma **isolada da pele**
 	- Doenças do tecido conjuntivo (lúpus, Sjögren, artrite reumatoide), endocardite, neoplasias
 - **Acurácia:** não há LR estabelecida; o valor é **qualitativo** e enorme — o achado muda a categoria do diagnóstico (de distúrbio hemostático para vasculite).
