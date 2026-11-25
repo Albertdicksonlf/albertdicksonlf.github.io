@@ -177,3 +177,20 @@ card: ''
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
 -
+
+### 🔗 Quando o tumor germinativo nasce fora do testículo: o primário mediastinal
+**Data:** 2026-11-13
+**Contexto:** [[Tumores de Células Germinativas do Mediastino]] · [[Abordagem da Massa Mediastinal]]
+
+**Características específicas:**
+- O **mediastino anterior** é o sítio extragonadal mais comum de TCG; antes de chamá-lo de primário, **palpar o testículo e pedir [[USG de Escroto]]** — a massa pode ser metástase de tumor testicular.
+- **Distribuição diferente da testicular:** no mediastino, o **não seminoma predomina (60–70%)**, com o tumor do saco vitelino como subtipo mais frequente (AFP alta).
+- **IGCCCG:** o **não seminoma mediastinal primário é sempre "prognóstico ruim"**, independentemente dos marcadores; sobrevida em 5 anos ~40–50%. O seminoma mediastinal tem o mesmo prognóstico do testicular.
+- **Diagnóstico por marcador:** β-hCG > 1.000 U/L e/ou qualquer AFP elevada sustentam o diagnóstico **sem biópsia** quando é preciso tratar com urgência.
+- **Tratamento do não seminoma mediastinal:** BEP ×4 ou **VIP ×4** (poupa a bleomicina antes da cirurgia torácica) + **ressecção obrigatória da massa residual**.
+- **Associações próprias do primário mediastinal:** [[Síndrome de Klinefelter]] e neoplasias hematológicas (leucemia mieloide aguda megacarioblástica, mielodisplasia).
+
+**Relevância clínica:** a "Heurística #4" desta nota (metástase em homem jovem → examinar o testículo) vale também ao contrário: massa mediastinal anterior em homem jovem → examinar o testículo.
+**Fonte:** Marandino L, Vogl UM. Mediastinum. 2022;6:7 (PMID 35340835); Ozgun G, Nappi L. Biomedicines. 2023;11(2):487 (PMID 36831022); Gillessen S et al. J Clin Oncol. 2021;39(14):1563-74 (PMID 33822655).
+
+---

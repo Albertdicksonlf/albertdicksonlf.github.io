@@ -6,15 +6,15 @@ date: 2026-08-30T12:46:00
   - Emergência
 tipo: Exame
 tipo de exame: Procedimento
-tipo de doença: 
+tipo de doença:
 classe de medicamentos:
-prevalência: 
+prevalência:
 aliases:
   - Artrocentese
   - Punção Articular
   - Líquido Sinovial
   - Synovial Fluid Analysis
-card: 
+card:
 ---
 
 # Análise do Líquido Sinovial
@@ -158,3 +158,25 @@ card:
 
 ---
 -
+
+### 🔗 Por que "birrefringência negativa": a convenção óptica, e o que a microscopia de cristais acerta e perde
+**Data:** 2026-11-15
+**Contexto:** deck "Gota" da Osler — ver [[Gota]] e [[Doença por Deposição de Pirofosfato de Cálcio (DDPC)|DDPC]]
+
+**A convenção, em quatro passos** — útil porque "negativa" e "positiva" não são propriedades óbvias, são resultado de um arranjo óptico:
+1. O cristal é **birrefringente**: tem **dois índices de refração**, um para cada eixo da estrutura cristalina.
+2. Um feixe de **luz polarizada** é desviado de forma diferente conforme o alinhamento com o cristal — contra fundo escuro, o cristal brilha.
+3. Acrescenta-se ao conjunto um **filtro de cor (compensador)**: a interação deixa de ser de brilho e passa a ser de **adição ou subtração de cores**.
+4. **Convenção:** cristal que fica **azul quando paralelo** ao eixo do compensador = birrefringência **positiva**; cristal que fica **amarelo** nessa posição = birrefringência **negativa**.
+
+- Logo: **urato monossódico** = agulha **amarela quando paralela** = **negativa** ([[Gota]]). **Pirofosfato de cálcio** = romboide **azul quando paralelo** = **positiva, e fracamente** ([[Doença por Deposição de Pirofosfato de Cálcio (DDPC)|DDPC]]).
+- O aspecto prático: o técnico **gira a lâmina**. É a mudança de cor com a rotação que define o sinal — não a cor vista numa posição qualquer.
+
+**Acurácia da pesquisa de cristais — o que o número significa:**
+- O deck registra **especificidade de 100% e sensibilidade de ~85%** para a microscopia de luz polarizada no diagnóstico de gota. ⚠️ Fonte: UpToDate (consultada pelo Albert) — **não ancorada em diretriz de acesso aberto nesta sessão**, e a sensibilidade na vida real depende muito de **operador, tempo até a análise e volume da amostra**.
+- A leitura que importa: **positivo fecha, negativo não afasta.** Clínica muito sugestiva com microscopia negativa **não exclui** gota — repetir a punção em nova crise, ou investigar por [[Ultrassonografia Articular|ultrassom]] ([[Sinal do Duplo Contorno]]), é conduta razoável.
+- E o inverso continua valendo, como já registrado acima: **cristal presente não exclui [[Artrite Séptica|artrite séptica]]** — por isso Gram, cultura e celularidade saem do mesmo tubo.
+
+**Fonte:** UpToDate — "Gout: Clinical manifestations and diagnosis" *(fonte citada no deck da Osler, consultada pelo Albert)* · convenção óptica da birrefringência compensada: **conhecimento consolidado**, sem diretriz aberta que a detalhe.
+
+---

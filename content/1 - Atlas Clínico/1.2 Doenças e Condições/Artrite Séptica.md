@@ -269,7 +269,7 @@ card:
 Tudo o que esta nota traz de pivô — os LR de Margaretten, os escores SAS/RESAS, o empírico guiado por Gram da SANJO 2023 — foi derivado em **adulto**. Na criança, três coisas mudam de lugar.
 
 #### **1. O escore: [[Critérios de Kocher]]**
-- Quatro variáveis (história de febre · não descarga de peso · VHS ≥ 40 · leucócitos > 12.000) que separam artrite séptica de **sinovite transitória** no **quadril irritável da criança**. Probabilidade predita: **< 0,2% / 3% / 40% / 93,1% / 99,6%** para 0 a 4 critérios (Kocher 1999); a validação prospectiva manteve os mesmos preditores com **AUC 0,86** (Kocher 2004).
+- Quatro variáveis (história de febre · não descarga de peso · VHS ≥ 40 · leucócitos > 12.000) que separam artrite séptica de [[Sinovite Transitória do Quadril|sinovite transitória]] no **quadril irritável da criança** (roteiro completo da criança que manca em [[Abordagem da Claudicação e Recusa de Deambular na Criança]]). Probabilidade predita: **< 0,2% / 3% / 40% / 93,1% / 99,6%** para 0 a 4 critérios (Kocher 1999); a validação prospectiva manteve os mesmos preditores com **AUC 0,86** (Kocher 2004).
 - **Por que o quadril tem escore próprio e o joelho não:** o quadril é profundo, sem sinais locais visíveis, e a radiografia **frequentemente perde o derrame** (ESPID 2017). Sem semiologia local, só restam os dados sistêmicos.
 - Como aplicar e os sete pitfalls: ver [[Critérios de Kocher]]. **O escore não dispensa a punção** — a EFORT 2017 afirma que nenhum exame isolado, **incluindo a aspiração**, é confiável o bastante, e que algoritmos devem complementar e não substituir o julgamento clínico.
 

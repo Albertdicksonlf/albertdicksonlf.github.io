@@ -42,11 +42,11 @@ tipo de exame: null
 
 ### Classificação por habitat — e por que ela prediz a clínica
 
-| Grupo | Reservatório | Comportamento clínico |
-|---|---|---|
-| **Antropofílicos** | Humano | Bem adaptados → inflamação **discreta**, curso **crônico e recidivante** |
-| **Zoofílicos** | Animais (cão, gato, roedor) | Mal adaptados → resposta imune **exuberante**, quadro agudo e inflamatório (é o perfil do **quérion**) |
-| **Geofílicos** | Solo | Raros em humanos; quando infectam, também cursam com inflamação intensa |
+| Grupo              | Reservatório                | Comportamento clínico                                                                                  |
+| ------------------ | --------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Antropofílicos** | Humano                      | Bem adaptados → inflamação **discreta**, curso **crônico e recidivante**                               |
+| **Zoofílicos**     | Animais (cão, gato, roedor) | Mal adaptados → resposta imune **exuberante**, quadro agudo e inflamatório (é o perfil do **quérion**) |
+| **Geofílicos**     | Solo                        | Raros em humanos; quando infectam, também cursam com inflamação intensa                                |
 
 > [!info] A regra por trás da tabela
 > **Quanto pior a adaptação do fungo ao hospedeiro humano, mais intensa a resposta imune — e mais inflamatória a lesão.** Um fungo antropofílico "negocia" com o hospedeiro há milênios; um zoofílico é um invasor reconhecido de imediato.

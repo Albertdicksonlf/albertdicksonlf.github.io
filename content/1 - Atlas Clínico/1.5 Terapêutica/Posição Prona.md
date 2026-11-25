@@ -5,17 +5,17 @@ date: 2026-11-01T19:20:00
   - Pneumologia
   - Medicina de Emergência
 tipo: Procedimento Cirúrgico
-tipo de exame: 
-tipo de doença: 
+tipo de exame:
+tipo de doença:
 classe de medicamentos:
-prevalência: 
+prevalência:
 aliases:
   - Pronação
   - Decúbito Prono
   - Ventilação em Prona
   - Prone Positioning
   - Pronação Acordada
-card: 
+card:
 ---
 
 # Posição Prona
@@ -109,7 +109,7 @@ A incidência de complicações não diferiu entre os grupos — com uma exceç�
 - **Pele:** inspeção a cada mudança de rotação de cabeça; coxins reposicionados; registro de pontos de pressão.
 - **Olhos:** lubrificação e oclusão mantidas durante toda a sessão.
 - **Dieta:** reintroduzir conforme tolerância, com cabeceira elevada.
-- **Critério de suspensão (prática consolidada, sem recomendação graduada):** melhora **sustentada** da oxigenação avaliada **em supino** algumas horas depois do fim da sessão — tipicamente PaO₂/FiO₂ ≥ 150 com PEEP e FiO₂ já reduzidos. Enquanto o paciente continuar preenchendo o critério de entrada, repetem-se as sessões diárias.
+- **Critério de suspensão — o do protocolo PROSEVA (conferido no texto do ensaio em 2026-11-13; é critério de protocolo, não recomendação graduada):** **PaO₂/FiO₂ ≥ 150 com PEEP ≤ 10 cmH₂O e FiO₂ ≤ 0,6**, medidos **em supino, pelo menos 4 h depois do fim da última sessão**. Também se suspendia por **queda > 20% da PaO₂/FiO₂** em relação ao supino em **duas sessões consecutivas** (não respondedor) ou por complicação grave. Enquanto o paciente continuar preenchendo o critério de entrada, repetem-se as sessões diárias (no ensaio, até o 28º dia).
 - **Interrupção imediata** se houver instabilidade hemodinâmica grave, parada cardiorrespiratória, extubação acidental ou pneumotórax suspeito ([[Pneumotórax]]).
 
 ---
@@ -141,3 +141,18 @@ A incidência de complicações não diferiu entre os grupos — com uma exceç�
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
 -
+
+### 🔗 Critério de saída do PROSEVA e a armadilha do "resgate de refratário"
+**Data:** 2026-11-13
+**Contexto:** [[Síndrome do Desconforto Respiratório Agudo (SDRA)]] — processamento de `Síndrome do Desconforto Respiratório Aguda - Anotações`
+
+**Características específicas:**
+- **Pendência de 01/11 resolvida:** o critério de suspensão, que esta nota marcava como "prática consolidada", é o **do protocolo PROSEVA** — PaO₂/FiO₂ **≥ 150** com PEEP **≤ 10** e FiO₂ **≤ 0,6**, medidos **em supino ≥ 4 h** após a última sessão (corpo da nota já corrigido). ✅ O card da Osler estava certo; o detalhe é que o ensaio usa **FiO₂ ≤ 0,6** (o card escreve "< 0,6").
+- **A simetria que o card aponta é real:** entrada = PaO₂/FiO₂ **< 150** com FiO₂ **≥ 0,6** e PEEP **≥ 5**; saída = PaO₂/FiO₂ **≥ 150** com FiO₂ **≤ 0,6** e PEEP **≤ 10**. O PEEP de saída é mais exigente porque PEEP baixo indica que o pulmão deixou de depender de pressão para ficar aberto.
+- ⚠️ **Card: "qual manobra pode ser realizada para recrutamento alveolar em pacientes com hipoxemia refratária? Prona."** O enquadramento está errado em dois pontos: (1) a prona **não é manobra de recrutamento** no sentido ventilatório — é mudança de decúbito que **homogeneíza a pressão transpulmonar**; (2) **não é para refratário**: no PROSEVA os pacientes entravam com **menos de 36 h de ventilação**, após só 12–24 h de estabilização. Usar prona como último recurso é perder a janela em que ela reduz mortalidade.
+- **Anotação do Albert — "no contexto de paciente grave a moderado":** ✅ correto quanto ao gatilho (PaO₂/FiO₂ < 150). A outra anotação do mesmo bloco — "paciente inflamado, moderado-grave **refratário**" — é a que precisa de ajuste: o gatilho é a **gravidade**, não a refratariedade.
+
+**Relevância clínica:** gatilho = PaO₂/FiO₂ < 150 nas primeiras horas; dose = ≥ 16 h; saída = ≥ 150 com PEEP ≤ 10 e FiO₂ ≤ 0,6 em supino. Os três números cabem num cartão de bolso.
+**Fonte:** Guérin C, Reignier J, Richard JC, et al. Prone positioning in severe acute respiratory distress syndrome. N Engl J Med. 2013;368(23):2159-2168. PMID 23688302 — https://doi.org/10.1056/NEJMoa1214103 (seção Métodos, critérios de interrupção da prona)
+
+---

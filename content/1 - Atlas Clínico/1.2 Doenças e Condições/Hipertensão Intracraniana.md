@@ -23,10 +23,10 @@ card:
 
 ## 🌪️ Fisiopatologia
 - **[[Doutrina de Monro-Kellie]]:** O crânio é uma caixa inelástica com três componentes: parênquima cerebral (~80%), sangue (~10%) e líquor (~10%). Um aumento no volume de um dos componentes deve ser compensado pela diminuição de outro para manter a PIC estável. Quando essa compensação falha, a PIC eleva-se exponencialmente.
-- **[[Pressão de Perfusão Cerebral]] (PPC):** A PPC é a força que garante o fluxo sanguíneo para o cérebro, calculada como **PPC = [[PAM]] - [[PIC]]**. Uma PIC elevada diminui a PPC, causando isquemia, que por sua vez gera mais edema ([[Edema citotóxico]]), em um ciclo vicioso perigoso.
+- **[[Pressão de Perfusão Cerebral]] (PPC):** A PPC é a força que garante o fluxo sanguíneo para o cérebro, calculada como **PPC = [[PAM]] - [[PIC]]**. Uma PIC elevada diminui a PPC, causando isquemia, que por sua vez gera mais edema ([[Edema Cerebral|edema citotóxico]]), em um ciclo vicioso perigoso.
 - **Mecanismos de Elevação da PIC:**
 	- **Efeito de Massa:** [[Tumor cerebral]], [[Hematoma intracraniano]] (subdural, epidural), [[Hemorragia Intracerebral]], [[Abscesso Cerebral]].
-	- **Edema Cerebral:** [[Edema vasogênico]] (quebra da barreira hematoencefálica) ou [[Edema citotóxico]] (falha da bomba de Na+/K+ por isquemia).
+	- **[[Edema Cerebral]]:** vasogênico (quebra da barreira hematoencefálica) ou citotóxico (falha da bomba de Na+/K+ por isquemia).
 	- **Aumento do Volume Sanguíneo:** Obstrução da drenagem venosa (ex: [[TVC]]), hipercapnia (que causa vasodilatação cerebral), ou perda da autorregulação - extremos de PAM (50-150)
 	- **Distúrbios do Líquor:** [[Hidrocefalia]] (obstrutiva ou comunicante), ou aumento da produção.
 

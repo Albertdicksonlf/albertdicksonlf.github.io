@@ -85,3 +85,20 @@ tipo de exame: Procedimento
 **Fonte:** ESMO–EURACAN–GENTURIS–ERN PaedCan 2021 — Strauss SJ et al. Ann Oncol. 2021;32(12):1520–1536. PMID 34500044 — https://doi.org/10.1016/j.annonc.2021.08.1995
 
 ---
+
+### 🔗 Quando a biópsia pode ser dispensada — e quando repetir
+**Data:** 2026-11-15
+**Contexto:** [[Espondilodiscite]] · [[Osteomielite]] — deck da Osler
+
+**Características específicas:**
+- **Dispensa (IDSA 2015, osteomielite vertebral):** bacteremia por ***S. aureus*, *S. lugdunensis* ou *Brucella*** — ou sorologia de *Brucella* fortemente positiva em área endêmica — com quadro compatível (forte). Para outros germes na hemocultura, a biópsia segue indicada.
+- **Antes do antibiótico:** no paciente estável, sem déficit neurológico, a IDSA 2015 sugere segurar o empírico até o diagnóstico microbiológico. Exceções: sepse, instabilidade, déficit grave ou progressivo.
+- **O que enviar:** cultura aeróbia e anaeróbia; fungos, micobactérias e *Brucella* conforme as pistas; **anatomopatológico sempre que houver tecido suficiente** (forte).
+- **Rendimento na coluna:** sensibilidade de 30–74% (IDSA 2015); biópsia (TC ou aberta) **77%** × hemocultura **58%** (Mylona 2009).
+- **Primeira biópsia não diagnóstica:** cresceu contaminante de pele sem bacteremia → **repetir** (forte); pedir fungos, micobactérias e amplificação de ácido nucleico bacteriano no material guardado; se ainda negativa → nova aspiração, discectomia endoscópica percutânea ou biópsia aberta (fraca).
+- **Pé diabético (IWGDF/IDSA 2023):** preferir **amostra óssea a amostra de partes moles** para cultura, intraoperatória ou percutânea, colhida de forma asséptica (condicional, moderada).
+
+**Relevância clínica:** a biópsia transforma 6 semanas de antibiótico empírico em 6 semanas de antibiótico **certo**. O erro não é só deixar de fazê-la — é fazê-la depois de já ter começado o antibiótico sem necessidade.
+**Fonte:** IDSA 2015 — Berbari EF et al. Clin Infect Dis. 2015;61(6):e26-46. PMID 26229122 — https://doi.org/10.1093/cid/civ482 · IWGDF/IDSA 2023 — Senneville É et al. Clin Infect Dis. 2023;ciad527. PMID 37779457 — https://doi.org/10.1093/cid/ciad527 · Mylona E et al. Semin Arthritis Rheum. 2009;39(1):10-7. PMID 18550153 — https://doi.org/10.1016/j.semarthrit.2008.03.002
+
+---

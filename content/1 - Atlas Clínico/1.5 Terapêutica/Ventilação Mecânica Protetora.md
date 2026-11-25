@@ -5,10 +5,10 @@ date: 2026-11-01T19:10:00
   - Pneumologia
   - Medicina de Emergência
 tipo: Procedimento Cirúrgico
-tipo de exame: 
-tipo de doença: 
+tipo de exame:
+tipo de doença:
 classe de medicamentos:
-prevalência: 
+prevalência:
 aliases:
   - Ventilação Protetora
   - Ventilação Mecânica Invasiva
@@ -16,7 +16,7 @@ aliases:
   - Baixo Volume Corrente
   - Lung Protective Ventilation
   - Protocolo ARDSNet
-card: 
+card:
 ---
 
 # Ventilação Mecânica Protetora
@@ -86,7 +86,7 @@ O volume corrente é prescrito por **peso predito (PBW)**, que depende **apenas 
 | **PEEP mais baixo / FiO₂ mais alta** | FiO₂ 0,3→0,4→0,4→0,5→0,5→0,6→0,7→0,7→0,7→0,8→0,9→0,9→0,9→1,0 <br> PEEP 5→5→8→8→10→10→10→12→14→14→14→16→18→18–24 |
 | **PEEP mais alto / FiO₂ mais baixa** | FiO₂ 0,3→0,3→0,3→0,3→0,3→0,4→0,4→0,5→0,5→0,5–0,8→0,8→0,9→1,0→1,0 <br> PEEP 5→8→10→12→14→14→16→16→18→20→22→22→22→24 |
 
-- **Qual das duas escadas usar?** A **ESICM 2023 não faz recomendação** entre PEEP alto e PEEP baixo, com certeza **alta de que não há diferença de mortalidade** — e o mesmo vale para titulação guiada por mecânica *versus* tabela. Ou seja: escolha pela resposta individual (oxigenação, complacência, hemodinâmica), não pela crença de que mais PEEP é melhor.
+- **Qual das duas escadas usar?** A **ESICM 2023 não faz recomendação** entre PEEP alto e PEEP baixo, com certeza **alta de que não há diferença de mortalidade** — e o mesmo vale para titulação guiada por mecânica *versus* tabela. Ou seja: escolha pela resposta individual (oxigenação, complacência, hemodinâmica), não pela crença de que mais PEEP é melhor. **⚠️ Atualizado em 2026-11-13:** a **ATS 2024 sugere a escada de PEEP mais alto, sem recrutamento, na SDRA moderada-grave** (condicional) e não recomenda nada na leve — ver o bloco no fim da nota.
 - **Manobras de recrutamento prolongadas (≥ 35 cmH₂O por ≥ 1 min): recomendação forte contra** (ESICM 2023). Manobras breves: sugestão fraca contra uso rotineiro.
 
 ### **5. Aceitar a hipercapnia — e saber até onde**
@@ -118,7 +118,7 @@ O volume corrente é prescrito por **peso predito (PBW)**, que depende **apenas 
 ## 🩹 Cuidados Durante e Após o Procedimento
 
 - **Sedação e analgesia:** a mínima que permita manter os alvos; metas de sedação leve e interrupção diária quando seguro.
-- **Bloqueio neuromuscular contínuo:** **recomendação forte contra** uso **rotineiro** na SDRA moderada-grave não COVID (ESICM 2023). Reserva-se para assincronia grave que impede a ventilação protetora.
+- **Bloqueio neuromuscular contínuo:** **recomendação forte contra** uso **rotineiro** na SDRA moderada-grave não COVID (ESICM 2023). Reserva-se para assincronia grave que impede a ventilação protetora. **⚠️ Divergência (2026-11-13):** a ATS 2024 *sugere* bloqueio na SDRA **grave precoce** (PaO₂/FiO₂ < 100, < 48 h, infusão ≤ 48 h) — detalhes em [[Síndrome do Desconforto Respiratório Agudo (SDRA)]].
 - **Estratégia hídrica:** conservadora depois da estabilização hemodinâmica — aumenta dias livres de ventilação (FACTT, 2006).
 - **Prevenção:** cabeceira elevada, higiene oral, profilaxia de tromboembolismo, [[Fisioterapia Respiratória|fisioterapia]] e mobilização precoce.
 - **Desmame:** avaliação diária de prontidão e teste de respiração espontânea assim que a causa de base cede e a oxigenação permite.
@@ -154,3 +154,23 @@ O volume corrente é prescrito por **peso predito (PBW)**, que depende **apenas 
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
 -
+
+### 🔗 Volume ou pressão? Driving pressure, PEEP alto e recrutamento — o que os estudos de fato mostraram
+**Data:** 2026-11-13
+**Contexto:** [[Síndrome do Desconforto Respiratório Agudo (SDRA)]] — processamento de `Síndrome do Desconforto Respiratório Aguda - Anotações`
+
+**Características específicas:**
+- ❌ **Correção a uma anotação do Albert:** *"não podemos pensar em meta de volume, temos que pensar em meta de pressão com driving pressure controlada"*. É o contrário do que a evidência hierarquiza. O **volume corrente por peso predito** é o único componente com **ensaio randomizado** mostrando redução de mortalidade (ARMA, 2000); platô e driving pressure são os números de **vigilância**. A conduta certa é **as duas coisas**: volume limitado **e** pressões dentro do alvo.
+- **Driving pressure (Amato, NEJM 2015) — o que o estudo é e o que não é:** análise de mediação com dados individuais de **3.562 pacientes de 9 ensaios** — é **observacional**, não um ensaio que testou titular pela ΔP. Um aumento de **1 desvio-padrão (~7 cmH₂O)** na ΔP associou-se a mortalidade **RR 1,41** (IC 95% 1,31–1,51), inclusive em quem já tinha platô e volume "protetores" (**RR 1,36**; 1,17–1,58). Mudanças de volume ou de PEEP só se associaram a sobrevida **quando reduziam a ΔP**.
+	- ⚠️ **Card: "cada 1 cmH₂O aumenta a mortalidade em ~4%".** Esse número **não está no artigo**, que reporta o efeito por desvio-padrão; é extrapolação linear (distribuindo o RR 1,41 por 7 cmH₂O dá ~5% por cmH₂O). Útil como intuição, não como dado.
+	- ⚠️ **Card: "driving pressure < 15 cmH₂O".** Limiar prático muito usado, mas **nem a ATS (2017 e 2024) nem a ESICM 2023 o graduam** como alvo.
+	- A ΔP (platô − PEEP) só reflete a distensão pulmonar no paciente **passivo**; com esforço inspiratório, o número da tela subestima o estresse real.
+- **ART (JAMA 2017) — o estudo brasileiro que o card cita:** 1.010 pacientes com SDRA moderada-grave; **manobra de recrutamento + PEEP titulada pela melhor complacência** × PEEP baixo. Mortalidade em 28 dias **55,3% × 49,3%** (HR 1,20; 1,01–1,42); pneumotórax com drenagem **3,2% × 1,2%**; barotrauma **5,6% × 1,6%**. ✅ O card está certo — e este é o ensaio que sustenta a recomendação **forte contra** recrutamento prolongado.
+- **PEEP alto — o corpo desta nota está desatualizado num ponto:** a **ATS 2024 sugere PEEP mais alto, sem manobra de recrutamento, na SDRA moderada-grave** (condicional, certeza baixa a moderada; mortalidade RR 0,77 em metanálise em rede de 4 ensaios/1.162 pacientes). Na **leve** houve sinal de **possível dano** (RR ajustado 1,29; 0,91–1,83) e não há recomendação. A ESICM 2023 continua sem recomendar nenhum dos dois. Na prática: na moderada-grave, inclinar para a escada de **PEEP mais alto**, sem manobras.
+- **Recrutamento prolongado** (> 35 cmH₂O por > 60 s): ATS 2024 **contra, forte** — mortalidade RR 1,37 (1,04–1,81). Manobras breves e PEEP guiado por pressão esofágica: sem consenso.
+- ⚠️ **Card: "a maior preocupação é o barotrauma".** Impreciso: a preocupação é a **lesão induzida pelo ventilador inteira**, em que o **volutrauma** é o mecanismo dominante; o barotrauma (vazamento de ar) é só a face visível. Card: "geralmente se faz PCV para evitar barotrauma" — já corrigido acima: o modo não protege (o próprio ART ventilou todos em volume assistido-controlado).
+
+**Relevância clínica:** a frase "pense em pressão, não em volume" soa moderna e leva ao erro clássico — volume corrente alto escondido atrás de uma ΔP aceitável num pulmão que acabou de recrutar. Primeiro o volume por peso predito; depois platô e ΔP.
+**Fonte:** Amato MBP, Meade MO, Slutsky AS, et al. Driving pressure and survival in the acute respiratory distress syndrome. N Engl J Med. 2015;372(8):747-55. PMID 25693014 — https://doi.org/10.1056/NEJMsa1410639 · Writing Group for the ART Investigators (Cavalcanti AB et al.). JAMA. 2017;318(14):1335-1345. PMID 28973363 — https://doi.org/10.1001/jama.2017.14171 · Qadir N et al. (ATS 2024). Am J Respir Crit Care Med. 2024;209(1):24-36. PMID 38032683 — https://doi.org/10.1164/rccm.202311-2011ST
+
+---

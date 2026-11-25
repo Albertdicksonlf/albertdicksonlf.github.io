@@ -83,3 +83,35 @@ tipo de exame: null
 ### ➕ Novas Anotações / Insights
 *- Nota criada em 2026-08-23 a partir de `Patologias do Cotovelo - Aula` + `Patologias do Cotovelo - Anotações` (Osler).*
 -
+
+---
+
+### 🔗 Dor no cotovelo APÓS TRAUMA: quatro fraturas e um achado que salva o diagnóstico
+**Data:** 2026-11-15
+**Contexto:** [[Abordagem da Suspeita de Fratura no Membro Superior]] · [[Sinal da Vela]] — rodada de Fraturas de Membro Superior
+
+**Características específicas** — o mecanismo e o achado de exame roteiam:
+
+| Pista | Diagnóstico mais provável |
+|---|---|
+| **Queda sobre a mão estendida** (carga axial pelo rádio contra o capítulo) | [[Fratura de Cabeça e Colo do Rádio]] — **cabeça** no adulto (~45 anos), **colo** na criança |
+| **Queda sobre o olécrano**, com **perda da extensão ATIVA** do cotovelo | [[Fratura de Olécrano]] |
+| Alta energia, edema volumoso, deformidade, bloqueio completo | [[Fratura de Úmero Distal]] |
+| Relato de "**o cotovelo saiu e voltou**", sensação de instabilidade | [[Fratura do Processo Coronoide]] (luxação que reduziu espontaneamente) |
+
+**⭐ O achado que mais rende: [[Sinal da Vela]].**
+Almofada de gordura **posterior** visível no perfil do cotovelo = **derrame articular** = **fratura oculta até prova em contrário**. Em alguns casos é o **único** sinal de fratura não desviada da cabeça do rádio. Diante dele, com radiografia "normal": imobilizar, pedir a **incidência de Greenspan** (radiocapitular, 45° cefálico, cotovelo neutro) e reavaliar — ver [[Radiografia de Cotovelo]].
+
+**Duas armadilhas de semiologia:**
+1. **"Bloqueio mecânico" na fase aguda é quase sempre hemartrose dolorosa**, não fragmento ósseo travando a rotação. Reavaliar após analgesia antes de concluir.
+2. **Perda da extensão do cotovelo deve ser testada SEM gravidade** — braço apoiado em superfície, abduzido, cotovelo levemente fletido. Com o braço pendente, a gravidade completa a extensão e produz **falso-negativo**.
+
+**Nervos por estrutura acometida:**
+- **Olécrano → ulnar** ("sinal da paz" com resistência + sensibilidade do 4º e 5º dedos)
+- **Cabeça do rádio → interósseo posterior** (extensão do polegar)
+- **Úmero distal → mediano e ulnar**, em até **25%** dos casos
+
+**Relevância clínica:** o cotovelo é a articulação do corpo que **rigidifica mais rápido**, e a fratura que mais se perde no membro superior é a fratura **oculta** do cotovelo. As duas coisas somadas significam que uma radiografia "normal" com sinal da vela não autoriza alta sem imobilização e reavaliação — e que, confirmada a fratura estável, **mobilização precoce é tratamento**, não reabilitação tardia.
+**Fonte:** Carter TH, Molyneux SG, Reid JT, White TO, Duckworth AD. JBJS Essent Surg Tech. 2018;8(3):e22. PMID 30588367 — https://doi.org/10.2106/JBJS.ST.17.00071 · Conhecimento consolidado (classificações de Mason, Mayo, Milch e Regan-Morrey; semiologia do sinal da vela; técnica do teste de extensão sem gravidade; incidência de Greenspan)
+
+---

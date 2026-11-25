@@ -22,7 +22,7 @@ tipo de exame: ""
 - **Sinais de mielopatia (o alarme #1):** alteração de marcha, perda de **destreza fina das mãos**, hiperreflexia/Babinski/Hoffmann, disfunção esfincteriana → [[Mielopatia]] / [[Compressão Medular]].
 - **Trauma cervical** (whiplash, mergulho em água rasa) → [[Trauma Raquimedular (TRM)]]; artrite reumatoide com instabilidade atlanto-axial.
 - **Dor nova em > 50 anos**, síndrome consumptiva ou história de câncer (→ metástase).
-- **Febre / drogas injetáveis / imunossupressão** (→ espondilodiscite cervical).
+- **Febre / drogas injetáveis / imunossupressão** (→ [[Espondilodiscite|espondilodiscite cervical]] / [[Abscesso Epidural Espinhal|abscesso epidural]]).
 - **Dor + rigidez de nuca + febre/fotofobia** → [[Meningite Aguda]]; **cefaleia súbita ("thunderclap") + rigidez de nuca** → [[Hemorragia Subaracnóidea]].
 - **Dor cervical/occipital súbita** + [[Síndrome de Horner|Horner]] ou sintomas de fossa posterior → suspeitar **dissecção arterial vertebral** ([[AVC de Circulação Posterior]]).
 

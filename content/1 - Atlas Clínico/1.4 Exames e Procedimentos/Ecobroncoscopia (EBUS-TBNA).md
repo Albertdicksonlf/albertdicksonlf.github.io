@@ -6,16 +6,16 @@ date: 2026-09-27T11:30:00
   - Cirurgia
 tipo: Exame
 tipo de exame: Procedimento
-tipo de doença: 
+tipo de doença:
 classe de medicamentos:
-prevalência: 
+prevalência:
 aliases:
   - EBUS
   - EBUS-TBNA
   - Ultrassom endobrônquico
   - Punção transbrônquica guiada por ultrassom
   - Endobronchial ultrasound
-card: 
+card:
 ---
 
 # Ecobroncoscopia (EBUS-TBNA)
@@ -110,3 +110,18 @@ card:
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
 -
+
+### 🔗 EBUS fora do câncer de pulmão: a massa do mediastino médio
+**Data:** 2026-11-13
+**Contexto:** [[Abordagem da Massa Mediastinal]] · [[Compartimentos do Mediastino (ITMIG)]]
+
+**Características específicas:**
+- É a via preferencial para **biopsiar lesões do compartimento visceral (médio)** — linfonodomegalia paratraqueal, subcarinal e hilar —, onde a agulha percutânea esbarra nos grandes vasos.
+- **Não alcança o compartimento pré-vascular** (timo, massas anteriores): lá a via é a biópsia percutânea guiada por TC ou a mediastinotomia.
+- **Limite no linfoma:** a aspiração por agulha fina (21–22G) costuma bastar para carcinoma metastático, mas o **linfoma — sobretudo o Hodgkin — precisa da arquitetura do linfonodo**; na maior série prospectiva (Moonim 2013, 100 casos), o EBUS-TBNA teve **sensibilidade 89% e especificidade 97%** para linfoma mediastinal e bastou para o manejo em **84%**, mas a sensibilidade para **subtipar o Hodgkin caiu para 79%**. Amostra com citometria de fluxo, agulha mais calibrosa ou **criobiópsia mediastinal** aumentam o rendimento; se inconclusivo, escalar para core/excisional.
+- **Não puncionar cisto de duplicação** (broncogênico/esofágico) "para esclarecer": risco de infecção e mediastinite.
+
+**Relevância clínica:** EBUS negativo ou "células linfoides atípicas" numa massa com sintomas B não encerra a investigação — pede tecido maior.
+**Fonte:** Ackman JB et al. ACR Appropriateness Criteria Imaging of Mediastinal Masses. J Am Coll Radiol. 2021;18(5S):S37-S51 (PMID 33958117); Moonim MT et al. Diagnosis and subtyping of de novo and relapsed mediastinal lymphomas by endobronchial ultrasound needle aspiration. Am J Respir Crit Care Med. 2013;188(10):1216-23 (PMID 24047336).
+
+---

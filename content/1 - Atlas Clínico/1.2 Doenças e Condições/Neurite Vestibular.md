@@ -22,7 +22,7 @@ card:
 - **Mecanismo Basal:** Acredita-se que seja uma reativação do vírus herpes simplex tipo 1 (HSV-1) latente no gânglio vestibular. A inflamação resultante causa uma hipofunção súbita e unilateral do nervo vestibular, criando uma assimetria aguda de sinais que o cérebro interpreta como movimento contínuo (vertigem).
 - **Classificação:**
     - **Neurite Vestibular:** Afeta apenas o ramo vestibular do oitavo par craniano. Não há sintomas auditivos.
-    - **[[Labirintite]]**: Afeta tanto o ramo vestibular quanto o coclear. É, essencialmente, uma neurite vestibular acompanhada de perda auditiva neurossensorial súbita e/ou zumbido.
+    - **[[Labirintite]]**: Afeta tanto o ramo vestibular quanto o coclear. É, essencialmente, uma xneurite vestibular acompanhada de perda auditiva neurossensorial súbita e/ou zumbido.
 
 ## 🤒 Apresentação Clínica
 - **Quadro Típico:** O paciente acorda com vertigem rotatória intensa ou a desenvolve rapidamente ao longo de minutos. A vertigem é contínua, piora drasticamente com qualquer movimento da cabeça e é acompanhada por náuseas, vômitos e [[Desequilíbrio]] (com tendência de queda para o lado do nervo inflamado).

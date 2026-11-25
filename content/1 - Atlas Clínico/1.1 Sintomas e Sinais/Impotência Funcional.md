@@ -59,6 +59,7 @@ card:
 ## 🔗 Conexões com Guias de Raciocínio
 
 - [[Abordagem do Trauma de Membro]]
+- [[Abordagem da Claudicação e Recusa de Deambular na Criança]] — a criança que não apoia o peso, sem trauma
 - [[Abordagem da Fraqueza]]
 - [[Abordagem da Dor no Ombro]]
 - [[Abordagem da Dor no Pé e Tornozelo]]
@@ -92,7 +93,7 @@ A nota nasceu inteira no **trauma** — as três vias (mecânica, antálgica, ne
 - **O exame físico do quadril engana por anatomia.** O quadril é profundo: não há edema, eritema nem flutuação para ver, e a radiografia **frequentemente perde o derrame** (ESPID 2017). Daí a [[Ultrassonografia Articular|ultrassonografia]] à beira do leito e o escore.
 - **No lactente, a queixa é ainda mais pobre:** recém-nascidos e lactentes **raramente fazem leucocitose** e podem ter sinais mínimos (Iliadis & Ramachandran 2017) — a pseudoparalisia do membro pode ser o único achado.
 - **A outra ponta do diferencial é oncológica e hematológica:** [[Leucemias Agudas|leucemia aguda]] (dor óssea na criança + citopenias) e [[Sarcoma de Ewing|Ewing]], que imita osteomielite com dor, febre e marcadores altos. Roteiro em [[Abordagem da Lesão Óssea Focal]].
-- **Texto puro (sem nota no vault):** sinovite transitória do quadril, Legg-Calvé-Perthes, epifisiólise femoral proximal e artrite idiopática juvenil — eixos da anotação "Ortopedia Infantil", ainda não processada.
+- ~~**Texto puro (sem nota no vault):** sinovite transitória do quadril, Legg-Calvé-Perthes, epifisiólise femoral proximal e artrite idiopática juvenil — eixos da anotação "Ortopedia Infantil", ainda não processada.~~ ✅ **Fechado em 2026-11-11:** [[Sinovite Transitória do Quadril]], [[Doença de Legg-Calvé-Perthes]] e [[Epifisiólise Proximal do Fêmur (EPF)]] agora existem; o roteiro completo da criança que manca ou não apoia está em [[Abordagem da Claudicação e Recusa de Deambular na Criança]]. Artrite idiopática juvenil segue sem nota (a anotação não a cobria).
 
 **Relevância clínica:** no adulto, a pergunta que a impotência funcional abre é *"fraturou?"*. **Na criança sem trauma, é *"infectou?"*** — e o desenlace de errar é um quadril destruído, não uma consolidação viciosa. A conduta não espera: punção articular antes do antibiótico.
 **Fonte:** ESPID 2017 — Saavedra-Lozano J et al. Pediatr Infect Dis J. 2017;36(8):788-799. PMID 28708801 — https://doi.org/10.1097/INF.0000000000001635 · Kocher MS, Zurakowski D, Kasser JR. J Bone Joint Surg Am. 1999;81(12):1662-70. PMID 10608376 — https://doi.org/10.2106/00004623-199912000-00002 · Iliadis AD, Ramachandran M. EFORT Open Rev. 2017;2(1):7-12. PMID 28607765 — https://doi.org/10.1302/2058-5241.2.160027 *(citações confirmadas no PubMed)*

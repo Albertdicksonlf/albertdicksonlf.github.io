@@ -5,16 +5,16 @@ date: 2026-09-27T16:45:00
   - Terapia Intensiva
   - Medicina de Emergência
 tipo: Achado-Pivô
-tipo de exame: 
-tipo de doença: 
+tipo de exame:
+tipo de doença:
 classe de medicamentos:
-prevalência: 
+prevalência:
 aliases:
   - Gradiente A-a
   - Gradiente Alvéolo-Arterial de Oxigênio
   - P(A-a)O2
   - Diferença Alvéolo-Arterial
-card: 
+card:
 ---
 
 # Gradiente Alvéolo-Arterial (A-a)
@@ -109,3 +109,19 @@ card:
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
 -
+
+### 🔗 Três armadilhas de mecanismo (e um atalho que não serve em Natal)
+**Data:** 2026-11-13
+**Contexto:** [[Abordagem da Hipoxemia]] · [[Hipóxia]] · [[Tromboembolismo Pulmonar (TEP)]] — processamento de `Insuficiencia respiratória Aguda - Anotações` (deck da Osler sobre medidas de oxigenação e mecanismos de hipoxemia)
+
+**Características específicas:**
+1. ❌ **Card: "a redução da PiO₂ prejudica a difusão ao reduzir o gradiente alvéolo-arterial".** Confunde duas coisas com o mesmo nome. Na altitude cai a **pressão motriz** da difusão (PAO₂ − PO₂ do sangue venoso que chega ao capilar); a **diferença A-a** (PAO₂ − PaO₂) permanece **normal**, porque PAO₂ e PaO₂ caem juntas. É exatamente por isso que a baixa PO₂ inspirada está na linha "gradiente normal" da tabela acima. A própria revisão do Lung India chama o termo de impróprio: o correto seria **diferença** alvéolo-arterial, já que ela não é um gradiente de difusão.
+2. ⚠️ **Card: TEP → "área ventilada e mal perfundida → espaço morto" como explicação da hipoxemia. Incompleto.** A unidade de V/Q alto quase não altera a oxigenação; o que derruba a PaO₂ é o sangue **desviado** dela para o pulmão restante, que fica **superperfundido → V/Q baixo**, somado a atelectasia, queda do débito e, às vezes, shunt por forame oval aberto. O espaço morto em si cobra outro preço: mais ventilação-minuto para lavar o CO₂. Por isso a linha "espaço morto — TEP" da tabela acima deve ser lida como **efeito de redistribuição**.
+	- **Números que justificam o "gradiente normal não exclui TEP":** numa série, **25%** dos pacientes com TEP sem doença cardiopulmonar prévia tinham **PaO₂ > 80 mmHg**, e **12% de 280** tinham gradiente A-a **< 20 mmHg** (Stein, citado em Sarkar 2017).
+3. ❌ **Card: "aumento da extração tecidual → PAO₂ normal e PaO₂ baixa, mesmo com troca alveolar perfeita".** Em pulmão normal, o sangue capilar equilibra com o gás alveolar — há folga no tempo de trânsito (ver [[Hipoxemia]]) — e uma SvO₂ baixa é corrigida na passagem. O sangue venoso pobre só derruba a PaO₂ quando parte dele passa **sem trocar** (shunt, V/Q baixo) e se mistura ao arterial. É um **amplificador** de hipoxemia preexistente, não um mecanismo que funciona sozinho. No choque cardiogênico com congestão pulmonar, o débito baixo piora um shunt que já existia.
+- **Atalho do card para São Paulo — "GAA ≈ 130 − (PaO₂ + PaCO₂)" — não use em Natal.** Ele embute a pressão barométrica de ~760 m de altitude e simplifica o quociente respiratório para 1. Ao nível do mar, fique com o desta nota: **PAO₂ ≈ 150 − 1,25 × PaCO₂**. Com PaCO₂ 40 a diferença é pequena; no hipercápnico, cresce.
+
+**Relevância clínica:** as três armadilhas têm a mesma raiz — atribuir hipoxemia a um processo que não mexe na passagem do oxigênio para o sangue que efetivamente troca. Perguntar "onde está o sangue que não está trocando?" resolve as três.
+**Fonte:** Sarkar M, Niranjan N, Banyal PK. Mechanisms of hypoxemia. Lung India. 2017;34(1):47-60. PMID 28144061 — https://doi.org/10.4103/0970-2113.197116 (texto integral via PMC: unidade de V/Q alto no TEP, desvio de fluxo para regiões de V/Q baixo, dados de Stein). O papel da SvO₂ baixa como amplificador apenas na presença de shunt: **conhecimento consolidado de fisiologia respiratória, sem diretriz aberta**.
+
+---

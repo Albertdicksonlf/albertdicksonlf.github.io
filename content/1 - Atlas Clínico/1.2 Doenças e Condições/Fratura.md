@@ -294,3 +294,38 @@ Modalidades: [[Redução Aberta e Fixação Interna (RAFI)]] (estabilidade absol
 **Fonte:** Meinberg EG, Agel J, Roberts CS, Karam MD, Kellam JF. Fracture and Dislocation Classification Compendium—2018. J Orthop Trauma. 2018;32 Suppl 1:S1–S170. PMID 29256945 — https://doi.org/10.1097/BOT.0000000000001063 · Vaccaro AR, Oner C, Kepler CK et al. AOSpine thoracolumbar spine injury classification system. Spine. 2013;38(23):2028–2037. PMID 23970107 — https://doi.org/10.1097/BRS.0b013e3182a8a381 · Conhecimento consolidado (mecanismo direto/indireto, fraturas incompletas da criança, componentes do desvio)
 
 ---
+
+---
+
+### 🔗 Bloco das fraturas do MEMBRO SUPERIOR: a idade entrou na decisão cirúrgica
+**Data:** 2026-11-15
+**Contexto:** [[Abordagem da Suspeita de Fratura no Membro Superior]] · [[Fratura de Rádio Distal]] · [[Fratura de Úmero Proximal]] — rodada de Fraturas de Membro Superior
+
+**O que o bloco acrescenta aos princípios gerais desta nota:**
+
+**1. ⭐⭐ As indicações cirúrgicas gerais listadas acima (instabilidade, desvio importante, traço intra-articular, exposta, falha do conservador) são NECESSÁRIAS mas já não são SUFICIENTES — a evidência recente acrescentou a IDADE como modificador, com recomendação forte:**
+- **Rádio distal, ≥ 65 anos:** a AAOS/ASSH 2020 tem recomendação **FORTE** de que o tratamento operatório **NÃO melhora** os desfechos relatados pelo paciente a longo prazo
+- **Úmero proximal desviado do colo cirúrgico:** o **PROFHER** (250 pacientes, idade média 66 anos) não encontrou diferença no Oxford Shoulder Score em 2 anos entre cirurgia e **tipoia** — diferença de 0,75 ponto, contra 5 de diferença mínima clinicamente importante
+- **Olécrano no idoso de baixa demanda:** o manejo não operatório é opção aceitável mesmo em fratura **desviada**
+- ⚠️ **A distinção conceitual que isso força:** critérios que predizem **perda de redução radiográfica** (como os de **Lafontaine**, no rádio distal) **não** são, por si, indicação cirúrgica. Eles predizem que **o osso vai se desviar** — não que o paciente vai ficar pior. **Radiografia não é desfecho.**
+
+**2. Mas o sentido inverso também existe — não há regra única por idade:**
+- **Clavícula diafisária média desviada do adulto:** a **AAOS 2023** passou a recomendar o tratamento cirúrgico (**FORTE**), por **maior taxa de união** e melhores desfechos relatados **precoces**. Isso **inverteu** a leitura anterior, de que a cirurgia não era superior
+- **Cada osso tem a sua evidência.** Generalizar "idoso não opera" é tão errado quanto generalizar "desviado opera"
+
+**3. O preço do tratamento conservador precisa ser declarado ao paciente:**
+- **Diáfise umeral com brace funcional (FISH, JAMA 2020):** **~25% de pseudoartrose** ([[Pseudoartrose]]) e **30% de conversão** para cirurgia em 12 meses — sem diferença funcional no DASH. O conservador segue sendo a escolha inicial, mas com esse número na mesa
+- **Úmero distal com tratamento conservador:** taxa de complicação de **~60%** — é a fratura do membro superior em que a **maioria é cirúrgica** ([[Fratura de Úmero Distal]])
+
+**4. Dois princípios mecânicos que generalizam para fora do membro superior:**
+- **Anel acoplado:** quando dois ossos são unidos por articulações nas extremidades e por membrana interóssea no corpo, **a falha de um obriga o outro a ceder em algum ponto** — e o corolário cirúrgico é que **reduzir anatomicamente o osso reduz a articulação luxada**. Ver [[Fratura de Monteggia]] e [[Fratura de Galeazzi]]
+- **Tolerância ao desvio é inversa à função rotatória do segmento:** o úmero (suspenso) tolera 20° de angulação AP e 3 cm de encurtamento; o antebraço (mecanismo de rotação) tolera pouquíssimo. A mesma angulação tem consequências opostas
+
+**5. Dois achados-pivô novos, que são aplicações dos princípios gerais desta nota:**
+- **[[Elevação da Pele (Skin Tenting)]]** — operacionaliza a red flag "integridade da pele ao redor do foco" já citada acima: pele tensa e pálida sobre fragmento = **cirurgia de urgência**, porque a cobertura cutânea tem prazo
+- **[[Sinal da Vela]]** — é o equivalente do cotovelo à regra "radiografia normal não descarta" já registrada aqui para escafoide e colo do fêmur
+
+**Relevância clínica:** a seção "Intervenção Cirúrgica" desta nota lista os critérios **do osso**. O bloco do membro superior mostra que a decisão moderna soma a esses critérios o **paciente** (idade, demanda funcional) e o **preço declarado de cada opção**. É a diferença entre tratar a radiografia e tratar a pessoa.
+**Fonte:** AAOS/ASSH 2020 — *Management of Distal Radius Fractures* — https://www.aaos.org/globalassets/quality-and-practice-resources/distal-radius/distal-radius-fractures-10-13-2020.pdf · AAOS 2023 — *Treatment of Clavicle Fractures* — https://aaos.org/aaos-home/newsroom/press-releases/fact-sheet-cpg-for-the-treatment-of-clavicle-fractures · Rangan A, Handoll H, Brealey S, et al. JAMA. 2015;313(10):1037-47. PMID 25756440 — https://doi.org/10.1001/jama.2015.1629 · Rämö L, Sumrein BO, Lepola V, et al. JAMA. 2020;323(18):1792-1801. PMID 32396179 — https://doi.org/10.1001/jama.2020.3182 · Carter TH, Molyneux SG, Reid JT, White TO, Duckworth AD. JBJS Essent Surg Tech. 2018;8(3):e22. PMID 30588367 — https://doi.org/10.2106/JBJS.ST.17.00071
+
+---

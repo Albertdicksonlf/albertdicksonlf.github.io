@@ -88,3 +88,32 @@ Esta nota já registra a base neuroanatômica (convergência do nervo frênico, 
 - **Valor bayesiano:** específico, não sensível — a ausência não afasta lesão de víscera sólida
 
 **Fonte deste bloco:** processamento de `Trauma Abdominal - Anotações` (Osler), 2026-09-19. Não foi localizado estudo de acurácia que quantifique o sinal — ver a ressalva registrada em [[Sinal de Kehr]].
+
+---
+
+### 🔗 Dor no ombro APÓS TRAUMA: as duas fraturas que abrem o diferencial
+**Data:** 2026-11-15
+**Contexto:** [[Abordagem da Suspeita de Fratura no Membro Superior]] · [[Fratura de Clavícula]] · [[Fratura de Úmero Proximal]] — rodada de Fraturas de Membro Superior
+
+**Características específicas** — o mecanismo separa as duas:
+
+| Pista da anamnese | Diagnóstico mais provável |
+|---|---|
+| **Queda sobre o OMBRO** (90% dos casos dessa fratura); ciclista, esportista jovem | [[Fratura de Clavícula]] |
+| **Queda da própria altura**, mulher idosa, braço mantido em **adução** e sustentado pela mão contralateral | [[Fratura de Úmero Proximal]] |
+| Trauma + braço em abdução e rotação externa, deformidade do contorno do ombro | [[Luxação Glenoumeral]] |
+
+**Achados de exame que mudam a conduta imediatamente:**
+- ⚠️⚠️ **[[Elevação da Pele (Skin Tenting)]]** — pele tensa e pálida sobre a clavícula = **cirurgia de URGÊNCIA** (necrose cutânea iminente)
+- **Fraqueza do deltoide + hipoestesia na face lateral do ombro** → lesão do **nervo axilar**
+- **Incapacidade de iniciar a abdução ou de fazer rotação externa** → lesão do **nervo supraescapular**
+- Em trauma de alta energia, avaliar **via aérea e ventilação**: a clavícula é vizinha da cúpula pleural ([[Pneumotórax]], [[Hemotórax]])
+
+**Imagem — o ombro exige mais do que duas incidências:**
+- Clavícula: [[Radiografia de Ombro]] **AP**; se a suspeita é de **terço distal**, acrescentar **oblíqua (15–45° cefálica)** e, se preciso, **com estresse mecânico (~4,5 kg em cada mão)** — o terço distal pode parecer **normal** na AP
+- Úmero proximal: **três** incidências — **AP verdadeira + axilar + escapular em "Y"**. A **axilar** é a que mostra a relação cabeça–glenoide e a que mais se deixa de pedir
+
+**Relevância clínica:** a dor no ombro pós-traumática tem uma pergunta de triagem anterior ao diagnóstico — **há elevação da pele?** Se há, a conduta é cirúrgica de urgência antes de qualquer refinamento diagnóstico. Fora disso, o **mecanismo** (sobre o ombro × da própria altura) já roteia para a clavícula ou para o úmero proximal com boa probabilidade pré-teste.
+**Fonte:** AAOS 2023 — *Treatment of Clavicle Fractures* — https://aaos.org/aaos-home/newsroom/press-releases/fact-sheet-cpg-for-the-treatment-of-clavicle-fractures · PROFHER, Rangan A et al. JAMA. 2015;313(10):1037-47. PMID 25756440 — https://doi.org/10.1001/jama.2015.1629 · Conhecimento consolidado (incidências radiográficas por segmento, correlação mecanismo → diagnóstico, territórios dos nervos axilar e supraescapular)
+
+---

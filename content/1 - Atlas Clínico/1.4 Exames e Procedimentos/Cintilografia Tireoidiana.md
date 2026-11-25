@@ -49,3 +49,22 @@ aliases:
 ---
 
 **Resumindo:** Continue exatamente com essa linha de pensamento. Toda vez que um exame, procedimento ou fármaco importante aparecer em uma nota de doença, ele merece se tornar sua própria nota detalhada na pasta correspondente. É assim que você constrói um Atlas Clínico verdadeiramente robusto e interligado.
+
+---
+
+### ➕ Novas Anotações / Insights
+
+### 🔗 Cintilografia no bócio mergulhante: iodo, não tecnécio
+**Data:** 2026-11-13
+**Contexto:** [[Bócio Mergulhante]] · [[Abordagem da Massa Mediastinal]]
+
+**Características específicas:**
+- Para confirmar que uma massa mediastinal é tecido tireoidiano, o **¹²³I é preferível ao ⁹⁹ᵐTc**: maior relação alvo/fundo, maior especificidade tecidual e **menos atividade de *pool* sanguíneo** — no mediastino, o fundo dos grandes vasos e do coração apaga a captação do tecnécio.
+- **Cintilografia negativa não exclui** bócio intratorácico pouco funcionante.
+- Na maioria dos casos, a **TC mostrando continuidade com a tireoide cervical** já fecha o diagnóstico e dispensa a cintilografia.
+- ⚠️ Correção ao deck da Osler (Tumores Mediastinais), que apontava "cintilografia com tecnécio" como o exame que confirma o tecido tireoidiano.
+
+**Relevância clínica:** cintilografia com tecnécio "fria" no tórax não afasta bócio mergulhante.
+**Fonte:** Kristensen MH et al. Intrathoracic Goiter Visualized on iodine-123 and technetium-99m SPECT/CT. World J Nucl Med. 2021;20(4):377-378 (PMID 35018154).
+
+---

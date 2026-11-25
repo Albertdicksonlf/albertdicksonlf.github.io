@@ -287,3 +287,19 @@ Na prática brasileira, [[Dipirona]] é amplamente usada como analgésico simple
 - Kolasinski SL, et al. 2019 ACR/AF Guideline. Arthritis Rheumatol. 2020;72(2):220-233. PMID 31908163
 - McAlindon TE, et al. JAMA. 2017;317(19):1967-1975. PMID 28510679
 - Brophy RH, Fillingham YA. AAOS CPG Summary: Management of Osteoarthritis of the Knee (Nonarthroplasty), 3rd ed. J Am Acad Orthop Surg. 2022;30(9):e721-e729. PMID 35383651
+
+---
+
+### 🔗 Coxartrose do adulto jovem — a infância que não foi diagnosticada
+**Data:** 2026-11-11
+**Contexto:** anotação "Ortopedia Infantil" (3.3) → [[Displasia do Desenvolvimento do Quadril (DDQ)]] · [[Epifisiólise Proximal do Fêmur (EPF)]] · [[Doença de Legg-Calvé-Perthes]]
+
+A tabela de fatores de risco acima cita "displasia de quadril" e "impacto femoroacetabular" como causas mecânicas locais. Elas têm nome e idade de origem — e quase sempre começam na criança.
+
+**Características específicas:**
+- **[[Displasia do Desenvolvimento do Quadril (DDQ)|DDQ]]:** acetábulo raso concentra carga numa área pequena → artrose precoce. É a **causa mais comum de artrose do quadril em mulheres com menos de 40 anos** e responde por **5–10% das artroplastias totais de quadril** nos EUA (AAP 2016). A displasia **sem luxação** é silenciosa até a adolescência ou idade adulta.
+- **[[Epifisiólise Proximal do Fêmur (EPF)|Epifisiólise]]:** o colo deslocado deixa deformidade *cam* → **impacto femoroacetabular** nos primeiros 10 anos após o tratamento → lesão labral e condral → artrose (AFP 2017). Discute-se que parte das "artroses primárias" do adulto jovem seja epifisiólise **não reconhecida** na adolescência. [[Sinal de Drehmann]] persistente é o marcador clínico do impacto (Kamegaya 2011).
+- **[[Doença de Legg-Calvé-Perthes|Perthes]]:** cabeça que consolida achatada e incongruente → artrose; o risco depende da idade de início e do pilar lateral (Herring 2004).
+
+**Relevância clínica:** diante de **artrose de quadril em adulto jovem**, perguntar por "problema de quadril na infância", claudicação na adolescência e tratamento com órtese ou gesso no primeiro ano de vida. A artrose aqui é **secundária** — e o tratamento conservador desta nota vale, mas a discussão cirúrgica (osteotomias de preservação × [[Artroplastia]]) muda.
+**Fonte:** Shaw BA, Segal LS (AAP). Pediatrics. 2016;138(6):e20163107. PMID 27940740 — https://doi.org/10.1542/peds.2016-3107 · Peck DM et al. Am Fam Physician. 2017;95(12):779-784. PMID 28671425 · Kamegaya M et al. J Pediatr Orthop. 2011;31(8):853-7. PMID 22101663 — https://doi.org/10.1097/BPO.0b013e31822ed320 · Herring JA et al. J Bone Joint Surg Am. 2004;86(10):2121-34. PMID 15466720 *(citações confirmadas no PubMed)*

@@ -21,7 +21,7 @@ card:
 # Critérios de Kocher
 
 > [!abstract] O que é?
-> Regra de predição clínica com **quatro variáveis**, criada para separar [[Artrite Séptica|artrite séptica]] de **sinovite transitória** no **quadril da criança com quadril agudamente irritável**. Não é teste, não é manobra e **não substitui a punção articular** — é um calibrador de probabilidade pré-teste que diz com que pressa ir atrás do líquido sinovial.
+> Regra de predição clínica com **quatro variáveis**, criada para separar [[Artrite Séptica|artrite séptica]] de [[Sinovite Transitória do Quadril|sinovite transitória]] no **quadril da criança com quadril agudamente irritável**. Não é teste, não é manobra e **não substitui a punção articular** — é um calibrador de probabilidade pré-teste que diz com que pressa ir atrás do líquido sinovial.
 
 > [!danger] O que ela NÃO é
 > Kocher **não autoriza esperar**. Mesmo com 1 critério (3%), a artrite séptica é diagnóstico que destrói cartilagem; o escore serve para **priorizar e justificar a artrocentese**, nunca para dispensá-la. A própria revisão da EFORT 2017 afirma que nenhum exame isolado, **incluindo a punção**, é suficientemente confiável, e que algoritmos devem **complementar e não substituir** a decisão clínica.
@@ -70,7 +70,7 @@ card:
 
 | Faixa | Leitura | Ação |
 |---|---|---|
-| 0–1 critério | Probabilidade baixa | Sinovite transitória é a hipótese principal — **reavaliação programada e curta**; puncionar se houver derrame significativo ou dúvida |
+| 0–1 critério | Probabilidade baixa | [[Sinovite Transitória do Quadril\|Sinovite transitória]] é a hipótese principal — **reavaliação programada e curta**; puncionar se houver derrame significativo ou dúvida |
 | 2 critérios | **Zona cinzenta (40%)** | É aqui que o escore não decide nada: [[Ultrassonografia Articular\|ultrassonografia]] para derrame e **artrocentese** |
 | 3–4 critérios | Probabilidade alta | **Artrocentese imediata** ([[Análise do Líquido Sinovial]]) + [[Hemocultura]] antes do antibiótico; cirurgia (ver [[Artrotomia]] / [[Artroscopia]]) conforme o achado |
 
@@ -115,5 +115,6 @@ card:
 
 ### ➕ Novas Anotações / Insights
 *- Nota criada em 2026-11-08 a partir da aula "Infecções Osteoarticulares" (3.1), que citava os critérios sem enunciá-los.*
-*- Texto puro proposital (sem nota no vault): sinovite transitória do quadril, Legg-Calvé-Perthes, epifisiólise — material da anotação "Ortopedia Infantil", ainda não processada.*
+*- ~~Texto puro proposital (sem nota no vault): sinovite transitória do quadril, Legg-Calvé-Perthes, epifisiólise — material da anotação "Ortopedia Infantil", ainda não processada.~~*
+*- ✅ **Fechado em 2026-11-11** (rodada "Ortopedia Infantil"): as notas agora existem — [[Sinovite Transitória do Quadril]], [[Doença de Legg-Calvé-Perthes]], [[Epifisiólise Proximal do Fêmur (EPF)]] — e o roteiro do quadril irritável mora em [[Abordagem da Claudicação e Recusa de Deambular na Criança]]. A AFP 2015 (Naranje et al., PMID 26554284) acrescenta a **PCR > 20 mg/L** como quinto preditor: recusa de apoio + PCR > 20 mg/L = 74% de artrite séptica; nenhum dos dois, < 1%.*
 -

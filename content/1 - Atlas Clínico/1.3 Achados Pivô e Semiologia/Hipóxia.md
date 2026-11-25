@@ -84,3 +84,26 @@ Na [[Sepse]] coexistem os tipos 3 e 4 (má distribuição de fluxo + disfunção
 
 **Fontes:** StatPearls — *Hypoxia and Hypoxemia*; *Mechanisms of hypoxemia* (Lung India, 2017)
 -
+
+### 🔗 As equações de oferta e consumo, as saturações venosas e o relógio do cérebro
+**Data:** 2026-11-13
+**Contexto:** [[Abordagem da Hipóxia Tecidual]] · [[Monitorização Hemodinâmica do Paciente Crítico]] · [[Gradiente Alvéolo-Arterial (A-a)]] — processamento de `Insuficiencia respiratória Aguda - Anotações`
+
+**Características específicas:**
+- **Completando a conta desta nota — o lado do consumo:**
+	- **Oferta:** DO₂ = DC × CaO₂ (já acima). Com CaO₂ normal ≈ **20 mL O₂/dL**, cerca de **98%** dele ligado à hemoglobina.
+	- **Consumo (equação de Fick):** **VO₂ = DC × (CaO₂ − CvO₂)**. O tecido "cobra" a diferença arteriovenosa.
+	- **Extração:** quando a oferta cai, o tecido primeiro **extrai mais** (a CvO₂ cai) e mantém o VO₂; só quando a extração chega ao teto o VO₂ passa a depender da oferta — é aí que começa o lactato.
+- **SvO₂ × SvcO₂ — o mesmo raciocínio, dois lugares de coleta:**
+	- **SvO₂ (venosa mista):** colhida na **artéria pulmonar** (cateter de Swan-Ganz) — mistura o retorno do corpo inteiro. Normal **60–80%**.
+	- **SvcO₂ (venosa central):** colhida na **veia cava superior** por cateter jugular ou subclávio — reflete sobretudo cabeça e membros superiores. Normal **> 70%**.
+	- **Baixa** = extração aumentada (débito baixo, anemia grave, hipermetabolismo). **Alta** com lactato alto = o tecido não consegue extrair (histotóxica, sepse avançada). **Na sepse pode estar baixa ou alta** conforme a fase.
+- **O relógio de cada tecido (dado do card, UpToDate consultado pelo Albert):** **cérebro** sofre dano irreversível em **4–6 min** de hipóxia; **músculo esquelético** recupera-se após até **30 min**. É por isso que a hipoxemia grave é tratada com oxigênio **imediatamente**, **em paralelo** à investigação — anotação do Albert ✅ ("o manejo da hipoxemia deve ser concomitante à investigação etiológica").
+- **Anotação do Albert — "encefalopatia hipoxêmica, lembrar de morte encefálica":** o termo consagrado é **encefalopatia hipóxico-isquêmica**, e o cenário típico é o pós-parada cardiorrespiratória, em que se somam hipoxemia e falta de fluxo. A progressão extrema é a [[Morte Encefálica]] — lembrança pertinente.
+- ⚠️ **Terminologia — card: "insuficiência respiratória tipo 1 é definida por hipóxia".** O próprio deck insiste que hipóxia ≠ hipoxemia e depois troca os termos: o tipo 1 é definido por **hipoxemia** (PaO₂ < 60 mmHg). Ver [[Insuficiência Respiratória]].
+- **Correção de mecanismo** ("aumento da extração tecidual alarga o gradiente A-a mesmo com troca perfeita"): ver o bloco de 2026-11-13 em [[Gradiente Alvéolo-Arterial (A-a)]] — a SvO₂ baixa só derruba a PaO₂ quando já há shunt ou V/Q baixo.
+
+**Relevância clínica:** DO₂ diz quanto chega; VO₂ e a saturação venosa dizem quanto o tecido conseguiu usar. Lactato alto com SvcO₂ baixa e com SvcO₂ alta são problemas opostos.
+**Fonte:** valores de SvO₂/SvcO₂, CaO₂ normal e tolerância por tecido: **cards da Osler baseados no UpToDate "Measures of oxygenation and mechanisms of hypoxemia" — fonte consultada pelo Albert, não conferida em diretriz aberta**. Equação de Fick, curva oferta-dependente e terminologia: **conhecimento consolidado de fisiologia**. Sarkar M et al. Lung India. 2017;34(1):47-60. PMID 28144061 (hipóxia × hipoxemia).
+
+---

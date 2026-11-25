@@ -142,3 +142,24 @@ Este guia resolve *por qual mecanismo* falta oxigênio. O passo seguinte — *qu
 **Fonte:** Iolascon A et al. Recommendations for diagnosis and treatment of methemoglobinemia. Am J Hematol. 2021;96(12):1666-1678. PMID 34467556 · Araujo JPN, Vasconcelos JM. Dispneia no Pronto-Socorro. Guia Tá de Clinicagem, jun/2026 — https://www.tadeclinicagem.com.br/guia/594/dispneia-no-pronto-socorro/
 
 ---
+
+### 🔗 Pneumonia corrige ou não corrige com O₂? — e o ramo do shunt anatômico
+**Data:** 2026-11-13
+**Contexto:** [[Gradiente Alvéolo-Arterial (A-a)]] · [[Hipoxemia]] · [[Oximetria de Pulso]] — processamento de `Insuficiencia respiratória Aguda - Anotações`
+
+**Características específicas:**
+- ⚠️ **Conflito entre o card, a anotação do Albert e este guia — resolvido.** O card coloca **pneumonia lobar e atelectasia importante** como "V/Q baixo, parcialmente corrigível com O₂"; o Albert anotou "**corrigível com O₂**"; este guia põe a **consolidação lobar preenchida** no Grupo C (shunt, **não** corrige). Os três descrevem pontos diferentes do mesmo espectro:
+	- **V/Q baixo mas > 0** (alvéolo parcialmente ventilado — broncopneumonia, asma, DPOC): o O₂ suplementar chega ao alvéolo e **corrige**. A anotação do Albert vale aqui.
+	- **V/Q = 0** (alvéolo totalmente preenchido ou colapsado — consolidação lobar densa, atelectasia completa): o O₂ não chega ao sangue que passa ali; **comporta-se como shunt** e **não corrige**.
+	- **Na pneumonia real os dois coexistem**, e a resposta ao O₂ é **parcial** — proporcional à fração de unidades com V/Q > 0. Uma pneumonia lobar que "não responde ao cateter" não é surpresa; é shunt.
+- ❌ **Anotação do Albert — "a PaO₂ é derivada da SaO₂".** É o inverso. A **PaO₂ é medida** diretamente pelo eletrodo do gasômetro; a **SaO₂ depende da PaO₂** pela curva de dissociação da hemoglobina — e, no gasômetro sem co-oxímetro, é **calculada a partir dela**. As correspondências do card são da curva: **SaO₂ 90% ≈ PaO₂ 60**; **SaO₂ 88% ≈ PaO₂ 55**. Perto do joelho da curva, 2 pontos de saturação equivalem a ~5 mmHg de PaO₂.
+- **Gasometria não é rotina no hipoxêmico** (card ✅): reservar para quando a oximetria **falha** (curva ruim, má perfusão), há suspeita de **disemoglobinemia**, ou é preciso calcular **PaO₂/FiO₂** ou o **gradiente A-a** — os dois exigem PaO₂.
+- **Shunt anatômico — como confirmar (Passo 5 do algoritmo):**
+	- Causas: defeitos septais ([[Comunicação Interatrial (CIA)|CIA]], forame oval patente), malformação arteriovenosa pulmonar, síndrome hepatopulmonar na [[Cirrose]].
+	- **Pista de beira de leito — platipneia-ortodeoxia:** dispneia (e queda da saturação) **em pé**, que melhora **deitado**. Sugere shunt que aumenta na posição ortostática (síndrome hepatopulmonar, forame oval).
+	- **[[Ecocardiograma transtorácico]] com microbolhas** (soro agitado): normalmente as bolhas ficam retidas no capilar pulmonar e não chegam ao átrio esquerdo. Se chegam em **até ~3 batimentos** → shunt **intracardíaco**; se chegam **depois de ~5 batimentos** → shunt **intrapulmonar** (MAV, hepatopulmonar).
+
+**Relevância clínica:** "corrige com O₂?" não é sim ou não — é **quanto**. Uma resposta parcial é a assinatura de mistura de V/Q baixo com shunt, e a fração que não responde é a que precisa de PEEP e recrutamento.
+**Fonte:** Sarkar M, Niranjan N, Banyal PK. Mechanisms of hypoxemia. Lung India. 2017;34(1):47-60. PMID 28144061 — https://doi.org/10.4103/0970-2113.197116. Correspondência SaO₂–PaO₂, indicações de gasometria, critério de batimentos do eco com microbolhas e platipneia: **cards da Osler baseados no UpToDate "Measures of oxygenation and mechanisms of hypoxemia" (fonte consultada pelo Albert)** e conhecimento consolidado de fisiologia.
+
+---

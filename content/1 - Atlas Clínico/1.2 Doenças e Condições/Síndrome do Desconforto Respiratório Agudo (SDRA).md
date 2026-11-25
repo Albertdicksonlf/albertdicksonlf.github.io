@@ -5,8 +5,8 @@ date: 2026-11-01T18:58:00
   - Terapia Intensiva
   - Medicina de Emergência
 tipo: Doença
-tipo de exame: 
-tipo de doença: 
+tipo de exame:
+tipo de doença:
 classe de medicamentos:
 prevalência: Comum
 aliases:
@@ -15,7 +15,7 @@ aliases:
   - Síndrome da Angústia Respiratória Aguda
   - ARDS
   - Acute Respiratory Distress Syndrome
-card: 
+card:
 ---
 
 # Síndrome do Desconforto Respiratório Agudo (SDRA)
@@ -190,10 +190,10 @@ card:
 
 ### **3. Resgate na hipoxemia refratária**
 
-- **Bloqueio neuromuscular contínuo:** **recomendação forte contra** o uso **rotineiro** de infusão contínua na SDRA moderada-grave não COVID (ESICM 2023, certeza moderada). Continua sendo opção pontual na assincronia grave que impede ventilação protetora — mas não é mais conduta de protocolo.
+- **Bloqueio neuromuscular contínuo:** **recomendação forte contra** o uso **rotineiro** de infusão contínua na SDRA moderada-grave não COVID (ESICM 2023, certeza moderada). Continua sendo opção pontual na assincronia grave que impede ventilação protetora — mas não é mais conduta de protocolo. **⚠️ Divergência (2026-11-13):** a **ATS 2024 sugere** bloqueio na SDRA **grave precoce** (PaO₂/FiO₂ < 100, < 48 h do início, infusão ≤ 48 h; condicional, certeza baixa) — ver o bloco no fim da nota.
 - **🥈 [[ECMO]] veno-venosa:** na SDRA grave refratária, metanálise de dois ensaios mostra **redução de mortalidade em 60 dias** (RR 0,72; certeza moderada — ESICM 2023, a partir do EOLIA 2018). Exige centro com experiência e ventilação protetora já otimizada antes do encaminhamento.
 - **Óxido nítrico inalado e vasodilatadores pulmonares:** melhoram a oxigenação sem benefício de mortalidade — resgate temporário, não tratamento.
-- **Corticoide sistêmico:** a ESICM 2023 cobre **apenas** definição, fenotipagem e suporte respiratório, **não** farmacoterapia — portanto não há recomendação dela sobre corticoide. A evidência robusta de benefício é na SDRA por [[COVID-19]] (ver [[Dexametasona]]); fora desse contexto o uso permanece individualizado e discutido.
+- **Corticoide sistêmico:** a ESICM 2023 cobre **apenas** definição, fenotipagem e suporte respiratório, **não** farmacoterapia — portanto não há recomendação dela sobre corticoide. A evidência robusta de benefício é na SDRA por [[COVID-19]] (ver [[Dexametasona]]); fora desse contexto o uso permanece individualizado e discutido. **⚠️ Atualizado em 2026-11-13:** a **ATS 2024 sugere corticoide para SDRA** em geral (condicional, certeza moderada; mortalidade RR 0,84) — ver o bloco de enriquecimento no fim da nota e [[Dexametasona]].
 
 ---
 
@@ -208,7 +208,7 @@ card:
 - **Pérola de Prova:** o líquido do edema na SDRA é **rico em proteína** (barreira rompida); no edema cardiogênico é **pobre em proteína** (pressão hidrostática com barreira íntegra).
 - **Pérola de Prova:** SpO₂/FiO₂ ≤ 315 só vale com **SpO₂ ≤ 97%**.
 - **Pérola de Prova:** prona = **≥ 16 h** por sessão, e o gatilho é **PaO₂/FiO₂ < 150**, não "SDRA grave" genérica.
-- **Pérola de Prova (atualização que derruba conduta antiga):** bloqueio neuromuscular contínuo **rotineiro** passou a ter recomendação **contra** (ESICM 2023). Quem decorou "SDRA moderada-grave = curarizar" está desatualizado.
+- **Pérola de Prova (atualização que derruba conduta antiga):** bloqueio neuromuscular contínuo **rotineiro** passou a ter recomendação **contra** (ESICM 2023). Quem decorou "SDRA moderada-grave = curarizar" está desatualizado — a ATS 2024 deixou só um nicho: **grave (P/F < 100) e precoce (< 48 h)**.
 
 ---
 
@@ -231,3 +231,57 @@ card:
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
 -
+
+### 🔗 ATS 2024: o que muda no tratamento farmacológico — e outras peças do free recall
+**Data:** 2026-11-13
+**Contexto:** [[Ventilação Mecânica Protetora]] · [[Posição Prona]] · [[Dexametasona]] · [[ECMO]] — processamento de `Síndrome do Desconforto Respiratório Aguda - Anotações` (par tardio da aula processada em 01/11)
+
+**1. A atualização da ATS 2024 e onde ela diverge da ESICM 2023**
+
+| Intervenção | ATS 2024 | ESICM 2023 |
+|---|---|---|
+| **Corticoide sistêmico** | **Sugere usar** (condicional, certeza moderada). Mortalidade RR 0,84 (IC 95% 0,73–0,96), 17 estudos. Não indica agente, dose nem duração; início **> 2 semanas** após a SDRA pode ser deletério | Fora do escopo (não abordou farmacoterapia) |
+| **Bloqueio neuromuscular** | **Sugere usar na SDRA grave precoce**: PaO₂/FiO₂ **< 100**, **< 48 h** do início, infusão limitada a **48 h** (condicional, certeza baixa). RR 0,74 (0,56–0,98), 7 ECR | **Contra o uso rotineiro** na moderada-grave |
+| **PEEP** | **Sugere PEEP mais alto sem manobra de recrutamento** na moderada-grave (condicional, certeza baixa a moderada). Na leve, **nenhuma recomendação** (sinal de possível dano, RR ajustado 1,29) | Sem recomendação entre alto e baixo |
+| **Recrutamento prolongado** (> 35 cmH₂O por > 60 s) | **Contra** (forte, certeza moderada) — mortalidade RR 1,37 (1,04–1,81) | Contra (forte) |
+| **ECMO veno-venosa** | **Sugere em selecionados com SDRA grave** (condicional, certeza baixa). RR 0,76 (0,60–0,95), 2 ECR, 429 pacientes; hemorragia RR 1,64. Critérios: PaO₂/FiO₂ < 80 **ou** pH < 7,25 com PaCO₂ > 60 apesar de cuidado otimizado, SDRA há < 7 dias, poucos fatores de futilidade | Ver corpo da nota |
+
+**Como ler a divergência do bloqueio neuromuscular:** a ESICM proíbe a **rotina**; a ATS abre um **nicho** (grave e precoce). O que separa os dois ensaios é o **controle**: contra **sedação profunda** o bloqueio reduziu mortalidade (RR 0,72), contra **sedação leve** não fez diferença (RR 0,99). Parte do benefício antigo parece ter sido evitar assincronia num paciente que já estava profundamente sedado.
+
+**2. Os dois ensaios do bloqueio (conferidos no PubMed)**
+- **ACURASYS (2010):** 340 pacientes, PaO₂/FiO₂ < 150 em < 48 h, cisatracúrio 48 h × placebo. HR ajustado de morte em 90 dias **0,68** (0,48–0,98); mortalidade bruta 31,6% × 40,7% (p = 0,08, não significativa); paresia de UTI sem diferença.
+- **ROSE (2019):** 1.006 pacientes, PaO₂/FiO₂ < 150 com PEEP ≥ 8, PEEP alto nos dois braços; cisatracúrio + sedação profunda × sedação leve sem bloqueio de rotina. Mortalidade **42,5% × 42,8%** — interrompido por futilidade; mais eventos cardiovasculares no grupo bloqueado.
+- ⚠️ **Correção ao card:** "o bloqueio não aumentou fraqueza" vale para o ACURASYS. Na metanálise da ATS 2024, fraqueza adquirida na UTI **RR 1,16** (0,98–1,37, certeza moderada). O **cisatracúrio** foi o agente dos dois maiores ensaios (texto puro — sem nota no vault).
+
+**3. Corticoide — o que a ATS 2024 diz e o que ela não diz**
+- ⚠️ **Card: "o guideline da ATS recomenda uso em todos os casos". IMPRECISO.** É **sugestão condicional**, não recomendação forte. A evidência vem de pacientes **intubados**; no não intubado, a ATS só endossa quando a etiologia sabidamente responde — **COVID-19, pneumonia adquirida na comunidade grave e pneumocistose em HIV**.
+- **Cautela:** imunossuprimidos, síndrome metabólica/diabetes, procedentes de áreas endêmicas de tuberculose ou estrongiloidíase. Hiperglicemia grave **RR 1,11** (1,01–1,23).
+- **Um esquema testado em SDRA não COVID:** DEXA-ARDS — ver [[Dexametasona]].
+- **Anotação do Albert — "comorbidades específicas, principalmente sepse":** o choque séptico tem indicação **própria** de corticoide ([[Hidrocortisona]]), que não é a mesma coisa que tratar a SDRA. Na ATS 2024 as etiologias com benefício estabelecido são as três acima.
+
+**4. Epidemiologia — correção ao card**
+- ❌ **Card: "15% dos pacientes de UTI".** O **LUNG SAFE** (459 UTIs, 50 países) encontrou SDRA em **10,4%** das admissões de UTI e **23,4%** dos pacientes em ventilação mecânica (o "23%" do card está certo).
+- O mesmo estudo mostra o problema real: reconhecimento clínico de **51%** na leve e 78,5% na grave; **menos de 2/3** receberam volume corrente ≤ 8 mL/kg; platô medido em 40%; prona em só **16,3%** das graves. Mortalidade hospitalar **34,9% / 40,3% / 46,1%** (leve/moderada/grave). Subdiagnosticada e subtratada.
+
+**5. Linha do tempo das definições**
+- **1967 — Ashbaugh (Lancet):** 12 pacientes com etiologias diversas ("Acute respiratory distress in adults"); o nome "síndrome do desconforto respiratório do adulto" veio em seguida, e o "do adulto" caiu quando ficou claro que a síndrome ocorre em qualquer idade.
+- **2012 — Berlim.** **2016 — Modificação de Kigali:** sem exigência de PEEP, SpO₂/FiO₂ ≤ 315, ultrassom ou radiografia. Em Ruanda, **4%** das admissões hospitalares preencheram critérios, mortalidade **50%** — e **nenhum** paciente teria fechado diagnóstico por Berlim.
+- **Definição Global:** publicada online em **2023** e impressa em **2024** (AJRCCM 2024;209(1)) — o card diz 2023, a nota diz 2024; é o mesmo documento. Absorveu Kigali na categoria de recursos limitados.
+
+**6. Etiologias com contexto (dados do card, UpToDate consultado pelo Albert — não conferidos em fonte aberta)**
+- Ordem de frequência: pneumonia > sepse de foco não pulmonar > **aspiração de conteúdo gástrico** (SDRA em até 1/3 das aspirações reconhecidas em internados, ácidas ou não).
+- **SDRA inexplicada no paciente intubado** → lembrar de fístula traqueoesofágica (aspiração silenciosa).
+- Trauma grave: ~10% evoluem com SDRA, sobretudo com [[Contusão Pulmonar|contusão]] bilateral.
+- [[Síndrome da Embolia Gordurosa]]: o card usa janela de 12–48 h; a nota do vault usa 24–72 h (Gurd e Wilson). Divergência de fonte, não erro.
+- TRALI até 6 h da transfusão → [[Reações Transfusionais Agudas]]. Síndrome torácica aguda → [[Anemia Falciforme]].
+
+**7. Correções às anotações do próprio Albert**
+- ❌ **"Não podemos pensar em meta de volume, temos que pensar em meta de pressão com driving pressure controlada."** O pilar com redução de mortalidade **é o volume**: 6 mL/kg de **peso predito** (ARMA, 2000), junto do platô ≤ 30. A driving pressure vem de análise **observacional** (Amato, 2015) e **não tem recomendação graduada**. A meta é **as duas coisas** — volume limitado *e* pressões vigiadas. Detalhes em [[Ventilação Mecânica Protetora]].
+- ⚠️ **"Paciente inflamado, moderado-grave refratário, podemos fazer esse tipo de medida"** (corticoide, prona, bloqueio). A **prona não é resgate de refratário**: é intervenção **precoce** na PaO₂/FiO₂ < 150 (forte, certeza alta). O corticoide da ATS é para SDRA em geral, **cedo**. Só o bloqueio ficou restrito ao grave precoce.
+- ✅ "Segue a gravidade… são justamente as porções com importante perfusão" — correto: zonas dependentes são as mais perfundidas, e é nelas que o colapso gera shunt.
+- ✅ "Alvéolo fica inundado" — é a imagem certa: edema de permeabilidade, rico em proteína.
+
+**Relevância clínica:** a nota dizia que corticoide fora da COVID era "individualizado" e que curarizar era conduta "desatualizada". A ATS 2024 muda os dois pontos — corticoide passa a ser sugerido, e o bloqueio tem um nicho definido. Divergência entre sociedades é conteúdo: saber **qual diretriz** diz **o quê** é o que se cobra.
+**Fonte:** Qadir N, Sahetya S, Munshi L, et al. An Update on Management of Adult Patients with ARDS: An Official ATS Clinical Practice Guideline. Am J Respir Crit Care Med. 2024;209(1):24-36. PMID 38032683 — https://doi.org/10.1164/rccm.202311-2011ST · Papazian L et al. N Engl J Med. 2010;363(12):1107-16. PMID 20843245 · NHLBI PETAL Network (Moss M et al.). N Engl J Med. 2019;380(21):1997-2008. PMID 31112383 · Bellani G et al. (LUNG SAFE). JAMA. 2016;315(8):788-800. PMID 26903337 · Riviello ED et al. Am J Respir Crit Care Med. 2016;193(1):52-9. PMID 26352116 · Ashbaugh DG et al. Lancet. 1967;2(7511):319-23. PMID 4143721
+
+---

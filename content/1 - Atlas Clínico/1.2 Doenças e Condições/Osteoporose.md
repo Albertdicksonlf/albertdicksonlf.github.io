@@ -38,14 +38,17 @@ Para entender a doença, precisamos entender o tecido alvo.
 | **Trabecular** | Esponjoso, metabólico, **alto turnover**. | **Vértebras** (centro), Punho, Colo do Fêmur. | Sensível a **Hormônios** (Estrogênio, Corticoide). É o primeiro a quebrar na menopausa. |
 | **Cortical** | Compacto, denso, função mecânica. | **Diáfise** de ossos longos (Fêmur, Rádio). | Sensível ao **PTH** (Hiperparatireoidismo) e envelhecimento (senil). |
 
+![[Pasted image 20261114145329.png]]
 ### **B. Regulação Molecular (RANKL/OPG)**
-- **RANKL:** Proteína do Osteoblasto que ativa o Osteoclasto ("Ordem para destruir").
+- **RANKL:** Proteína do Osteoblasto que ativa o Osteoclasto ("Ordem para destruir" - ARRANKA OSSO).
 - **OPG (Osteoprotegerina):** "Isca" que bloqueia o RANKL ("Escudo protetor").
 - **Estrogênio:** Estimula a OPG. Na menopausa $\to$ Cai Estrogênio $\to$ Cai OPG $\to$ Sobe RANKL $\to$ Destruição óssea.
 
 ### **C. Via Wnt e Esclerostina**
 - **Esclerostina:** Produzida pelo osteócito, ela inibe a formação óssea (é um freio).
 - **Carga Mecânica (Exercício):** Inibe a esclerostina. Ou seja, **impacto libera o freio** para formar osso. (Por isso astronautas e acamados perdem osso rápido).
+
+![[Pasted image 20261114150039.png]]
 
 ---
 

@@ -74,7 +74,7 @@ Terminada a pergunta "tem doença grave aqui?", vem a segunda, que muda o manejo
 **Grupo "Must not miss" (sinistras, 5%):**
 - [[Síndrome da Cauda Equina]] (emergência)
 - Neoplásica/metastática (história de câncer, sintomas constitucionais)
-- Infecciosa — espondilodiscite, abscesso epidural (drogas IV, febre, imunossupressão)
+- Infecciosa — [[Espondilodiscite]], [[Abscesso Epidural Espinhal|abscesso epidural]], [[Tuberculose Osteoarticular|Pott]] (drogas IV, febre, imunossupressão, bacteremia, procedimento espinhal recente)
 - Fratura vertebral por fragilidade → [[Osteoporose]]
 - Visceral/vascular referida → [[Aneurisma de Aorta Abdominal (AAA)|AAA]], [[Pielonefrite Aguda|pielonefrite]], [[Nefrolitíase (cálculos renais)|nefrolitíase]], pancreatite
 
@@ -156,5 +156,20 @@ Terminada a pergunta "tem doença grave aqui?", vem a segunda, que muda o manejo
 **Relevância clínica:** este é o ponto exato do atraso diagnóstico. O paciente que carrega "lombalgia mecânica" por cinco anos é quase sempre alguém em quem ninguém cronometrou a rigidez matinal nem perguntou por olho vermelho.
 
 **Fonte:** Ramiro S et al. ASAS-EULAR recommendations for the management of axial spondyloarthritis: 2022 update. Ann Rheum Dis. 2023;82(1):19-34. PMID 36270658 — https://doi.org/10.1136/ard-2022-223296 · Mandl P et al. EULAR recommendations for the use of imaging in SpA — 2025 update. Apresentado no EULAR 2026 (POS0682) — https://doi.org/10.1136/annrheumdis-2026-eular.B.2205
+
+---
+
+### 🔗 O bucket infeccioso: quando a lombalgia é osteomielite
+**Data:** 2026-11-15
+**Contexto:** [[Espondilodiscite]] · [[Abscesso Epidural Espinhal]]
+
+- **Três cenários de suspeita obrigatória (IDSA 2015, forte):** dor nas costas nova ou piorando **+ febre**; **+ VHS ou PCR elevadas**; **+ bacteremia ou endocardite**. A febre falta em mais da metade (presente em até 45%) — esperar febre é esperar demais.
+- **Fator de risco > tríade:** no abscesso epidural, a tríade dor + febre + déficit estava em **13%** na primeira visita; **algum fator de risco, em 98%** (Davis 2004). Diabetes, droga injetável, hemodiálise ou cateter, procedimento espinhal recente, bacteremia e imunossupressão são o filtro que manda para a RM.
+- **VHS/PCR como ponte:** no paciente com fator de risco e sem déficit, ajudam a escolher quem vai à RM — a VHS foi melhor triagem que a leucometria (Davis 2004).
+- **Com déficit neurológico:** RM de urgência + cirurgião de coluna + antibiótico após hemoculturas.
+- **Exame:** [[Ressonância Magnética]] — sensibilidade 97% e especificidade 93% para osteomielite vertebral (IDSA 2015). A radiografia altera-se tarde.
+
+**Relevância clínica:** é o "must not miss" mais traiçoeiro da lombalgia — o paciente costuma passar **2–4 meses** rotulado de mecânico (IDSA 2015).
+**Fonte:** IDSA 2015 — Berbari EF et al. Clin Infect Dis. 2015;61(6):e26-46. PMID 26229122 — https://doi.org/10.1093/cid/civ482 · Davis DP et al. J Emerg Med. 2004;26(3):285-91. PMID 15028325 — https://doi.org/10.1016/j.jemermed.2003.11.013
 
 ---

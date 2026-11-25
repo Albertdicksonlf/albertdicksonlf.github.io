@@ -25,7 +25,7 @@ aliases:
 - **Resultado Líquido:** [[Hipercalcemia]] e [[Hipofosfatemia]] (ou fósforo normal-baixo).
 
 ## Causas Principais
-- **[[Adenoma de paratireoide solitário]`** (80-85% dos casos): Tumor benigno único.
+- **[[Adenoma de paratireoide solitário]]** (80-85% dos casos): Tumor benigno único.
 - **Hiperplasia das 4 glândulas** (15-20%): Frequentemente associada a síndromes genéticas (ex: NEM 1 e 2A).
 - **Carcinoma de paratireoide** (muito raro, <1%): Suspeitar se [[Cálcio > 14 mg/dL]] e [[PTH muito elevado]].
 
@@ -83,7 +83,7 @@ aliases:
 ### **1. Tratamento Cirúrgico (Curativo)**
 - **[[Paratireoidectomia]]**: Remoção da(s) glândula(s) doente(s). É o único tratamento definitivo.
 
-- **Indicações para Cirurgia (Pacientes Assintomáticos):**
+- **Indicações para Cirurgia **
   - **Qualquer paciente sintomático** (pedras, ossos, etc.).
   - **OU** assintomático que preencha **QUALQUER** um dos seguintes critérios:
     - [[Idade < 50 anos]].

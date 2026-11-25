@@ -99,3 +99,17 @@ tipo de exame: null
 ### ➕ Novas Anotações / Insights
 *- Nota criada em 2026-07-09 durante a auditoria de links fantasmas: era alvo de 7 links órfãos (vindos de [[Hipogonadismo Primário]] e [[Infertilidade Masculina]]) e não existia no vault.*
 -
+
+### 🔗 Klinefelter e tumor germinativo do mediastino
+**Data:** 2026-11-13
+**Contexto:** [[Tumores de Células Germinativas do Mediastino]] · [[Abordagem da Massa Mediastinal]]
+
+**Características específicas:**
+- Na coorte dinamarquesa de 696 homens com Klinefelter, o risco de **tumor germinativo mediastinal** foi **~67 vezes** o esperado, concentrado da **adolescência aos 30 anos**; o risco global de câncer não aumentou (RR 1,1) e **não se justifica rastreamento oncológico rotineiro**.
+- Na série pediátrica do Children's Oncology Group, meninos com Klinefelter tiveram risco **18,8 vezes maior** de TCG, e os TCG da síndrome foram **preferencialmente mediastinais**.
+- Consequência prática inversa: **todo menino/homem jovem com TCG mediastinal merece cariótipo** — a síndrome é subdiagnosticada.
+
+**Relevância clínica:** adolescente alto, com testículos pequenos e ginecomastia, que aparece com massa no mediastino anterior → dosar AFP e β-hCG antes de qualquer agulha.
+**Fonte:** Hasle H et al. Br J Cancer. 1995;71(2):416-20 (PMID 7841064); Williams LA et al. Cancer. 2018;124(19):3900-3908 (PMID 30291793).
+
+---

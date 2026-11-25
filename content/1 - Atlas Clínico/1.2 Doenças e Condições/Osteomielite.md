@@ -77,7 +77,7 @@ tipo de exame: null
 - Fístula com drenagem persistente
 
 ### **Laboratoriais**
-- [[Velocidade de Hemossedimentação (VHS)|VHS]] **> 70 mm/h** (alta especificidade para osteomielite em pé diabético — LR+ ~3)
+- [[Velocidade de Hemossedimentação (VHS)|VHS]] **> 70 mm/h** (osteomielite em pé diabético — **LR ~11**, IC95% 1,6–79; Butalia 2008 · *corrigido em 2026-11-15: constava "LR+ ~3"*)
 - [[PCR Elevada]] (sensível mas pouco específica)
 - [[Leucocitose]] (frequentemente discreta ou ausente nas formas crônicas)
 - Procalcitonina elevada (sugere bacteremia/sepse)
@@ -184,6 +184,24 @@ tipo de exame: null
 
 ---
 
+## 📚 Referências
+*Consultado em 2026-11-13 — seção criada em 2026-11-15 (a nota nasceu em 27/05/2026, antes da v3.4). As fontes do bloco pediátrico estão também dentro do próprio bloco.*
+
+1. **[IWGDF/IDSA 2023]** Senneville É, Albalawi Z, van Asten SA, et al. IWGDF/IDSA Guidelines on the Diagnosis and Treatment of Diabetes-related Foot Infections. Clin Infect Dis. 2023;ciad527 (correção em Clin Infect Dis. 2024;79(1):286). PMID 37779457 — https://doi.org/10.1093/cid/ciad527 *(o corpo antigo citava "IDSA 2023 — Pé Diabético" sem referência formal)*
+2. **Butalia S, Palda VA, Sargeant RJ, Detsky AS, Mourad O.** Does this patient with diabetes have osteomyelitis of the lower extremity? JAMA. 2008;299(7):806-13. PMID 18285592 — https://doi.org/10.1001/jama.299.7.806
+3. **[IDSA 2015]** Berbari EF, Kanj SS, Kowalski TJ, et al. Native Vertebral Osteomyelitis in Adults. Clin Infect Dis. 2015;61(6):e26-46. PMID 26229122 — https://doi.org/10.1093/cid/civ482
+4. **Bernard L, Dinh A, Ghout I, et al.** Antibiotic treatment for 6 weeks versus 12 weeks in patients with pyogenic vertebral osteomyelitis. Lancet. 2015;385(9971):875-82. PMID 25468170 — https://doi.org/10.1016/S0140-6736(14)61233-2
+5. **Li HK, Rombach I, Zambellas R, et al.** Oral versus Intravenous Antibiotics for Bone and Joint Infection (OVIVA). N Engl J Med. 2019;380(5):425-436. PMID 30699315 — https://doi.org/10.1056/NEJMoa1710926
+6. **Gariani K, Pham TT, Kressmann B, et al.** Three Weeks Versus Six Weeks of Antibiotic Therapy for Diabetic Foot Osteomyelitis. Clin Infect Dis. 2021;73(7):e1539-e1545. PMID 33242083 — https://doi.org/10.1093/cid/ciaa1758
+7. **Hegeman EM, Bates T, Lynch T, Schmitz MR.** Osteomyelitis in Sickle Cell Anemia: Does Age Predict Risk of Salmonella Infection? Pediatr Infect Dis J. 2023;42(8):e262-e267. PMID 37079601 — https://doi.org/10.1097/INF.0000000000003937
+8. **Mylona E, Samarkos M, Kakalou E, Fanourgiakis P, Skoutelis A.** Pyogenic vertebral osteomyelitis: a systematic review of clinical characteristics. Semin Arthritis Rheum. 2009;39(1):10-7. PMID 18550153 — https://doi.org/10.1016/j.semarthrit.2008.03.002
+9. **[PIDS/IDSA 2021]** Woods CR, Bradley JS, Chatterjee A, et al. J Pediatric Infect Dis Soc. 2021;10(8):801-844. PMID 34350458 — https://doi.org/10.1093/jpids/piab027 · **[ESPID 2017]** Saavedra-Lozano J, Falup-Pecurariu O, Faust SN, et al. Pediatr Infect Dis J. 2017;36(8):788-799. PMID 28708801 — https://doi.org/10.1097/INF.0000000000001635 *(bloco pediátrico de 2026-11-08)*
+10. **UpToDate** — "Pathogenesis of osteomyelitis" · "Hematogenous osteomyelitis in children: Epidemiology, pathogenesis, and microbiology" · "Osteomyelitis in the absence of hardware: General approach to diagnosis in adults" · "Osteomyelitis in the absence of hardware: Approach to treatment in adults" — *consultados pelo Albert (fontes do deck da Osler, 13/11/2026)*
+
+*⚠️ Pendente de conferência: a tabela "Critérios Diagnósticos Modificados (IDSA 2023)" do corpo (definida/provável/possível) não foi localizada no trecho lido da IWGDF/IDSA 2023 — a classificação parece remontar ao consenso IWGDF de 2008. Os esquemas empíricos do corpo antigo e o critério "úlcera > 30 dias" não foram ancorados linha a linha.*
+
+---
+
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
 -
@@ -269,5 +287,49 @@ A nota nasceu organizada pelo **adulto e pelo [[Pé Diabético|pé diabético]]*
 
 **Relevância clínica:** a OHA pediátrica é **doença de antibiótico, não de bisturi** — mas quem define isso são três perguntas na admissão: *tem sepse?*, *tem abscesso > 2 cm?*, *melhorou em 48 h?*. E o exame que responde a terceira é a **RM**, ausente do material-fonte.
 **Fonte:** PIDS/IDSA 2021 — Woods CR et al. J Pediatric Infect Dis Soc. 2021;10(8):801-844. PMID 34350458 — https://doi.org/10.1093/jpids/piab027 · ESPID 2017 — Saavedra-Lozano J et al. Pediatr Infect Dis J. 2017;36(8):788-799. PMID 28708801 — https://doi.org/10.1097/INF.0000000000001635 · Iliadis AD, Ramachandran M. EFORT Open Rev. 2017;2(1):7-12. PMID 28607765 — https://doi.org/10.1302/2058-5241.2.160027 · De Boeck H. Acta Orthop Belg. 2005;71(5):505-15. PMID 16305073 *(citações confirmadas no PubMed)*
+
+---
+
+### 🔗 O eixo ADULTO: quem faz osteomielite por qual via — e o que o deck da Osler corrige
+**Data:** 2026-11-15
+**Contexto:** deck "Osteomielite" da Osler (3.3 Anotações - Osler) — flashcards; [[Espondilodiscite]] e [[Abscesso Epidural Espinhal]] criadas na mesma rodada
+
+**A regra idade × via — o esqueleto do deck:**
+
+| Quem | Via dominante | Sítio | Microbiologia |
+|---|---|---|---|
+| **Criança** | Hematogênica | Metáfise de osso longo (fêmur, tíbia, úmero) | Monomicrobiana — *S. aureus*; *K. kingae* de 3 meses a 5 anos (ver bloco pediátrico acima) |
+| **Adulto jovem** | Inoculação direta | Esqueleto apendicular — [[Fratura Exposta\|fratura exposta]] é a causa mais comum | Polimicrobiana — *S. aureus*, estafilococos coagulase-negativos, bacilos gram-negativos |
+| **Idoso** | Contiguidade | [[Pé Diabético\|Pé diabético]] e sacro (úlcera por pressão) | Polimicrobiana |
+| **Adulto > 50 anos com bacteremia** | Hematogênica | **Vértebra** → [[Espondilodiscite]]; também clavícula, esterno, cintura pélvica | Monomicrobiana — [[Staphylococcus aureus\|*S. aureus*]] |
+
+- **Hematogênica no adulto — fatores de risco:** drogas injetáveis e cateter de longa permanência (deck); somam-se hemodiálise, endocardite e diabetes (IDSA 2015; Mylona 2009).
+- **Úlcera por pressão:** a pista é a **ferida que não cicatriza** — profunda, com osso visível. No pé diabético, **úlcera > 2 cm²** (LR+ 7,2) e **[[Probe-to-Bone (Teste de Sondagem Óssea)|probe-to-bone]]** (LR+ 6,4) são os achados clínicos de maior peso (Butalia 2008).
+- **Dor local** é o primeiro sintoma no adulto — mas o neuropata (pé diabético, lesão medular) pode não senti-la.
+- **Trato sinusal com drenagem ativa:** o deck o chama de patognomônico e ele mesmo ressalva que não é consenso. Leitura prática: achado de altíssimo valor positivo, mas uma fístula também pode drenar abscesso de partes moles (consolidado).
+
+**Biópsia — quando é obrigatória, quando dispensar:**
+- Diagnóstico definitivo = germe isolado em osso com inflamação e osteonecrose (deck). Ver [[Biópsia Óssea]].
+- **Pode-se dispensar** com quadro clínico-radiológico típico **e** hemocultura com germe que explica a lesão — na vertebral, a IDSA 2015 restringe a dispensa a ***S. aureus*, *S. lugdunensis* e *Brucella*** (ver correção 1).
+- **Antes do antibiótico** no paciente estável — a IDSA 2015 sugere segurar o empírico na osteomielite vertebral sem déficit e sem instabilidade.
+
+**Tratamento — o que mudou depois do deck:**
+- Pilares: **desbridamento + antibiótico** (deck) — o tecido necrótico não é perfundido e mantém a carga bacteriana.
+- **Duração:** 6 semanas é a referência na vertebral (IDSA 2015; **Bernard 2015**: 6 = 12 semanas, cura **90,9% × 90,9%**). **No pé diabético**, a IWGDF/IDSA 2023 sugere **6 semanas sem ressecção óssea** e **até 3 semanas após amputação menor com margem óssea positiva** (condicional, baixa) — apoiada no piloto de **Gariani 2021** (remissão **84%** com 3 semanas × **73%** com 6, não inferior).
+- **Cobertura:** *S. aureus* sempre — [[Oxacilina]] sem risco de MRSA, [[Vancomicina]] com risco (deck); gram-negativo quando a suspeita é polimicrobiana (fratura exposta, úlcera infectada).
+- **Via oral:** ver correção 2.
+
+> [!danger] ⚠️ Correções ao material-fonte (deck da Osler)
+> 1. **"Biópsia só é dispensável se a hemocultura for positiva"** → **incompleto, e perigoso na vertebral.** A IDSA 2015 dispensa a biópsia apenas quando hemocultura ou sorologia identificam ***S. aureus*, *S. lugdunensis* ou *Brucella*** (forte). Estafilococo coagulase-negativo ou difteroide na hemocultura pode ser contaminante — a biópsia continua indicada.
+> 2. **"Terapia endovenosa, com transição para oral após semanas"** → **desatualizado.** O **OVIVA** (NEJM 2019; 1.054 adultos) randomizou **em até 7 dias** do início para oral × IV nas primeiras 6 semanas: falha em 1 ano de **13,2% × 14,6%** (diferença −1,4 ponto; não inferior), com **complicação de cateter 1,0% × 9,4%**. A IDSA 2015 já aceitava "parenteral **ou** oral de alta biodisponibilidade" na vertebral. O que define a via é ter um oral ativo, biodisponível e tolerado — não o calendário.
+> 3. **"Osteomielite vertebral é mais comum no idoso porque idoso tem mais osteoartrite"** → a **frequência** está certa (2,4 → 6,5/100.000 entre 50 e 70 anos; IDSA 2015); a **explicação** não encontra respaldo. O que pesa é **diabetes** (a comorbidade mais frequente) e as **fontes de bacteremia** — o trato urinário à frente (Mylona 2009).
+> 4. **"Doença falciforme → Salmonella"** (card sob o título "Osteomielite em Adultos") → **verdade na criança, menos no adulto.** Na revisão sistemática de Hegeman 2023 (192 casos), [[Salmonella spp. (não-tifoide)|*Salmonella* não tifoide]] causou **60,9%** e o *S. aureus* **21,8%** — mas a idade média do grupo *Salmonella* foi **6,8 anos** e a do grupo *S. aureus*, **22,1 anos**. No adulto com [[Anemia Falciforme]], o empírico precisa cobrir os dois.
+> 5. **"Metáfise: pois é a região mais vascularizada"** (trecho destacado pelo Albert) → o que faz da metáfise o sítio da infecção **não é a quantidade de sangue, é a lentidão do fluxo** na alça arteriolar terminal que desagua em seio venoso, com poucos fagócitos — ver o bloco pediátrico acima (De Boeck 2005).
+> 6. **No próprio corpo desta nota:** "VHS > 70 mm/h — LR+ ~3" estava **subestimado** (corrigido no corpo). Na revisão do JAMA: **VHS > 70 LR 11 (IC95% 1,6–79)** — o maior LR isolado, embora impreciso; **úlcera > 2 cm² LR+ 7,2 (IC95% 1,1–49)**; **probe-to-bone LR+ 6,4 / LR− 0,39**; **radiografia alterada LR+ 2,3**; **RM positiva LR+ 3,8**; **RM normal LR− 0,14** (Butalia 2008).
+
+**Confirmações — o deck estava CORRETO:** as três vias de aquisição; aguda × crônica; sequestro como marca da cronicidade e invólucro com tratos sinusais; hematogênica = monomicrobiana e não hematogênica = polimicrobiana; *S. aureus* como agente mais comum (adesinas e sobrevida intracelular em osteoblastos); vértebra como sítio hematogênico mais comum no adulto; lombar > torácica > cervical; espondilodiscite = duas vértebras + disco; Pott poupando o disco até tarde; RM como exame de escolha; hemocultura fundamental; radiografia como primeiro exame (disponível, afasta alternativas); biópsia como único método definitivo; 6 semanas como referência; fratura exposta no adulto jovem; pé diabético e úlcera por pressão no idoso; lactente < 3 meses com cortical e periósteo finos.
+
+**Relevância clínica:** o deck é um bom esqueleto de **quem faz o quê por qual via**. As correções que mudam conduta são duas: **a biópsia só se dispensa com os três germes certos na hemocultura**, e **a via oral não precisa esperar semanas**.
+**Fonte:** IDSA 2015 — Berbari EF et al. Clin Infect Dis. 2015;61(6):e26-46. PMID 26229122 — https://doi.org/10.1093/cid/civ482 · Bernard L et al. Lancet. 2015;385(9971):875-82. PMID 25468170 — https://doi.org/10.1016/S0140-6736(14)61233-2 · OVIVA — Li HK et al. N Engl J Med. 2019;380(5):425-436. PMID 30699315 — https://doi.org/10.1056/NEJMoa1710926 · IWGDF/IDSA 2023 — Senneville É et al. Clin Infect Dis. 2023;ciad527. PMID 37779457 — https://doi.org/10.1093/cid/ciad527 · Gariani K et al. Clin Infect Dis. 2021;73(7):e1539-e1545. PMID 33242083 — https://doi.org/10.1093/cid/ciaa1758 · Butalia S et al. JAMA. 2008;299(7):806-13. PMID 18285592 — https://doi.org/10.1001/jama.299.7.806 · Mylona E et al. Semin Arthritis Rheum. 2009;39(1):10-7. PMID 18550153 — https://doi.org/10.1016/j.semarthrit.2008.03.002 · Hegeman EM et al. Pediatr Infect Dis J. 2023;42(8):e262-e267. PMID 37079601 — https://doi.org/10.1097/INF.0000000000003937 *(citações confirmadas no PubMed)*
 
 ---

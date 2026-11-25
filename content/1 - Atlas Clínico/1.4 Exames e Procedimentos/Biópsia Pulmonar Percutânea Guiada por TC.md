@@ -6,15 +6,15 @@ date: 2026-09-27T11:30:00
   - Oncologia
 tipo: Exame
 tipo de exame: Procedimento
-tipo de doença: 
+tipo de doença:
 classe de medicamentos:
-prevalência: 
+prevalência:
 aliases:
   - Biópsia transtorácica
   - Punção transtorácica guiada por TC
   - Core biopsy pulmonar
   - Biópsia percutânea de nódulo pulmonar
-card: 
+card:
 ---
 
 # Biópsia Pulmonar Percutânea Guiada por TC
@@ -104,3 +104,18 @@ card:
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
 -
+
+### 🔗 A mesma agulha no mediastino anterior — e quando não usá-la
+**Data:** 2026-11-13
+**Contexto:** [[Abordagem da Massa Mediastinal]] · [[Timoma]] · [[Alargamento do mediastino (Massa mediastinal anterior)]]
+
+**Características específicas:**
+- É a **via preferencial para massas do compartimento pré-vascular** (e uma das opções no paravertebral): agulha grossa (**core**), amostras múltiplas e profundas — a **PAAF não é recomendada** para tumores tímicos (ESMO [IV, D]) e costuma ser insuficiente para linfoma.
+- **Quando NÃO biopsiar:** timoma **provável e ressecável** — vai direto à cirurgia; o NCCN 2025 manda **evitar a biópsia cirúrgica** nesse cenário pelo risco de **semeadura** quando a cápsula é violada, e o ESMO pede **respeito aos espaços pleurais** (evitar trajeto transpleural). Também dispensam agulha: TCG com marcador diagnóstico (β-hCG > 1.000 U/L e/ou AFP elevada), teratoma e cisto típicos, bócio contínuo com a tireoide.
+- **Quando é obrigatória:** suspeita de linfoma, timoma irressecável (antes da quimioterapia de indução), carcinoma tímico provável, dúvida diagnóstica. Sensibilidade das biópsias por agulha/incisionais em tumores tímicos: **40–93%** (ESMO).
+- **Paciente de alto risco anestésico** (massa anterior volumosa com sintomas posturais): a punção sob **anestesia local**, com o paciente semissentado, é muitas vezes a única via segura.
+
+**Relevância clínica:** no pulmão, a pergunta é "dá para alcançar?"; no mediastino anterior, a pergunta anterior é "**devo** alcançar?".
+**Fonte:** Girard N et al. Ann Oncol. 2015;26 Suppl 5:v40-55 (PMID 26314779); Riely GJ et al. J Natl Compr Canc Netw. 2025;23(6):255-269 (PMID 40499586); Blank RS, de Souza DG. Can J Anaesth. 2011;58(9):853-67 (PMID 21779948).
+
+---

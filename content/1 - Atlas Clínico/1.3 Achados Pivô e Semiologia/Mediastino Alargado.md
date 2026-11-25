@@ -58,3 +58,18 @@ tipo de exame: ''
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
 -
+
+### 🔗 Quando o mediastino alargado NÃO é a aorta: a massa mediastinal
+**Data:** 2026-11-13
+**Contexto:** [[Abordagem da Massa Mediastinal]] · [[Alargamento do mediastino (Massa mediastinal anterior)]]
+
+**Características específicas:**
+- **Sem dor torácica aguda** e sem trauma, o alargamento do mediastino na radiografia é, na maioria das vezes, **massa ou linfonodomegalia** — e o próximo passo é a [[TC de Tórax]] com contraste para localizar o [[Compartimentos do Mediastino (ITMIG)|compartimento]].
+- Mais da metade das massas mediastinais está no **compartimento pré-vascular** (os "4 Ts": [[Timoma]], tumor germinativo, linfoma e [[Bócio Mergulhante]]).
+- Sinais radiográficos que ajudam a separar massa de aorta: o **sinal da sobreposição do hilo** (vasos hilares visíveis através da opacidade → não é hilar) e o **sinal cervicotorácico** (massa que sobe acima das clavículas com contorno nítido é posterior).
+- Pista brasileira: alargamento com **nível hidroaéreo** no mediastino = megaesôfago (Chagas, acalásia).
+
+**Relevância clínica:** a nota original trata o achado no cenário de dor torácica aguda (dissecção) — lá, radiografia normal não exclui nada. Fora desse cenário, o mesmo achado abre o raciocínio oncológico/compressivo do guia de massa mediastinal, incluindo o **risco anestésico** da massa anterior volumosa.
+**Fonte:** Carter BW et al. J Thorac Oncol. 2014;9(9 Suppl 2):S97-101 (PMID 25396318); ACR Appropriateness Criteria Imaging of Mediastinal Masses, J Am Coll Radiol. 2021;18(5S):S37-S51 (PMID 33958117).
+
+---

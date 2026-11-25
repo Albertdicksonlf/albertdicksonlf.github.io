@@ -5,16 +5,16 @@ date: 2026-04-26T15:44:00
   - Terapia Intensiva
   - Cirurgia Cardiovascular
 tipo: Procedimento Cirúrgico
-tipo de exame: 
-tipo de doença: 
+tipo de exame:
+tipo de doença:
 classe de medicamentos:
-prevalência: 
+prevalência:
 aliases:
   - Oxigenação por Membrana Extracorpórea
   - Suporte Circulatório Extracorpóreo
   - ECMO VA
   - ECMO VV
-card: 
+card:
 ---
 
 # ECMO
@@ -76,3 +76,19 @@ card:
 ### ➕ Novas Anotações / Insights
 *- Nota criada em modo esqueleto - completar depois*
 -
+
+### 🔗 ECMO veno-venosa na SDRA — quem, quando e onde (ATS 2024)
+**Data:** 2026-11-13
+**Contexto:** [[Síndrome do Desconforto Respiratório Agudo (SDRA)]] · [[Posição Prona]] — processamento de `Síndrome do Desconforto Respiratório Aguda - Anotações`
+
+**Características específicas:**
+- **Recomendação:** a ATS 2024 **sugere ECMO-VV em pacientes selecionados com SDRA grave** (condicional, certeza baixa). Metanálise de **2 ensaios (429 pacientes)**: mortalidade **RR 0,76** (IC 95% 0,60–0,95); mais dias livres de ventilador, vasopressor e diálise. Custo: **hemorragia RR 1,64**.
+- **Critérios de seleção (derivados do EOLIA):** insuficiência respiratória **reversível**; **PaO₂/FiO₂ < 80** **ou** acidose hipercápnica (**pH < 7,25 com PaCO₂ > 60**) **apesar de cuidado otimizado**; SDRA há **< 7 dias**; poucos fatores de futilidade.
+- **"Otimizado" tem conteúdo definido:** ventilação protetora, PEEP mais alto, bloqueio neuromuscular e **prona já aplicados**. ECMO sem prona prévia é pular etapa.
+- **Onde:** centro de alto volume, idealmente em rede regional — e **transferir cedo**, porque o paciente que piora tarde pode não tolerar o transporte. ✅ O card da Osler diz exatamente isso.
+- **Óxido nítrico inalado** (card): melhora transitória da oxigenação, **sem** benefício de mortalidade — no máximo ponte até a ECMO, não alternativa a ela.
+
+**Relevância clínica:** a nota trazia "SDRA grave refratária" como indicação genérica. Os números de corte (P/F < 80 ou pH < 7,25 com PaCO₂ > 60, < 7 dias) são o que permite discutir o caso com o centro de referência.
+**Fonte:** Qadir N et al. (ATS 2024). Am J Respir Crit Care Med. 2024;209(1):24-36. PMID 38032683 — https://doi.org/10.1164/rccm.202311-2011ST · Combes A et al. (EOLIA). N Engl J Med. 2018;378(21):1965-1975. PMID 29791822
+
+---

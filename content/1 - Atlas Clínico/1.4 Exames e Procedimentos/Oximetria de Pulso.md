@@ -92,3 +92,20 @@ card:
 **Fonte:** Parr NJ, Beech EH, Young S, Valley TS. J Gen Intern Med. 2024;39(13):2543-2553. PMID 39020232 · Iolascon A et al. Am J Hematol. 2021;96(12):1666-1678. PMID 34467556 · Araujo JPN, Vasconcelos JM. Dispneia no Pronto-Socorro. Guia Tá de Clinicagem, jun/2026 — https://www.tadeclinicagem.com.br/guia/594/dispneia-no-pronto-socorro/
 
 ---
+
+### 🔗 Valor normal × alvo de tratamento, precisão e a curva que valida o número
+**Data:** 2026-11-13
+**Contexto:** [[Abordagem da Hipoxemia]] · [[Gasometria arterial]] — processamento de `Insuficiencia respiratória Aguda - Anotações`
+
+**Características específicas:**
+- ⚠️ **Ajuste à seção de Achados-Pivô acima — "normal 94–100%" mistura duas coisas.** **94–98%** é o **alvo de tratamento** do paciente agudo em oxigenoterapia (BTS 2017, já citado no vault); o **valor normal em repouso**, pelo deck, é **> 95%** — **≤ 95%** em repouso já é anormal, embora não seja hipoxemia franca. E o número é relativo: quem satura 99% habitualmente e agora satura 95% pode estar piorando. **Dessaturação ≥ 5%** ao esforço em relação ao basal também é anormal.
+- **Princípio físico:** dois comprimentos de onda — **660 nm (vermelho)**, mais absorvido pela desoxi-hemoglobina, e **940 nm (infravermelho)**, mais absorvido pela oxi-hemoglobina; a razão entre as absorções, sincronizada com o pulso, estima a SpO₂.
+- **Precisão:** com SaO₂ **> 90%**, a SpO₂ fica a **2–3 pontos** do valor real; **abaixo de 90%** a acurácia cai — mas nessa faixa o número exato importa menos que a tendência e a conduta.
+- **A curva valida o número:** a onda pletismográfica normal acompanha o pulso e tem **nó dicrótico**. Curva achatada, irregular ou dessincronizada com o pulso = valor **não confiável** (má perfusão, hipotermia, movimento). Conduta: trocar o sítio do sensor, tratar a causa (hipotensão, agitação) ou colher gasometria.
+- **Esmalte:** azul, roxo, preto e verde são os que mais interferem — estudos antigos falavam em até 6% de erro com esmalte azul; oxímetros recentes sofrem menos, mas no internado vale remover.
+- **Pele escura** e disemoglobinemias: já tratados no bloco de 2026-10-18 acima.
+
+**Relevância clínica:** antes de reagir a um número, olhe a curva; antes de chamar 95% de normal, olhe o basal do paciente.
+**Fonte:** **cards da Osler baseados no UpToDate "Measures of oxygenation and mechanisms of hypoxemia" — fonte consultada pelo Albert, não conferida em diretriz aberta** (valor normal, precisão, esmalte, morfologia da curva). O'Driscoll BR et al. BTS guideline for oxygen use in adults in healthcare and emergency settings. BMJ Open Respir Res. 2017;4(1):e000170 (alvos de saturação).
+
+---

@@ -218,3 +218,32 @@ Três das pendências deixadas em aberto na criação deste guia agora têm nota
 **Fonte:** BOA/BAPRAS, *BOAST: Open Fractures* (dez/2017) — https://www.boa.ac.uk/resource/boast-4-pdf.html ; AAOS, *Management of Acute Compartment Syndrome CPG — Rapid Update* (nov/2025) — https://www.aaos.org/globalassets/quality-and-practice-resources/acute-compartment-syndrome/2025-acs-rapid-update/acs-cpg-2025.pdf
 
 ---
+
+---
+
+### 🔗 Roteamento específico do MEMBRO SUPERIOR: guia dedicado criado
+**Data:** 2026-11-15
+**Contexto:** [[Abordagem da Suspeita de Fratura no Membro Superior]] — rodada de Fraturas de Membro Superior
+
+**O que mudou na navegação:** o membro superior ganhou **guia de raciocínio próprio**, com roteamento por **segmento** (ombro/cintura escapular → braço → cotovelo → antebraço → punho e mão) e 11 notas de doença novas. Este guia segue sendo o genérico (princípios do trauma de extremidade, regras de decisão de imagem, membro inferior); o roteamento segmentar do membro superior mora lá.
+
+**Os três atalhos do membro superior que valem estar aqui:**
+
+1. ⭐ **Mapa dos nervos por andar** — a heurística de maior rendimento do segmento:
+	- Úmero **proximal** → **axilar** e supraescapular (deltoide + sensibilidade lateral do ombro)
+	- Úmero **diafisário** → **radial** ("mão caída"; testar "polegar para cima")
+	- Úmero **distal** → **mediano e ulnar** (até **25%** dos casos)
+	- **Olécrano** → **ulnar** ("sinal da paz" + sensibilidade do 4º e 5º dedos)
+	- **Cabeça do rádio** → **interósseo posterior** (extensão do polegar)
+	- **Rádio distal** → **mediano** (o rádio distal é o piso do túnel do carpo)
+2. ⭐ **Fratura do antebraço = radiografar as DUAS articulações** (cotovelo **e** punho). É o único hábito que captura [[Fratura de Monteggia|Monteggia]], [[Fratura de Galeazzi|Galeazzi]] e a lesão de Essex-Lopresti (ver [[Fratura Diafisária de Antebraço]]). A fratura evidente rouba a atenção da luxação que decide o prognóstico.
+3. ⭐ **Tolerância ao desvio é inversa à função rotatória:** o **úmero** tolera muito (segmento suspenso — até 20° AP, 30° varo, 3 cm de encurtamento, 15° de rotação); o **antebraço** tolera pouquíssimo (é um mecanismo de rotação); superfícies **articulares** quase nada.
+
+**Dois achados-pivô novos no vault, ambos de urgência ou de diagnóstico oculto:**
+- **[[Elevação da Pele (Skin Tenting)]]** — pele tensa e pálida sobre o fragmento = **cirurgia de urgência** (risco de necrose e conversão em fratura aberta)
+- **[[Sinal da Vela]]** — almofada de gordura **posterior** visível no perfil do cotovelo = derrame articular = **fratura oculta** até prova em contrário
+
+**Relevância clínica:** o viés dominante no trauma de membro superior não é errar o diagnóstico — é **ancorar no osso que apareceu na radiografia** e não procurar a articulação que cedeu no outro extremo.
+**Fonte:** AAOS/ASSH 2020 (rádio distal) — https://www.aaos.org/globalassets/quality-and-practice-resources/distal-radius/distal-radius-fractures-10-13-2020.pdf · AAOS 2023 (clavícula) — https://aaos.org/aaos-home/newsroom/press-releases/fact-sheet-cpg-for-the-treatment-of-clavicle-fractures · PROFHER, Rangan A et al. JAMA. 2015;313(10):1037-47. PMID 25756440 · FISH, Rämö L et al. JAMA. 2020;323(18):1792-1801. PMID 32396179 · Carter TH et al. JBJS Essent Surg Tech. 2018;8(3):e22. PMID 30588367 · Conhecimento consolidado (mapa dos nervos por andar, limites de alinhamento do úmero)
+
+---

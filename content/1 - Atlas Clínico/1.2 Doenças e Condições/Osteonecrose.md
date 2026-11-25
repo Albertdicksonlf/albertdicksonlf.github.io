@@ -139,3 +139,20 @@ Sem terapia farmacológica com eficácia estabelecida para reverter a necrose. [
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
 -
+
+### 🔗 Na CRIANÇA: a osteonecrose da cabeça femoral tem três portas de entrada
+**Data:** 2026-11-11
+**Contexto:** anotação "Ortopedia Infantil" (3.3) → [[Doença de Legg-Calvé-Perthes]], [[Epifisiólise Proximal do Fêmur (EPF)]], [[Displasia do Desenvolvimento do Quadril (DDQ)]]
+
+Esta nota nasceu no **adulto e no trauma** (colo do fêmur, escafoide, tálus). Na criança, a cabeça femoral necrosa por três caminhos diferentes — e cada um tem idade e contexto próprios.
+
+**Características específicas:**
+- **Idiopática — [[Doença de Legg-Calvé-Perthes|Perthes]]:** menino de 4–8 anos, claudicação com pouca dor. Mesma sequência desta nota (necrose → fratura subcondral → colapso), mas com **capacidade de remodelação**: a cabeça amolecida **contida** no acetábulo se remodela esférica. Prognóstico pela **idade de início** e pelo **pilar lateral de Herring** (Herring 2004). O "sinal do crescente" desta nota é o mesmo da fase inicial do Perthes.
+- **Pós-deslizamento — [[Epifisiólise Proximal do Fêmur (EPF)|epifisiólise]] instável:** o deslizamento brusco estira os **vasos retinaculares** do colo póstero-superior — necrose em **47% das instáveis × 0% das estáveis** (Loder 1993). Mais de um parafuso também se associa a necrose (AFP 2017).
+- **Iatrogênica — tratamento da [[Displasia do Desenvolvimento do Quadril (DDQ)|DDQ]]:** **abdução forçada** no [[Suspensório de Pavlik]] ou na redução fechada comprime os vasos; necrose agrupada de **5,1%** com o Pavlik (Merchant 2021).
+- **Também na criança:** artrite séptica do quadril (pressão intra-articular e destruição) e as causas secundárias da tabela acima (anemia falciforme, corticoide).
+
+**Relevância clínica:** no adulto, a necrose da cabeça femoral é quase sempre **pós-fratura** ou **corticoide/álcool**; na criança, pergunte **idade e contexto**: 4–8 anos sem causa = Perthes; adolescente obeso que parou de andar = epifisiólise instável; lactente em órtese = iatrogenia.
+**Fonte:** Loder RT et al. J Bone Joint Surg Am. 1993;75(8):1134-40. PMID 8354671 — https://doi.org/10.2106/00004623-199308000-00002 · Herring JA, Kim HT, Browne R. J Bone Joint Surg Am. 2004;86(10):2121-34. PMID 15466720 · Merchant R et al. Indian J Orthop. 2021;55(6):1417-1427. PMID 34785821 — https://doi.org/10.1007/s43465-021-00525-z · Peck DM et al. Am Fam Physician. 2017;95(12):779-784. PMID 28671425 *(citações confirmadas no PubMed)*
+
+---

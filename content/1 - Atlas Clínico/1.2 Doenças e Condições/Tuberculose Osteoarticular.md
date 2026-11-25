@@ -141,3 +141,14 @@ card: null
 ### ➕ Novas Anotações / Insights
 *- (Espaço livre para updates futuros)*
 -
+
+### 🔗 O par piogênica × Pott
+**Data:** 2026-11-15
+**Contexto:** [[Espondilodiscite]]
+
+- A espondilodiscite **piogênica** ganhou nota própria; o contraste com Pott está na Fisiopatologia e nos Pontos de Aprendizado de lá.
+- **Onde a IDSA 2015 encaixa o Pott:** em quadro **subagudo** com risco de TB, sugere PPD ou IGRA (fraca); se a cultura bacteriana da biópsia vier negativa, pedir **micobactérias e fungos** no material guardado (fraca). Em séries de áreas endêmicas, a TB respondeu por **9–32%** das osteomielites vertebrais (Grécia, Turquia).
+
+**Fonte:** IDSA 2015 — Berbari EF et al. Clin Infect Dis. 2015;61(6):e26-46. PMID 26229122 — https://doi.org/10.1093/cid/civ482
+
+---

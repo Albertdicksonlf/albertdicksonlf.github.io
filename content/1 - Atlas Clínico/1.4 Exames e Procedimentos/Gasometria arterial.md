@@ -82,3 +82,20 @@ tipo de exame: Laboratorial
 
 - Ordem prática de leitura: **FiO₂ → pH → PaCO₂ → HCO₃⁻ → PaO₂ → gradiente A-a → lactato**. Começar pela PaO₂ é o caminho mais rápido para errar o mecanismo.
 -
+
+### 🔗 Venosa × arterial na crise hiperglicêmica: quando a artéria não se justifica
+**Data:** 2026-11-15
+**Contexto:** [[Cetoacidose Diabética]] · [[Estado Hiperosmolar]] — deck da Osler
+
+**Características específicas:**
+- Na [[Cetoacidose Diabética|CAD]], o diagnóstico e o **acompanhamento** da acidose são feitos com **gasometria venosa**. O motivo é prático e decisivo: o controle é **a cada 2–4 h** até a resolução, e — nas palavras do próprio material-fonte — *"não há artéria que resista"*.
+- **A gasometria arterial tem uma indicação específica neste cenário: suspeita de hipoxemia.** Fora dela, a punção arterial repetida acrescenta dor, risco e custo sem mudar a conduta.
+- O que a venosa entrega e basta: **pH**, **HCO₃⁻**, **BE**, **pCO₂** (com a ressalva de ser venosa) e eletrólitos de triagem — sódio, potássio e cloreto — o que permite calcular o **ânion gap** e a **osmolaridade efetiva** à beira do leito.
+- **Equivalência prática:** o pH venoso corre cerca de 0,02–0,03 unidade **abaixo** do arterial e o HCO₃⁻ é praticamente sobreponível — diferença irrelevante para decidir conduta na CAD, mas que vale lembrar quando se compara uma gasometria venosa com um corte de diretriz escrito para arterial *(conhecimento consolidado)*.
+- ⚠️ **Pegadinha de fonte:** a diretriz da SBD coloca **gasometria arterial** na tabela de critérios da [[Cetoacidose Diabética Euglicêmica|CAD euglicêmica]], mas não repete essa exigência no texto. Na prática, a venosa é o que se usa.
+- **O potássio da gasometria não substitui o potássio sérico** antes de liberar a insulina (SBD) — ver [[Potássio Sérico]].
+
+**Relevância clínica:** a decisão não é "arterial é melhor". É que, num exame que vai se repetir seis vezes em 24 h, a via venosa é a única sustentável — e a arterial fica reservada à pergunta que só ela responde, que é a **oxigenação**.
+**Fonte:** UpToDate — "Diabetic ketoacidosis and hyperosmolar hyperglycemic state in adults: Clinical features, evaluation, and diagnosis" *(fonte citada no deck da Osler, consultada pelo Albert)* · SBD 2023, Diagnóstico e tratamento da Cetoacidose Diabética — https://diretriz.diabetes.org.br/diagnostico-e-tratamento-da-cetoacidose-diabetica/ · diferença pH venoso × arterial: conhecimento consolidado.
+
+---

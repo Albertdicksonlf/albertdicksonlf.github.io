@@ -4,7 +4,7 @@ date: 2026-08-30T12:42:00
   - Reumatologia
   - Clínica Médica
 tipo: Doença
-tipo de exame: 
+tipo de exame:
 tipo de doença: Metabólica
 classe de medicamentos:
 prevalência: Comum
@@ -12,7 +12,7 @@ aliases:
   - Artrite Gotosa
   - Gout
   - Podagra
-card: 
+card:
 ---
 
 # Gota
@@ -201,3 +201,46 @@ card:
 *- Completada em 2026-10-17 (Modo 4) no processamento de `Mono Artrite Aguda - Anotações`: diagnóstico pela fonte; tratamento pela ACR 2020, já que a fonte remete a um tópico separado de gota.*
 *- Texto puro proposital: tofos, febuxostate, probenecida, pegloticase, anacinra, canaquinumabe, TC de dupla energia.*
 -
+
+### 🔗 O deck da Osler: nomenclatura dos estágios, o eixo renal e a divergência prova × diretriz
+**Data:** 2026-11-15
+**Contexto:** deck "Gota" da Osler (3.3 Anotações - Osler) — 35 flashcards, todos ancorados no UpToDate; [[Alopurinol]] completada em Modo 4 na mesma rodada
+
+A nota já estava completa pela ACR 2020 (17/10). O deck acrescenta **nomenclatura**, o **eixo renal** e duas correções de conduta.
+
+**Os quatro estágios clássicos (nomes que caem em prova):**
+
+| Estágio | O que é |
+|---|---|
+| **Crise de gota** | Episódio súbito de inflamação articular e periarticular extremamente dolorosa |
+| **Gota intercrítica** | Intervalo entre crises, **assintomático** — mas a deposição de cristais **continua** se não houver hipouricemiante |
+| **Artrite gotosa crônica** | Inflamação persistente e repetitiva → erosões, deformidade, limitação funcional |
+| **Gota tofácea** | Estágio avançado: depósitos **macroscópicos** de urato em articulações, tecidos periarticulares e pele |
+
+- A sequência **crise → assintomático → crise** é tão incomum fora das artropatias por cristais (e do reumatismo palindrômico) que, por si, é **altamente sugestiva de gota**.
+- **Intercrítico assintomático ≠ doença parada.** É o argumento central para tratar o urato, e não apenas as crises.
+
+**Eixo renal da hiperuricemia crônica — duas complicações, não uma:**
+- **[[Nefrolitíase (cálculos renais)|Nefrolitíase]]** por cálculo de ácido úrico.
+- **Nefropatia crônica por urato** — deposição de cristais no **parênquima** renal, com inflamação crônica, fibrose e perda progressiva de função ([[Doença Renal Crônica|DRC]]). A nota citava só a litíase.
+
+**Detalhes de mecanismo que o deck precisa e a nota não tinha:**
+- **Tiazídico** eleva o urato por contração de volume **e redução da secreção tubular pelo transportador URAT1** — o "hipertenso em hidroclorotiazida com podagra" é o quadro de prova.
+- **Crise poliarticular** sugere **hiperuricemia secundária**: doença mieloproliferativa, imunossupressores. A gota primária é monoarticular na esmagadora maioria.
+- **Tofo** em processo inflamatório crônico pode se estender aos tecidos vizinhos e **simular dactilite** — mais um motivo para a artrite psoriásica estar nos diferenciais.
+- ✅ **A inferência do Albert está correta:** se a solubilidade do urato cai com a temperatura, isso explica **ao mesmo tempo** a preferência por articulações periféricas (mais frias) **e** o início noturno/de madrugada (temperatura periférica mais baixa durante o sono). As duas coisas são o mesmo mecanismo.
+
+> [!danger] ⚠️ Correções ao material-fonte (deck da Osler)
+> 1. **"Deve-se iniciar alopurinol durante a crise? Não — esperar 2 semanas após a resolução."** → **Essa não é a posição da diretriz.** A **ACR 2020 recomenda (condicional, certeza moderada) INICIAR o hipouricemiante DURANTE a crise**, em vez de esperar a resolução, uma vez tomada a decisão de tratar — o risco teórico de prolongar a crise não se confirmou, e esperar é a principal causa de o paciente nunca voltar para começar. O deck reconhece o ponto em nota de rodapé, mas responde "Não". **Leitura prática:** na prova de residência brasileira, a resposta esperada segue sendo "esperar"; na clínica, iniciar na crise é conduta apoiada por diretriz, **desde que com profilaxia anti-inflamatória**. ⛔ E, em quem **já usa**, nunca suspender durante a crise.
+> 2. **"Alopurinol — via de regra, prescrito 100 mg por dia."** → **100 mg/dia é a dose de INÍCIO, não a de manutenção** (ACR 2020, forte: começar com ≤ 100 mg/dia, ≤ 50 mg/dia na DRC ≥ 3). O que a diretriz recomenda com força é **titular a cada 2–5 semanas até urato < 6 mg/dL**; doses **> 300 mg/dia são frequentemente necessárias** (máximo da FDA: 800 mg/dia). Em **Stamp 2017**, escalonar acima da dose baseada no clearance levou **69% à meta contra 32%** de quem manteve a dose, **sem piora da função renal**. Prescrever 100 mg e não dosar o urato é tratamento que não trata. Detalhes em [[Alopurinol]].
+> 3. **"Meta < 5 mg/dL se há tofos"** → **divergência entre fontes, não erro.** O número é do UpToDate e da linha EULAR; a **ACR 2020 fixa um alvo único, < 6 mg/dL para todos**, e explicitamente **não estabelece limiares menores** para doença mais grave. Guardar as duas: < 6 é a meta de diretriz; < 5 é alvo razoável na doença tofácea.
+> 4. **"Neutrófilos: 10.000–100.000 na gota; no séptico, usualmente acima de 50.000."** → os intervalos **se sobrepõem** — a celularidade **não separa** gota de [[Artrite Séptica|artrite séptica]], e a gota pode cursar com líquido de faixa séptica. O próprio deck traz o correto em outro card: cristal no líquido **não exclui** infecção, e as duas coexistem. Por isso o mesmo tubo vai para **cristais + Gram + cultura + celularidade**.
+
+**Confirmações — o deck estava CORRETO:** solubilidade do urato cai com a temperatura (periferia e noite); hiperuricemia **necessária mas não suficiente** (limite de solubilidade ~6,8 mg/dL); a **minoria** dos hiperuricêmicos desenvolve gota; o risco correlaciona com o nível de urato, mas **não** com a intensidade dos sintomas; **nenhum tratamento farmacológico para hiperuricemia assintomática**; predomínio masculino na 4ª–5ª décadas e aumento na mulher após a menopausa (efeito uricosúrico do estrogênio); fatores de risco modificáveis (obesidade, álcool, hipertensão, DRC); tiazídico aumenta e **losartana** diminui o risco; **AAS cardioprotetor não se suspende**; gatilhos da crise (álcool, jejum/desidratação, trauma, internação, início do hipouricemiante) e crise desencadeada por AVC ou IAM no internado; pico da dor em **12–24 h**; resolução espontânea em dias a poucas semanas (referências de 5 a 14 dias); **1ª MTF (podagra)** e joelho como sítios mais comuns; cristais em **agulha com birrefringência negativa** fagocitados por neutrófilos; neutrófilo como célula predominante; **não dosar urato para diagnóstico na crise** (pode estar normal ou baixo); **ultrassom melhor que radiografia** na primeira crise, com o [[Sinal do Duplo Contorno|sinal do duplo contorno]]; radiografia útil só na fase crônica (erosão em **saca-bocado**, cistos subcondrais) — ✅ como o próprio Albert destacou; cristal no líquido **não exclui** séptica; microscopia negativa **não exclui** gota; pseudogota com cristais **romboides de birrefringência positiva** e **condrocalcinose**; AINE/corticoide/colchicina equivalentes na crise, com a escolha pela comorbidade; **naproxeno 500 mg 2×/dia** e **indometacina 50 mg 3×/dia**; colchicina 1,5–1,8 mg no 1º dia; mecanismo da colchicina pela tubulina; "remédio no bolso"; indicações de hipouricemiante (crises frequentes, tofos, dano estrutural, alto risco); **tofo trata-se com hipouricemiante** — e é indicação de iniciá-lo, como o Albert anotou; **profilaxia por 3–6 meses** ao iniciar, com preferência pela [[Colchicina|colchicina]]; e a razão da profilaxia, que o Albert registrou certo: **a própria queda do urato mobiliza depósitos e precipita crise**.
+
+**Pendência:** a afirmação do deck de que o sinal do duplo contorno tem "até 95% de precisão" **não foi conferida nesta sessão** — a literatura o descreve com especificidade alta e sensibilidade bem menor, e "precisão" mistura as duas. Ver [[Sinal do Duplo Contorno]].
+
+**Relevância clínica:** o deck é sólido no diagnóstico e desatualizado em dois pontos de conduta — **quando começar o hipouricemiante** e **qual é a dose de alopurinol**. Os dois erros empurram na mesma direção: tratar menos e mais tarde.
+**Fonte:** ACR 2020 — FitzGerald JD et al. Arthritis Care Res (Hoboken). 2020;72(6):744-760. PMID 32391934 — https://doi.org/10.1002/acr.24180 *(texto integral da diretriz)* · Stamp LK et al. Ann Rheum Dis. 2017;76(9):1522-1528. PMID 28314755 — https://doi.org/10.1136/annrheumdis-2016-210872 · ALL-HEART — Mackenzie IS et al. Lancet. 2022;400(10359):1195-1205. PMID 36216006 — https://doi.org/10.1016/S0140-6736(22)01657-9 *(citações confirmadas no PubMed)* · UpToDate "Gout: Pathophysiology", "Gout: Clinical manifestations and diagnosis", "Gout: Treatment of flares" e "Gout: Pharmacologic urate-lowering therapy and treatment of tophi" — *fontes citadas no deck, consultadas pelo Albert*
+
+---

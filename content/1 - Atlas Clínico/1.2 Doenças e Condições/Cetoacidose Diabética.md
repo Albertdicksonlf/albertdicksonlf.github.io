@@ -296,3 +296,57 @@ tipo de exame: null
 *- Removido o alias "Cetonemia": cetonemia é um exame, não sinônimo de CAD, e agora tem nota própria.*
 *- Os links-frase antigos da seção de pivôs foram removidos.*
 -
+
+### 🔗 O deck da Osler: mecanismos finos, a conta da bomba de insulina e 5 imprecisões
+**Data:** 2026-11-15
+**Contexto:** deck "Cetoacidose Diabética e Estado Hiperglicêmico Hiperosmolar" da Osler (3.3 Anotações - Osler), 99 cards; [[Edema Cerebral]] completada em Modo 4 na mesma rodada
+
+Esta nota já estava escrita pelo consenso ADA/EASD 2024 (13/10), e o deck — ancorado no UpToDate — não a desatualiza em nada. O que ele acrescenta é **mecanismo** e **prática de beira de leito**.
+
+#### Potássio: a conta que explica o paradoxo
+- **Distribuição na chegada:** ~**5% com hipocalemia**, ~**33% com hipercalemia**, ~**62% com potássio normal**. Ou seja: **o déficit corporal é a regra, o potássio sérico baixo é a exceção.**
+- Três forças tiram K⁺ da célula: a **acidose** (em menor grau), a **hiperosmolaridade** (concentra o intracelular pela desidratação celular) e a **falta de insulina**.
+- Mecanismo que faltava: **"solvent drag"** — a própria saída de água do intra para o extracelular, puxada pela hiperosmolaridade, **arrasta potássio com ela**.
+- E a perda corporal tem dois caminhos: a **diurese osmótica** e a **ativação do SRAA pela hipovolemia**, que troca sódio por potássio no túbulo distal. *(Os dois mecanismos foram os que o Albert destacou — e estão certos.)*
+
+#### Sódio: dilucional × pseudo-hiponatremia
+- **Hiponatremia dilucional (verdadeira):** a hiperglicemia puxa água do intra para o extracelular e **dilui** o sódio. É a regra na CAD — e é o que a fórmula do sódio corrigido desfaz.
+- **Pseudo-hiponatremia (artefato de medida):** sódio falsamente baixo por **hipertrigliceridemia** ou **hiperproteinemia** (a fase lipídica/proteica ocupa volume no plasma). ⚠️ Relevante porque a CAD **é** causa de hipertrigliceridemia grave — as duas podem coexistir.
+- *(A fórmula e os fatores 1,6 / 2,4 seguem na seção de pivôs desta nota. O UpToDate usa 2,0 como média — divergência de fator, não de conceito.)*
+
+#### Prática: as duas contas que o deck ensina bem
+- ⭐ **A diluição elegante da bomba:** **50 UI de insulina regular em 500 mL de SF 0,9%** → 10 mL = 1 UI. A 0,1 U/kg/h, a **velocidade em mL/h fica igual ao peso em kg**. Paciente de 80 kg → 8 UI/h → **80 mL/h**. *(Equivalente: 100 UI em 1.000 mL — a concentração é a mesma.)*
+- ⭐ **A expansão volêmica sozinha derruba a glicemia em ~50 mg/dL/h** — por diluição, por aumento da excreção renal, por queda dos hormônios de estresse e por melhora da perfusão (logo, da responsividade à insulina). Isso explica por que o volume vem **antes** da insulina na ordem de prioridades, e por que uma glicemia que cai na primeira hora não é prova de que a insulina está funcionando.
+- **Ordem de prioridades do atendimento:** (1) expansão volêmica → (2) avaliar e corrigir o potássio → (3) insulina → (4) tratar a causa base.
+
+#### Gasometria: por que venosa
+- A avaliação da acidose pode ser **venosa**, e deve ser: o paciente precisa de controle **a cada 2–4 h** e, como o próprio deck resume, *"não há artéria que resista"*.
+- **A gasometria arterial tem uma indicação específica: suspeita de hipoxemia.** Fora dela, não acrescenta — ver [[Gasometria arterial]]. *(Foi o que o Albert anotou: o que diferencia é a hipoxemia mesmo.)*
+
+#### Cetonúria: por que ela mente por mais tempo do que se pensa
+- Além da conversão de β-OHB em acetoacetato durante a melhora (já registrada nesta nota), há um segundo motivo: a **acetona é eliminada lentamente pelos pulmões e pode persistir até ~36 h após a resolução** da cetoacidose. A fita continua positiva num paciente já compensado.
+- **Falsos-positivos — a classe, não só os exemplos:** fármacos com grupo **sulfidrila** — [[Captopril|captopril]], **N-acetilcisteína**, **penicilamina** — e o **valproato**, cujo metabólito contém cetona.
+
+#### Rim e fosfato: os números pediátricos
+- Elevação de creatinina ocorre na **maioria** dos pacientes com hiperglicemia descontrolada, refletindo queda da TFG por hipovolemia — **43–64% das crianças**, e dentre essas, **33–65% com LRA estágio 2–3**, padrão sugestivo de **lesão tubular aguda** (não apenas pré-renal). Crianças que alteram a função renal na descompensação têm **maior risco futuro de nefropatia diabética**. *(O "IRA pré-renal né porra" do Albert está certo como regra — mas a fração com lesão tubular é maior do que a dicotomia sugere.)*
+- **Hipofosfatemia ocorre em ≥ 50% das crianças** com CAD — o que reforça a regra desta nota: repor só se < 1,0 mg/dL ou se houver repercussão.
+
+#### Faixas típicas de glicemia (descritivas, não critério)
+- **CAD:** costuma cursar entre **350 e 450 mg/dL**, e quase sempre **< 800**.
+- **EHH:** a hiperglicemia é muito mais expressiva — ver [[Estado Hiperosmolar]].
+
+> [!danger] ⚠️ Imprecisões do material-fonte (deck da Osler)
+> 1. **"Dor abdominal... de fato ocorre na cetoacidose, mas na minoria dos casos."** → **divergente da fonte vigente.** O consenso ADA/EASD 2024, que ancora esta nota, registra dor abdominal em **mais de 50%** dos casos, correlacionada com a gravidade da acidose. As séries variam (há relatos de ~46%), mas "minoria" subestima — e o ponto clínico que importa o deck acerta: **se a dor não melhora com a correção da acidose, procure causa abdominal real.**
+> 2. **"A osmolaridade normal é de 275 a 290 mOsm/L"**, dito a respeito da osmolaridade **efetiva** → **mistura duas coisas.** A faixa de 275–295 é da osmolaridade **total** (que inclui a ureia); a **efetiva** (2 × Na⁺ + glicemia/18) é por definição **menor**, em torno de 270–285. Usar a faixa da total para julgar a efetiva superestima a "normalidade" do paciente. *(Conhecimento consolidado.)*
+> 3. **"EHH costuma cursar com glicemia ≥ 1.000 mg/dL."** → **exagerado como regra.** O critério é **> 600 mg/dL** (SBD) e as séries têm média bem abaixo de 1.000. O conceito certo — hiperglicemia muito mais intensa que na CAD — fica preservado sem o número inflado.
+> 4. **Contradição interna na transição para SC:** um card diz *"manter a insulina EV por 1–2 horas após a 1ª dose SC"* e, duas linhas depois, *"interromper 2 a 4 horas após a injeção da subcutânea"*. → O valor correto é o **primeiro**: **1–2 h** de sobreposição (ADA 2024), sendo ~1 h para análogo rápido e 2 h para regular.
+> 5. **"Soro glicosado quando a glicemia atinge < 250 a 300 mg/dL."** → o **300 não tem respaldo**: ADA 2024 usa **< 250**; SBD, **200–250**. Começar em 300 expõe a hiperglicemia desnecessária sem ganho.
+> 6. **"Não se espera redução do nível de consciência na CAD."** → é a dicotomia didática CAD × EHH, útil, mas **não é absoluta**: a própria tabela de gravidade da ADA 2024 põe **torpor e coma** na CAD **grave**. Rebaixamento na CAD significa doença grave (ou complicação), não "diagnóstico errado".
+
+**Confirmações — e 4 atualizações que o próprio Albert pegou sozinho:** ✅ *"Ou 7 né, atualizou isso parece"* — correto: a SBD 2023 classifica a CAD grave por pH < 7,1, e a **ADA 2024 usa < 7,00**. ✅ *"Atualizou para 3.5"* — correto: o limiar de potássio para liberar a insulina é **3,3 na SBD** e **3,5 na ADA 2024**. ✅ *"Anion Gap Saiu, e Cetonemia APENAS"* — correto: o ânion gap **deixou de ser critério de resolução** na ADA 2024, porque a acidose hiperclorêmica do soro fisiológico o mantém alterado. ✅ *"A meta não é reduzir a glicemia. A meta é dar insulina"* — é exatamente a heurística central desta nota.
+**Também corretos no deck:** a tríade diagnóstica; ânion gap elevado por acúmulo de β-hidroxibutirato (ânion); a CAD **não** é acidose lática primária, mas pode somar lactato se houver choque; CAD no DM1 e jovem (18–44 anos) × EHH no DM2 e mais velho (45–65 e idosos); EHH em < 1% dos diabéticos; EHH instala em **dias** e CAD em **horas**; insulina residual explica a ausência de cetose no EHH (a lipólise é freada com pouca insulina); **descontinuar** a insulina é pior que usá-la erradamente; infecção como principal estresse precipitante (ITU e pneumonia à frente); **desidratação como precipitante específico do EHH** no idoso com sede prejudicada; leucocitose por estresse, com corte de 25.000 ou desvio > 10% para suspeitar de infecção; cetonemia melhor que cetonúria; expansão com SF 0,9% ou Ringer lactato a 15–20 mL/kg/h; NaCl 0,45% se hipernatremia; insulina só depois de conhecer o potássio, pelo risco de arritmia; 0,1 U/kg/h, com 0,05 em criança com CAD leve (pH > 7,15); meta de queda de 50–70 mg/dL/h; bicarbonato apenas em pH muito baixo (6,9 SBD / 7,0 ADA) e controverso; fosfato só se < 1 mg/dL, de preferência como fosfato de potássio; acidose hiperclorêmica na recuperação por excesso de SF e excreção de cetoânions; e **lesão cerebral como principal causa de óbito**.
+
+**Relevância clínica:** o deck não muda nenhuma conduta desta nota — mas dá duas coisas que faltavam para usar na beira do leito: **a diluição em que mL/h = peso** e o entendimento de que **a primeira queda de glicemia é do soro, não da insulina**. E a sexta confirmação dele (lesão cerebral como principal causa de morte) foi o que motivou completar [[Edema Cerebral]].
+**Fonte:** UpToDate — "Diabetic ketoacidosis and hyperosmolar hyperglycemic state in adults: Epidemiology and pathogenesis", "…: Clinical features, evaluation, and diagnosis" e "Diabetic ketoacidosis in adults: Treatment" / "Hyperosmolar hyperglycemic state in adults: Treatment" — *as três fontes citadas no deck, consultadas pelo Albert* · consenso ADA/EASD/JBDS/AACE/DTS 2024 — Umpierrez GE et al. Diabetes Care. 2024;47(8):1257-1275. PMID 39052901 — https://doi.org/10.2337/dci24-0032 *(já na lista de Referências desta nota)* · osmolaridade total × efetiva e pseudo-hiponatremia: conhecimento consolidado.
+
+---
